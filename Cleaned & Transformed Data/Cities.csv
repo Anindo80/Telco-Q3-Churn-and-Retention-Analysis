@@ -1,0 +1,7044 @@
+customer_id,city
+0002-ORFBO,"Frazier Park"
+0003-MKNFE,Glendale
+0004-TLHLJ,"Costa Mesa"
+0011-IGKFF,Martinez
+0013-EXCHZ,Camarillo
+0013-MHZWF,Midpines
+0013-SMEOE,Lompoc
+0014-BMAQU,Napa
+0015-UOCOJ,"Simi Valley"
+0016-QLJIS,Sheridan
+0017-DINOC,"Rancho Santa Fe"
+0017-IUDMW,Sunnyvale
+0018-NYROU,Antelope
+0019-EFAEP,"La Mesa"
+0019-GFNTW,"Los Olivos"
+0020-INWCK,Woodlake
+0020-JDNXP,"Point Reyes Station"
+0021-IKXGC,"San Marcos"
+0022-TCJCI,"Daly City"
+0023-HGHWL,"Morgan Hill"
+0023-UYUPN,Ahwahnee
+0023-XUOPT,"Carnelian Bay"
+0027-KWYKW,Alpaugh
+0030-FNXPP,Keeler
+0031-PVLZI,Korbel
+0032-PGELS,"Palomar Mountain"
+0036-IHMOT,Parlier
+0040-HALCW,Modesto
+0042-JVWOJ,"Glen Ellen"
+0042-RLHYP,Eureka
+0048-LUMLS,"Moss Beach"
+0048-PIHNL,"Los Angeles"
+0052-DCKON,"Los Angeles"
+0052-YNYOT,Calexico
+0056-EPFBG,Redding
+0057-QBUQH,"San Martin"
+0058-EVZWM,Stockton
+0060-FUALY,"Los Angeles"
+0064-SUDOG,"Huntington Park"
+0064-YIJGF,Yermo
+0067-DKWBL,"San Diego"
+0068-FIGTF,Fremont
+0071-NDAFP,"Santa Rosa"
+0074-HDKDG,"San Jose"
+0076-LVEPS,Tujunga
+0078-XZMHT,Visalia
+0080-EMYVY,Lodi
+0080-OROZO,"El Portal"
+0082-LDZUE,Calistoga
+0082-OQIQY,Farmington
+0083-PIVIK,Tulelake
+0089-IIQKO,Coleville
+0093-EXYQL,Ojai
+0093-XWZFY,"Desert Hot Springs"
+0094-OIFMO,"North Hollywood"
+0096-BXERS,Inverness
+0096-FCPUF,"Santa Rosa"
+0098-BOWSO,"San Jose"
+0100-DUVFC,Wilmington
+0103-CSITQ,Modesto
+0104-PPXDV,"San Diego"
+0106-GHRQR,"Rancho Palos Verdes"
+0106-UGRDO,Kenwood
+0107-WESLM,"West Point"
+0107-YHINA,"Los Angeles"
+0111-KLBQG,"Morongo Valley"
+0112-QAWRZ,"Palo Verde"
+0112-QWPNC,Valyermo
+0114-IGABW,Cambria
+0114-PEGZZ,"Round Mountain"
+0114-RSRRW,Klamath
+0115-TFERT,Fresno
+0117-LFRMW,Angwin
+0118-JPNOY,"Le Grand"
+0121-SNYRK,Redway
+0122-OAHPZ,"San Diego"
+0123-CRBRT,"Monterey Park"
+0125-LZQXK,"Big Oak Flat"
+0128-MKWSG,"Stevenson Ranch"
+0129-KPTWJ,"North Highlands"
+0129-QMPDR,"La Puente"
+0130-SXOUN,Glenhaven
+0133-BMFZO,Alhambra
+0134-XWXCE,"Santa Monica"
+0135-NMXAP,Lodi
+0136-IFMYD,"Los Angeles"
+0137-OCGAB,Fairfield
+0137-UDEUO,Stockton
+0139-IVFJG,Temecula
+0141-YEAYS,Fallbrook
+0142-GVYSN,Randsburg
+0147-ESWWR,Atascadero
+0148-DCDOS,Planada
+0151-ONTOV,Moorpark
+0156-FVPTA,Solvang
+0164-APGRB,Calistoga
+0164-XAIRP,"La Mirada"
+0168-XZKBB,Boron
+0174-QRVVY,"San Marcos"
+0177-PXBAT,"Desert Center"
+0178-CIIKR,"Crows Landing"
+0178-SZBHO,Tuolumne
+0181-RITDD,"San Diego"
+0186-CAERR,Auburn
+0187-QSXOE,Fresno
+0187-WZNAB,"Del Rey"
+0188-GWFLE,"Redwood City"
+0191-EQUUH,Landers
+0191-ZHSKZ,Hawthorne
+0193-ESZXP,Oceano
+0195-IESCP,Armona
+0196-JTUQI,Clarksburg
+0196-VULGZ,Irvine
+0197-PNKNK,"Scotts Valley"
+0201-MIBOL,Salida
+0201-OAMXR,Mckinleyville
+0203-HHYIJ,Atherton
+0206-OYVOC,"Huntington Beach"
+0206-TBWLC,Calimesa
+0207-MDKNV,"Daly City"
+0208-BPQEJ,Middletown
+0212-ISBBF,Berkeley
+0214-JHPFW,"Lost Hills"
+0215-BQKGS,"Garden Grove"
+0218-QNVAS,Indio
+0219-QAERP,Oxnard
+0219-YTZUE,"San Diego"
+0220-EBGCE,Escondido
+0221-NAUXK,"Moreno Valley"
+0221-WMXNQ,Chino
+0222-CNVPT,Sacramento
+0224-HJAPT,"San Diego"
+0224-NIJLP,Turlock
+0224-RLWWD,Calexico
+0225-ZORZP,Groveland
+0228-MAUWC,"Los Gatos"
+0229-LFJAF,Clovis
+0230-UBYPQ,Hyampom
+0230-WEQUW,"Woodland Hills"
+0231-LXVAP,Temecula
+0233-FTHAV,Livingston
+0234-TEVTT,Tulare
+0235-KGSLC,Buellton
+0236-HFWSV,Palmdale
+0237-YFUTL,"Midway City"
+0238-WHBIQ,Folsom
+0239-OXEXL,Oakland
+0244-LGNFY,"San Anselmo"
+0247-SLUJI,Duarte
+0248-IPDFW,"Lake Elsinore"
+0248-PGHBZ,"San Clemente"
+0253-ZTEOB,"Los Angeles"
+0254-FNMCI,Downey
+0254-KCJGT,"Bodega Bay"
+0254-WWRKD,Challenge
+0256-LTHVJ,Ludlow
+0257-KXZGU,"Santa Clara"
+0257-ZESQC,Perris
+0258-NOKBL,Fortuna
+0259-GBZSH,"San Diego"
+0260-ZDLGK,"San Dimas"
+0263-FJTQO,Rescue
+0264-CNITK,Clio
+0265-EDXBD,"San Diego"
+0265-PSUAE,Lotus
+0266-CLZKZ,"San Marcos"
+0266-GMEAO,Lompoc
+0268-QKIWO,"Pilot Hill"
+0269-XFESX,"San Francisco"
+0270-THENM,"Mission Hills"
+0274-JKUJR,"Los Angeles"
+0277-BKSQP,"Harbor City"
+0277-ORXQS,"San Francisco"
+0278-YXOOG,Inglewood
+0280-XJGEX,"Los Angeles"
+0281-CNTZX,Pescadero
+0282-NVSJS,Aromas
+0285-INHLN,Badger
+0289-IVARM,Parlier
+0292-WEGCH,"Death Valley"
+0295-PPHDO,"La Puente"
+0295-QVKPB,Riverdale
+0297-RBCSG,"San Francisco"
+0298-XACET,"Berry Creek"
+0301-FIDRB,Fulton
+0301-KOBTQ,Capitola
+0302-JOIVN,"San Diego"
+0303-UNCIP,Claremont
+0303-WMMRN,Glendale
+0305-SQECB,Gardena
+0306-JAELE,Fallbrook
+0307-BCOPK,"San Francisco"
+0308-GIQJT,"San Diego"
+0308-IVGOK,"Santa Ana"
+0310-MVLET,Snelling
+0310-SUCIN,Darwin
+0310-VQXAM,"San Bernardino"
+0311-QYWSS,Garberville
+0311-UNPFF,"Long Beach"
+0314-TKOSI,Upland
+0315-LVCRK,"El Dorado Hills"
+0318-QUUOB,"Santa Rosa"
+0318-ZOPWS,Malibu
+0319-QZTCO,"Santa Rosa"
+0320-DWVTU,Riverdale
+0320-JDNQG,Oxnard
+0322-CHQRU,Palmdale
+0322-YINQP,Covina
+0323-XWWTN,"San Lucas"
+0324-BRPCJ,Palmdale
+0325-XBFAC,Hoopa
+0326-VDYXE,"Long Beach"
+0327-WFZSY,Samoa
+0328-GRPMV,"Burnt Ranch"
+0329-GTIAJ,"Garden Grove"
+0330-BGYZE,Milford
+0330-IVZHA,Anderson
+0334-GDDSO,"San Diego"
+0334-ZFJSR,"San Diego"
+0336-KXKFK,"Santa Margarita"
+0336-PIKEI,Orange
+0337-CNPZE,"Los Angeles"
+0343-QLUZP,"San Jose"
+0345-HKJVM,"San Diego"
+0345-XMMUG,Ione
+0347-UBKUZ,"San Mateo"
+0348-SDKOL,"San Diego"
+0354-VXMJC,"Los Angeles"
+0354-WYROK,"San Francisco"
+0356-ERHVT,"Santa Cruz"
+0356-OBMAC,Winchester
+0357-NVCRI,"El Cajon"
+0361-HJRDX,"Sherman Oaks"
+0362-RAOQO,Norco
+0362-ZBZWJ,Thornton
+0363-QJVFX,"Lake Hughes"
+0363-SVHYR,Paramount
+0365-BZUWY,"San Juan Capistrano"
+0365-GXEZS,Copperopolis
+0365-TRTPY,Covina
+0366-NQSHS,Colusa
+0369-ZGOVK,Cypress
+0373-AIVNJ,Sacramento
+0374-AACSZ,Lancaster
+0374-FIUCA,Orange
+0374-IOEGQ,Gonzales
+0375-HVGXO,"Los Angeles"
+0376-OIWME,"San Ysidro"
+0376-YMCJC,Novato
+0377-JBKKT,Gilroy
+0378-CJKPV,"Oak Park"
+0378-NHQXU,"South San Francisco"
+0378-TOVMS,Vernalis
+0378-XSZPU,"San Jose"
+0379-DJQHR,Sunnyvale
+0380-NEAVX,"Newport Beach"
+0380-ZCSBI,"San Francisco"
+0383-CLDDA,Stanford
+0384-LPITE,"Los Angeles"
+0384-RVBPI,Turlock
+0386-CWRGM,"Beverly Hills"
+0388-EOPEX,Riverside
+0390-DCFDQ,"Los Alamitos"
+0392-BZIUW,Fresno
+0394-YONDK,Escondido
+0396-HUJBP,Gardena
+0396-UKGAI,Encinitas
+0396-YCHWO,Sacramento
+0397-GZBBC,"South Dos Palos"
+0397-ZXWQF,Orick
+0401-WDBXM,"San Jose"
+0402-CQAJN,"El Monte"
+0402-OAMEN,Spreckels
+0404-AHASP,"Beverly Hills"
+0404-SWRVG,"La Habra"
+0406-BPDVR,Visalia
+0407-BDJKB,"San Francisco"
+0409-WTMPL,Whittier
+0410-IPFTY,"Long Beach"
+0411-EZJZE,Stockton
+0412-UCCNP,Essex
+0415-MOSGF,"Los Gatos"
+0419-YAAPX,"Grass Valley"
+0420-BWTPW,"San Diego"
+0420-HLGXF,Visalia
+0420-TXVSG,"San Jose"
+0422-OHQHQ,Fresno
+0422-UXFAP,"San Diego"
+0423-UDIJQ,Snelling
+0426-TIRNE,Encino
+0428-AXXLJ,Bellflower
+0428-IKYCP,Sonora
+0430-IHCDJ,Highland
+0431-APWVY,Novato
+0432-CAJZV,Temecula
+0434-CSFON,"Los Angeles"
+0436-TWFFZ,"Long Beach"
+0439-IFYUN,Escondido
+0440-EKDCF,Herlong
+0440-MOGPM,Petaluma
+0440-QEXBZ,Mojave
+0440-UEDAI,Callahan
+0442-TDYUO,Bodega
+0442-ZXKVS,Denair
+0447-BEMNG,Wrightwood
+0447-RXSGD,Monterey
+0454-OKRCT,"Palo Alto"
+0455-ENTCR,Jamestown
+0455-XFASS,Campbell
+0458-HEUZG,Alderpoint
+0459-SPZHJ,"Garden Grove"
+0461-CVKMU,"Oak Run"
+0463-TXOAK,Madison
+0463-WZZKO,"Van Nuys"
+0463-ZSDNT,Escondido
+0464-WJTKO,Cedarville
+0468-YRPXN,Lomita
+0471-ARVMX,Kelseyville
+0471-LVHGK,Orangevale
+0475-RIJEP,Pinecrest
+0479-HMSWA,"San Clemente"
+0480-BIXDE,"Beale Afb"
+0480-KYJVA,Sacramento
+0481-SUMCB,Greenville
+0484-FFVBJ,"Fort Bragg"
+0484-JPBRU,Petaluma
+0485-ZBSLN,Mecca
+0486-HECZI,Torrance
+0486-LGCCH,Victorville
+0487-CRLZF,Poway
+0487-RPVUM,"Mount Hermon"
+0487-VVUVK,"Santa Barbara"
+0488-GSLFR,Taylorsville
+0489-WMEMG,Korbel
+0491-KAPQG,"Pine Valley"
+0495-RVCBF,"Santa Rosa"
+0495-ZBNGW,"Loma Mar"
+0496-AHOOK,Bangor
+0504-HHAPI,Guinda
+0505-SPOOW,Riverside
+0506-LVNGN,"Rancho Cordova"
+0506-YLVKJ,Sultana
+0508-OOLTO,"Fort Irwin"
+0508-SQWPL,"La Mesa"
+0511-JTEOY,"Canyon Dam"
+0512-FLFDW,"Palomar Mountain"
+0513-RBGPE,"Rancho Santa Fe"
+0515-YPMCW,"San Jose"
+0516-OOHAR,Topanga
+0516-QREYC,Capay
+0516-UXRMT,Oxnard
+0516-VRYBW,Stanton
+0516-WJVXC,Sacramento
+0519-DRGTI,Stockton
+0519-XUZJU,Felton
+0520-FDVVT,Lewiston
+0523-VNGTF,"Sun Valley"
+0524-IAVZO,Anza
+0526-SXDJP,Bell
+0529-ONKER,"Forest Ranch"
+0530-IJVDB,Jamul
+0531-XBKMM,Azusa
+0531-ZZJWQ,Fallbrook
+0533-BNWKF,"San Diego"
+0533-UCAAU,"Montgomery Creek"
+0536-ACXIP,Lodi
+0536-BGFMZ,Leggett
+0536-ESJEP,"Rough And Ready"
+0537-QYZZN,Petaluma
+0541-FITGH,Hornitos
+0547-HURJB,Dixon
+0549-CYCQN,Flournoy
+0550-DCXLH,Thermal
+0556-FJEGU,Lafayette
+0557-ASKVU,"Beverly Hills"
+0559-CKHUS,Pleasanton
+0562-FGDCR,Whitmore
+0562-HKHML,Alameda
+0562-KBDVM,Herald
+0564-JJHGS,Guerneville
+0564-MUUQK,"Imperial Beach"
+0565-IYCGT,"San Diego"
+0565-JUPYD,Benicia
+0567-GGCAC,Biola
+0567-XRHCU,"Los Angeles"
+0568-ONFPC,"San Francisco"
+0570-BFQHT,Anderson
+0572-ZJKLT,Chester
+0575-CUQOV,Hilmar
+0576-WNXXC,Parlier
+0577-WHMEV,"San Jose"
+0578-SKVMF,Seeley
+0580-PIQHM,Riverside
+0581-BXBUB,"Penn Valley"
+0581-MDMPW,"San Jose"
+0582-AVCLN,Bakersfield
+0584-BJQGZ,Taylorsville
+0585-EGDDA,Etna
+0587-DMGBH,Willows
+0594-UFTUL,Mather
+0595-ITUDF,Fairfax
+0596-BQCEQ,Hydesville
+0599-XNYDO,Graton
+0601-WZHJF,Shafter
+0602-DDUML,Fallbrook
+0603-OLQDC,Whittier
+0603-TPMIB,"San Simeon"
+0604-THJFP,"Castro Valley"
+0607-DAAHE,Olivehurst
+0607-MVMGC,Ranchita
+0608-JDVEC,Dunlap
+0611-DFXKO,Comptche
+0612-RTZZA,Vista
+0613-WUXUM,Soquel
+0616-ATFGB,"Shasta Lake"
+0617-AQNWT,"North Hills"
+0617-FHSGK,"Rancho Cordova"
+0618-XWMSS,Wasco
+0619-OLYUR,"Garden Grove"
+0620-DLSLK,Pasadena
+0620-XEFWH,"Oak Run"
+0621-CXBKL,Copperopolis
+0621-HJWXJ,Irvine
+0621-JFHOL,"North Hollywood"
+0621-TSSMU,Maywood
+0621-TWIEM,Newhall
+0623-EJQEG,Murphys
+0623-GDISB,"San Clemente"
+0623-IIHUG,"San Diego"
+0625-AFOHS,Ferndale
+0626-QXNGV,Arcata
+0628-CNQRM,Temecula
+0634-SZPQA,"San Anselmo"
+0635-WKOLD,Ceres
+0637-KVDLV,"Elk Grove"
+0637-UBJRP,Wilton
+0637-YLETY,"Douglas City"
+0639-TSIQW,"White Water"
+0640-YJTPY,Smartville
+0641-EVBOJ,Coarsegold
+0643-OKLRP,Azusa
+0644-OQMDK,Merced
+0650-BWOZN,Aguanga
+0654-HMSHN,Mojave
+0654-PQKDW,Pescadero
+0655-RBDUG,Alviso
+0655-YDGFJ,"Palm Springs"
+0657-DOGUM,"Rancho Cucamonga"
+0661-KBKPA,Seaside
+0661-KQHNK,"Round Mountain"
+0661-WCQNQ,Orleans
+0661-XEYAN,"Nevada City"
+0665-XHDJU,"Monte Rio"
+0666-UXTJO,"Morongo Valley"
+0667-NSRGI,Lodi
+0668-OGMHD,"Santa Rosa"
+0670-ANMUU,"Chino Hills"
+0670-KDOMA,Chowchilla
+0673-IGUQO,Phelan
+0674-DGMAQ,Elk
+0674-EYYZV,"Los Angeles"
+0674-GCDXG,Bakersfield
+0675-NCDYU,Placentia
+0678-RLHVP,"Redwood City"
+0679-IDSTG,Branscomb
+0679-TDGAK,Fresno
+0680-DFNNY,Winters
+0682-USIXD,"Diamond Bar"
+0684-AOSIH,"Oro Grande"
+0685-MLYYM,"Buena Park"
+0687-ZVTHB,Richmond
+0689-DSXGL,Yreka
+0689-NKYLF,"Los Angeles"
+0690-SRQID,Stockton
+0691-IFBQW,Biola
+0691-JVSYA,Pasadena
+0691-NIKRI,Elverta
+0696-UKTOX,"North Hills"
+0697-ZMSWS,"Los Angeles"
+0699-NDKJM,"Westlake Village"
+0701-RFGFI,"La Mesa"
+0701-TJSEF,"Santa Barbara"
+0702-PGIBZ,"Dutch Flat"
+0704-VCUMB,"San Diego"
+0707-HOVVN,"Mi Wuk Village"
+0708-LGSMF,Milpitas
+0708-SJDIS,"West Hollywood"
+0709-TVGUR,Stockton
+0716-BQNDX,Madera
+0719-SYFRB,Norco
+0722-SVSFK,"Half Moon Bay"
+0722-TROQR,Davis
+0723-DRCLG,Fallbrook
+0723-FDLAY,"Gold Run"
+0723-VSOBE,"Dos Rios"
+0725-CXOTM,Manteca
+0727-BMPLR,Fresno
+0727-BNRLG,"Los Angeles"
+0727-IWKVK,Yermo
+0730-BGQGF,"Grover Beach"
+0730-KOAVE,"Redwood City"
+0731-EBJQB,Downey
+0732-OCQOC,"Death Valley"
+0733-VUNUW,"San Francisco"
+0734-OXWBT,Covina
+0739-UUAJR,"Mountain View"
+0742-LAFQK,Fullerton
+0742-MOABM,Fallbrook
+0742-NXBGR,Adin
+0743-HNPFG,"Butte City"
+0743-HRVFF,Bakersfield
+0744-BIKKF,Mecca
+0744-GKNGE,Inglewood
+0746-JTRFU,Kingsburg
+0748-RDGGM,Tarzana
+0749-IRGQE,"Buena Park"
+0750-EBAIU,Temecula
+0750-EKNGL,Hyampom
+0754-EEBDC,Covina
+0754-UKWQP,Cool
+0756-MPZRL,"Pauma Valley"
+0757-WCUUZ,"June Lake"
+0761-AETCS,Colton
+0769-MURVM,"Carmel Valley"
+0771-CHWSK,Brawley
+0771-WLCLA,"Big Bear Lake"
+0772-GYEQQ,Lodi
+0774-IFUVM,Stockton
+0774-RMNUW,Pala
+0778-NELLA,Anaheim
+0780-XNZFN,Oakland
+0781-LKXBR,"San Francisco"
+0784-GTUUK,Newman
+0784-ZQJZX,Spreckels
+0786-IVLAW,"Valley Village"
+0786-VSSUD,"San Diego"
+0787-LHDYT,"Carmel Valley"
+0788-DXBFY,Tustin
+0793-TWELN,"Los Angeles"
+0794-YVSGE,Pasadena
+0795-GMVQO,"San Diego"
+0795-LAFGP,Fullerton
+0795-XCCTE,Bishop
+0799-DDIHE,Grenada
+0804-XBFBV,"Foothill Ranch"
+0804-YGEQV,"Palm Desert"
+0807-ZABDG,Woodland
+0810-BDHAW,Chowchilla
+0810-DHDBD,"Rohnert Park"
+0811-GSDTP,Alameda
+0812-WUPTB,"Corona Del Mar"
+0813-TAXXS,Alderpoint
+0815-MFZGM,"Morgan Hill"
+0816-TSPHQ,"Kettleman City"
+0817-HSUSE,Altadena
+0818-OCPZO,"Los Angeles"
+0820-FNRNX,Lafayette
+0822-GAVAP,Posey
+0822-QGCXA,"Los Angeles"
+0823-HSCDJ,Temecula
+0824-VWDPO,Mckinleyville
+0825-CPPQH,Laytonville
+0827-ITJPH,"Los Angeles"
+0829-DDVLK,Orange
+0829-XXPLX,Cutler
+0831-JNISG,"San Jose"
+0835-DUUIQ,Alameda
+0835-JKADZ,"San Francisco"
+0836-SEYLU,"San Diego"
+0839-JTCUD,"Mission Viejo"
+0839-QNXME,Surfside
+0840-DCNZE,"Newport Beach"
+0840-DFEZH,"Los Angeles"
+0841-NULXI,Stockton
+0842-IWYCP,Helendale
+0843-WTBXE,"San Diego"
+0847-HGRML,"North Palm Springs"
+0848-SOMKO,"Shingle Springs"
+0848-ZGQIJ,Saratoga
+0851-DFJKB,Concord
+0853-NWIFK,Woodacre
+0853-TWRVK,"North Hollywood"
+0854-UYHZD,"West Covina"
+0856-NAOES,Concord
+0859-YGKFW,Olivehurst
+0862-PRCBS,"San Francisco"
+0864-FVJNJ,Trinidad
+0866-QLSIR,"Garden Grove"
+0867-LDTTC,Sacramento
+0867-MKZVY,Altadena
+0868-VJRDR,Cassel
+0869-PAPRP,Pixley
+0870-VEMYL,Columbia
+0871-OPBXW,Escondido
+0871-URUWO,"Sheep Ranch"
+0872-CASZJ,"Hamilton City"
+0872-JCPIB,Pinecrest
+0872-NXJYS,"West Hollywood"
+0875-CABNR,"San Luis Obispo"
+0876-WDUUZ,"Pine Grove"
+0877-SDMBN,"San Diego"
+0880-FVFWF,Livermore
+0880-TKATG,"Lucerne Valley"
+0883-EIBTI,Clarksburg
+0885-HMGPY,Honeydew
+0886-QGENL,"San Diego"
+0887-HJGAR,Coalinga
+0887-WBJVH,Cressey
+0895-DQHEW,Burney
+0895-LMRSF,"Imperial Beach"
+0895-LNKRC,"El Monte"
+0895-UADGO,"River Pines"
+0897-FEGMU,"Los Angeles"
+0898-XCGTF,"Los Angeles"
+0899-LIIBW,"Forks Of Salmon"
+0899-WZRSD,"Marina Del Rey"
+0902-RFHOF,Loomis
+0902-XKXPN,Redding
+0906-QVPMS,Monterey
+0907-HQNTS,Pittsburg
+0909-SDHNU,"Los Angeles"
+0909-SELIE,"Clearlake Oaks"
+0913-XWSCN,"Sun City"
+0916-KNFAJ,"San Jose"
+0916-QOFDP,Randsburg
+0917-EZOLA,Lakewood
+0921-OHLVP,Paradise
+0923-PNFUB,"Westlake Village"
+0924-BJCRC,Felton
+0925-VYDLG,Ludlow
+0927-CNGRH,Alta
+0927-LCSMG,"San Jose"
+0928-JMXNP,"Los Molinos"
+0928-XUTSN,Brawley
+0929-HYQEW,Oakland
+0929-PECLO,Klamath
+0930-EHUZA,Calpine
+0931-MHTEM,"Big Bar"
+0932-YIXYU,"Dos Palos"
+0936-NQLJU,"Mokelumne Hill"
+0939-EREMR,Chico
+0939-YAPAF,"Santa Ana"
+0940-OUQEC,Winters
+0942-KOWSM,Hesperia
+0943-ZQPXH,Vacaville
+0945-TSONX,Encino
+0946-CLJTI,Palmdale
+0946-FKYTX,Tulare
+0947-IDHRQ,"Woodland Hills"
+0947-MUGVO,Jolon
+0952-KMEEH,"Mountain View"
+0953-LGOVU,Clearlake
+0956-ACVZC,Novato
+0956-SYCWG,"Agoura Hills"
+0958-YHXGP,Oakland
+0959-WHOKV,Covina
+0960-HUWBM,"Pleasant Grove"
+0961-ZWLVI,"Rancho Cordova"
+0962-CQPWQ,Alameda
+0963-ZBDRN,Claremont
+0967-BMLBD,Hornitos
+0968-GSIKN,"Thousand Palms"
+0969-RGKCU,"Woodland Hills"
+0970-ETWGE,Bodfish
+0970-QXPXW,Monrovia
+0971-QIFJK,Soquel
+0973-KYVNF,Castaic
+0975-UYDTX,Glendale
+0975-VOOVL,"Agoura Hills"
+0979-MOZQI,Monterey
+0979-PHULV,"San Diego"
+0980-FEXWF,Fiddletown
+0980-PVMRC,"Squaw Valley"
+0983-TATYJ,"Santa Ynez"
+0988-AADSA,Forbestown
+0988-JRWWP,Wilseyville
+0991-BRRFB,Corona
+0993-OSGPT,"Junction City"
+0997-YTLNY,Escondido
+0999-QXNSA,"Los Angeles"
+1000-AJSLD,"San Diego"
+1004-NOZNR,"Glen Ellen"
+1009-IRMNA,"Port Hueneme"
+1010-DIAUQ,"San Diego"
+1013-QCWAM,"Garden Grove"
+1015-JPFYW,Clements
+1015-OWJKI,Lawndale
+1016-DJTSV,Santee
+1017-FBQMM,Acampo
+1020-JPQOW,Angwin
+1022-RKXDR,"South El Monte"
+1023-BQXZE,Stockton
+1024-GUALD,Glendale
+1024-KPRBB,"San Diego"
+1024-VRZHF,"San Diego"
+1025-FALIX,Nicolaus
+1027-LKKQQ,Plymouth
+1028-FFNJK,Burbank
+1029-QFBEN,"San Diego"
+1031-IIDEO,"Sierra City"
+1032-MAELW,Fresno
+1035-IPQPU,"Parker Dam"
+1036-GUDCL,"Oak Park"
+1038-RQOST,Zenia
+1038-ZAGBI,Fresno
+1041-RXHRA,Guatay
+1042-HFUCW,Cobb
+1043-UXOVO,Sacramento
+1043-YCUTE,Hayward
+1045-LTCYT,"San Jose"
+1047-NNCBF,"San Jose"
+1047-RNXZV,Glendale
+1049-FYSYG,Temecula
+1051-EQPZR,Stanford
+1051-GEJLJ,"San Gregorio"
+1052-QJIBV,Colfax
+1053-MXTTK,"North Hollywood"
+1057-FOGLZ,Calimesa
+1060-ENTOF,"Los Angeles"
+1061-PNTHC,Encinitas
+1062-LHZOD,"San Diego"
+1063-DHQJF,Whittier
+1064-FBXNK,Sacramento
+1066-JKSGK,"Los Angeles"
+1069-QJOEE,Hayward
+1069-XAIEM,Mendocino
+1073-XXCZD,Bakersfield
+1074-AMIOH,"San Francisco"
+1074-WVEVG,"Los Angeles"
+1075-BGWOH,Rosemead
+1077-HUUJM,"Rancho Cucamonga"
+1078-TDCRN,"Agoura Hills"
+1080-BWSYE,Irvine
+1084-MNSMJ,"El Dorado"
+1084-UQCHV,"Angelus Oaks"
+1085-LDWAM,Portola
+1086-LXKFY,Westwood
+1087-GRUYI,"San Diego"
+1087-UDSIH,Concord
+1088-AUUZZ,"Shaver Lake"
+1088-CNNKB,Campbell
+1089-HDMKP,Bridgeport
+1089-XZWHH,"Lee Vining"
+1090-ESELR,Fawnskin
+1090-PYKCI,Boonville
+1091-SOZGA,"La Palma"
+1092-GANHU,Magalia
+1092-WPIVQ,"French Gulch"
+1093-YSWCA,Corona
+1094-BKOSX,Coleville
+1095-JUDTC,Woodbridge
+1095-WGNGG,"San Pedro"
+1096-ADRUX,Placentia
+1097-FSPVW,Pioneertown
+1098-KFQEC,Encino
+1098-TDVUQ,"Spring Valley"
+1099-BTKWT,"Mission Viejo"
+1099-GODLO,Berkeley
+1100-DDVRV,"Twain Harte"
+1101-SSWAG,Berkeley
+1104-FEJAM,Richgrove
+1104-TNLZA,"Klamath River"
+1106-HRLKZ,Oakley
+1110-KYLGQ,Campbell
+1112-CUNAO,Grimes
+1113-IUJYX,Winnetka
+1114-CENIM,"San Jacinto"
+1116-DXXDF,"Porter Ranch"
+1116-FRYVH,Kingsburg
+1120-BMWUB,"Los Angeles"
+1121-QSIVB,Bakersfield
+1122-JWTJW,Ocotillo
+1122-YJBCS,"Los Angeles"
+1125-SNVCK,"Los Angeles"
+1131-ALZWV,"San Lorenzo"
+1131-QQZEB,"Sunset Beach"
+1131-SUEKT,Hood
+1133-KXCGE,Palmdale
+1134-YWTYF,Fresno
+1135-HIORI,Byron
+1135-LMECX,"Moreno Valley"
+1136-XGEQU,Winchester
+1137-DGOWI,Coachella
+1139-WUOAH,Vallecito
+1140-UKVZG,Farmersville
+1142-IHLOO,"San Diego"
+1142-WACZW,Chico
+1143-NMNQJ,"Boulder Creek"
+1150-FTQGN,"Oregon House"
+1150-WFARN,Brawley
+1153-GNOLC,"Santa Ana"
+1154-HYWWO,"San Clemente"
+1156-ZFYDO,Glendale
+1157-BQCUW,"Fall River Mills"
+1159-WFSGR,"South Pasadena"
+1162-ECVII,Fresno
+1163-ONYEY,Shoshone
+1163-VIPRI,Garberville
+1166-PQLGG,"Redwood City"
+1167-OYZJF,"Santa Monica"
+1169-SAOCL,Brookdale
+1169-WCVAK,Fresno
+1170-SASML,"Desert Hot Springs"
+1171-TYKUR,"Los Angeles"
+1172-VIYBP,"Cathedral City"
+1173-NOEYG,"Santa Margarita"
+1173-XZPYF,Torrance
+1174-FGIFN,"Squaw Valley"
+1177-XZBJL,Palermo
+1178-PZGAB,"Sun City"
+1179-INLAT,"Santa Clara"
+1183-CANVH,Escondido
+1184-PJVDB,"Amador City"
+1187-WILMM,Lindsay
+1193-RTSLK,"Happy Camp"
+1194-BHJYC,Lockwood
+1194-HVAIF,"Capistrano Beach"
+1194-SPVSP,Soquel
+1195-OIYEJ,"La Puente"
+1196-AMORA,"Big Creek"
+1197-BVMVG,Friant
+1200-TUZHR,Posey
+1202-KKGFU,Korbel
+1205-WNWPJ,Lakehead
+1206-EHBDD,Rodeo
+1207-BLKSA,"Redwood City"
+1208-DNHLN,"Grizzly Flats"
+1208-NBVFH,Perris
+1209-VFFOC,Brisbane
+1212-GLHMD,"San Joaquin"
+1213-NGCUN,"San Diego"
+1215-EXRMO,"Junction City"
+1215-FIGMP,"Los Angeles"
+1215-VFYVK,Groveland
+1216-BGTSP,Imperial
+1216-JWVUX,"San Miguel"
+1217-VASWC,"Avila Beach"
+1218-VKFPE,Anaheim
+1219-NNDDO,"Los Angeles"
+1221-GHZEP,Hemet
+1222-KJNZD,"Palos Verdes Peninsula"
+1222-LRYKO,Posey
+1223-UNPKS,Wendel
+1226-IENZN,"Los Angeles"
+1226-JZNKR,"Santa Ynez"
+1226-UDFZR,Lafayette
+1227-UDMZR,Fremont
+1228-FZFRV,"Los Angeles"
+1228-ZLNBX,Farmington
+1229-RCALF,"San Jose"
+1230-QAJDW,"Somes Bar"
+1231-YNDEK,Redding
+1236-WFCDV,Greenbrae
+1237-WIYYZ,"Los Angeles"
+1240-HCBOH,Windsor
+1240-KNSEZ,"San Diego"
+1241-EZFMJ,Ontario
+1241-FPMOF,"Seal Beach"
+1245-HARPS,Janesville
+1247-QBVSH,"Santa Margarita"
+1248-DYXUB,"Lemon Grove"
+1251-KRREG,"North Hollywood"
+1251-STYSZ,Glenhaven
+1254-IZEYF,Cutler
+1257-SXUXQ,Jenner
+1258-YMZNM,Montara
+1260-TTRXI,Planada
+1261-FWTTE,"Los Angeles"
+1262-OPMFY,"San Diego"
+1264-BYWMS,"La Grange"
+1264-FUHCX,"San Diego"
+1265-BCFEO,Alamo
+1265-HVPZB,Winnetka
+1265-XTECC,Madera
+1265-ZFOSD,Stonyford
+1266-NZYUI,"Lee Vining"
+1268-ASBGA,"Huntington Park"
+1269-FOYWN,Phillipsville
+1270-XKUCC,"San Diego"
+1271-SJBGZ,"Forest Knolls"
+1271-UODNO,"San Jose"
+1272-ILHFG,"La Habra"
+1273-MTETI,"Rancho Cucamonga"
+1282-IHQAC,"Sheep Ranch"
+1285-OKIPP,"Mission Hills"
+1291-CUOCY,Yorkville
+1293-BSEUN,Volcano
+1293-HHSHJ,Montrose
+1297-VQDRP,"Foothill Ranch"
+1298-PHBTI,"Los Angeles"
+1299-AURJA,"Twain Harte"
+1301-LOPVR,"North Hollywood"
+1302-TPUBN,"West Sacramento"
+1302-UHBDD,"Ladera Ranch"
+1303-SRDOK,"Rio Dell"
+1304-BCCFO,Redlands
+1304-NECVQ,Somis
+1304-SEGFY,"National City"
+1306-RPWXZ,"Mc Farland"
+1307-ATKGB,"Santa Clara"
+1307-TVUFB,"Santa Ynez"
+1309-BXVOQ,"Old Station"
+1309-XGFSN,"Pinon Hills"
+1310-QRITU,Hinkley
+1319-YLZJG,"Dutch Flat"
+1320-GVNHT,Glendale
+1320-HTRDR,Fellows
+1320-REHCS,Inglewood
+1322-AGOQM,Mather
+1323-OOEPC,Prather
+1324-NLTJE,Emeryville
+1325-USMEC,Pearblossom
+1328-EUZHC,Carson
+1329-VHWNP,"Grover Beach"
+1333-PBMXB,"Santa Ana"
+1334-FJSVR,"Sequoia National Park"
+1334-PDUKM,"Palomar Mountain"
+1335-HQMKX,"Los Angeles"
+1335-MXCSE,Shoshone
+1335-NTIUC,Pacoima
+1336-EZFZY,"Kings Beach"
+1337-BOZWO,Canby
+1338-CECEE,"Mount Hermon"
+1342-JPNKI,"Lake Forest"
+1343-EHPYB,"San Diego"
+1345-GKDZZ,Riverside
+1345-ZUKID,Magalia
+1346-PJWTK,Corona
+1346-UFHAX,Woodbridge
+1347-KTTTA,"Canyon Country"
+1349-WXNGG,Glendale
+1352-HNSAW,"Aliso Viejo"
+1352-VHKAJ,Berkeley
+1353-GHZOS,"San Diego"
+1353-LJWEM,Cottonwood
+1354-YZFNB,"Mad River"
+1355-KUSBG,"Fall River Mills"
+1356-MKYSK,"Castro Valley"
+1357-BIJKI,"Mission Viejo"
+1357-MVDOZ,Firebaugh
+1360-JYXKQ,"South Gate"
+1360-RCYRT,"Forest Knolls"
+1360-XFJMR,Washington
+1363-TXLSL,"San Lucas"
+1370-GGAWX,"Beverly Hills"
+1371-DWPAZ,Redcrest
+1371-OJCEK,Standish
+1371-WEPDS,Chowchilla
+1373-ORVIZ,Modesto
+1374-DMZUI,"San Ramon"
+1376-HHBDV,"Santa Monica"
+1379-FRVEB,"San Bernardino"
+1383-EZRWL,"Long Beach"
+1384-RCUXW,"French Gulch"
+1385-TQOZW,Branscomb
+1386-ZIKUV,Glenhaven
+1389-CXMLU,Downey
+1389-WNUIB,"San Diego"
+1391-UBDAR,Riverside
+1393-IMKZG,Fullerton
+1394-SUIUH,"Mount Shasta"
+1395-OFUWC,"Los Angeles"
+1395-WSWXR,Weldon
+1396-QWFBJ,"Rancho Santa Margarita"
+1397-XKKWR,"San Jose"
+1399-OUPJN,Bellflower
+1399-UBQIU,Orange
+1400-MMYXY,Alhambra
+1400-WIVLL,Oakdale
+1401-FTHFQ,"Culver City"
+1402-PTHGN,"Elk Grove"
+1403-GYAFU,Irvine
+1403-LKLIK,"Olympic Valley"
+1406-PUQVY,Madison
+1407-DIGZV,Redding
+1409-PHXTF,"Lemon Grove"
+1410-RSCMR,Edwards
+1414-YADCW,"Deer Park"
+1415-YFWLT,"Shaver Lake"
+1421-HCERK,Lakeshore
+1422-DGUBX,Sacramento
+1423-BMPBQ,Anaheim
+1427-VERSM,Shasta
+1428-GTBJJ,Jenner
+1428-IEDPR,Sacramento
+1429-UYJSV,"San Jose"
+1430-SFQSA,Stockton
+1431-AIDJQ,"Walnut Creek"
+1431-CYWMH,"Fish Camp"
+1432-FPAXX,"Beale Afb"
+1436-ZMJAN,Gerber
+1439-LCGVL,"Los Angeles"
+1442-BQPVU,"Culver City"
+1442-OKRJE,"Los Angeles"
+1444-VVSGW,"Los Molinos"
+1447-GIQMR,"Los Angeles"
+1447-PJGGA,"San Diego"
+1448-CYWKC,Coronado
+1448-PWKYE,Shafter
+1449-XQEMT,Susanville
+1450-GALXR,Friant
+1450-SKCVI,"Del Mar"
+1452-KIOVK,"Los Angeles"
+1452-UZOSF,Guerneville
+1452-VOQCH,Hinkley
+1452-XRSJV,Oakland
+1453-RZFON,"Cantua Creek"
+1455-ESIQH,Oakland
+1455-HFBXA,"Bethel Island"
+1455-UGQVH,Acampo
+1456-TWCGB,Bakersfield
+1459-QNFQT,"San Jose"
+1460-UZPRJ,Heber
+1465-LNTLJ,"Santa Barbara"
+1465-VINDH,"Los Angeles"
+1465-WCZVT,Badger
+1468-DEFNC,"San Jose"
+1469-LBJQJ,Victorville
+1470-PSXNM,"San Diego"
+1471-GIQKQ,Niland
+1472-TNCWL,"El Sobrante"
+1474-JUWSM,Lynwood
+1475-VWVDO,"Dos Palos"
+1478-VPOAD,Calpine
+1480-BKXGA,Mentone
+1480-IVEVR,Montara
+1481-ZUWZA,Klamath
+1482-OXZSY,Freedom
+1485-YDHMM,"San Ardo"
+1488-PBLJN,"San Diego"
+1488-SYSFC,Arcadia
+1492-KGETH,Ojai
+1492-QGCLU,"San Diego"
+1493-AMTIE,Ivanhoe
+1494-EJZDW,Nice
+1496-GGSUK,Fulton
+1498-DQNRX,Westwood
+1498-NHTLT,"Citrus Heights"
+1501-SGHBW,Guatay
+1502-XFCVR,"Los Angeles"
+1506-YJTYT,Oakley
+1508-DFXCU,Riverside
+1513-XNPPH,"Los Angeles"
+1518-OMDIK,"Rohnert Park"
+1518-VOWAV,Fallbrook
+1522-VVDMG,Oakland
+1525-LNLOJ,Bakersfield
+1527-SXDPN,"San Diego"
+1530-ZTDOZ,"Studio City"
+1534-OULXE,Atherton
+1535-VTJOQ,Thornton
+1536-HBSWP,"Terra Bella"
+1536-YHDOE,"Round Mountain"
+1539-LNKHM,"Orange Cove"
+1541-ETJZO,Wheatland
+1543-LLLFT,Waterford
+1544-JJMYL,"San Jose"
+1545-ACTAS,"West Covina"
+1545-JFUML,"San Diego"
+1548-ARAGG,"Cedar Glen"
+1548-FEHVL,Weed
+1550-EENBN,Concord
+1550-LOAHA,Orangevale
+1552-AAGRX,Visalia
+1552-CZCLL,Descanso
+1552-TKMXS,Fresno
+1555-DJEQW,Cupertino
+1555-HAPSU,Fresno
+1557-EMYVT,Tecate
+1559-DTODC,"Santa Barbara"
+1561-BWHIN,Maywood
+1563-IWQEX,"Chula Vista"
+1564-HJUVY,Modesto
+1564-NTYXF,"San Marcos"
+1565-RHDJD,"Palo Cedro"
+1567-DSCIC,"San Mateo"
+1568-BEKZM,"Baldwin Park"
+1568-LJSZU,"Harbor City"
+1569-TTNYJ,Richmond
+1571-SAVHK,"Meadow Vista"
+1573-LGXBA,Soledad
+1574-DYCWE,Escondido
+1575-KRZZE,Murphys
+1576-PFZIW,Bakersfield
+1577-HKTFG,"Elk Grove"
+1579-KLYDT,Hickman
+1580-BMCMR,Tehachapi
+1582-RAFML,Sacramento
+1583-IHQZE,Camarillo
+1585-MQSSU,"Santa Rosa"
+1587-FKLZB,"Santa Barbara"
+1589-AGTLK,"San Diego"
+1591-MQJTP,"Long Beach"
+1591-NFNLQ,Fallbrook
+1591-XWLGB,"El Cajon"
+1596-BBVTG,"San Dimas"
+1596-OQSPS,Pasadena
+1597-FZREH,Shoshone
+1597-LHYNC,Auburn
+1599-EAHXY,"Gold Run"
+1599-MMYRQ,Forestville
+1600-DILPE,Richvale
+1602-IJQQE,Whittier
+1608-GMEWB,Stockton
+1612-EOHDH,Pacoima
+1614-JBEBI,Georgetown
+1618-CFHME,Riverbank
+1619-YWUBB,Avery
+1621-YNCJH,Sacramento
+1622-HSHSF,Biggs
+1623-NLDOT,Lancaster
+1624-NALOJ,"North Hollywood"
+1624-WOIWJ,Nicasio
+1625-JAIIY,Torrance
+1626-ERCMM,"Camp Nelson"
+1627-AFWVJ,"Tahoe Vista"
+1628-BIZYP,Brentwood
+1629-DQQVB,Keeler
+1635-FJFCC,Acton
+1635-HDGFT,Manton
+1635-NZATJ,Alameda
+1636-NTNCO,"Valley Village"
+1640-PLFMP,"Los Angeles"
+1641-BYBTK,Stockton
+1641-RQDAY,Wallace
+1642-HMARX,Topanga
+1644-IRKSF,"La Palma"
+1656-DRSMG,Chico
+1657-DYMBM,Temecula
+1658-BYGOY,"Los Angeles"
+1658-TJVOA,Cazadero
+1658-XUHBX,Modesto
+1660-HSOOQ,"Santa Barbara"
+1661-CZBAU,Carlotta
+1663-MHLHE,Duarte
+1666-JXLKU,"Shingle Springs"
+1666-JZPZT,"Twin Bridges"
+1670-SVOWZ,"Mira Loma"
+1676-MQAOA,"North Hollywood"
+1678-FYZOW,Sacramento
+1679-JRFBR,"Long Beach"
+1680-VDCWW,"Los Angeles"
+1682-VCOIO,Sacramento
+1684-FLBGS,"San Diego"
+1685-BQULA,"La Quinta"
+1685-VAYJF,Salinas
+1686-STUHN,Creston
+1689-MRZQR,Turlock
+1689-YQBYY,"Los Gatos"
+1696-HXOWK,Riverside
+1696-MZVAU,"Los Angeles"
+1697-BCSHV,Guinda
+1697-LYYYX,Cotati
+1697-NVVGY,Fresno
+1698-XFZCI,Artesia
+1699-HPSBG,"Palm Springs"
+1699-TLDLZ,"Los Angeles"
+1699-UOTXU,"Big Oak Flat"
+1702-CCFNJ,"Los Angeles"
+1703-MGIAB,"Van Nuys"
+1704-NRWYE,"Point Reyes Station"
+1705-GUHPV,"Los Angeles"
+1707-HABPF,"Santa Barbara"
+1708-PBBOA,Banning
+1709-EJDOX,"San Francisco"
+1710-RCXUS,Orange
+1716-LSAMB,"Santa Ana"
+1722-LDZJS,Sanger
+1723-HKXJQ,"San Diego"
+1724-BQUHA,"Los Gatos"
+1724-IQWNM,Burbank
+1725-IQNIY,"San Bernardino"
+1725-MIMXW,Honeydew
+1728-BQDMA,Penryn
+1728-CXQBE,Glenn
+1729-VLAZJ,"Santa Barbara"
+1730-VFMWO,Petaluma
+1730-ZMAME,Ontario
+1731-TVIUK,Temecula
+1732-FEKLD,"Newport Beach"
+1732-VHUBQ,Escondido
+1734-ZMNTZ,Eureka
+1735-XMJVH,Sacramento
+1740-CSDJP,Oakhurst
+1741-WTPON,Westport
+1744-JHKYS,Pasadena
+1746-TGTWV,Whittier
+1750-CSKKM,"Imperial Beach"
+1751-NCDLI,Castroville
+1752-OZXFY,Lockwood
+1754-GKYPY,Carson
+1755-FZQEC,Ventura
+1755-RMCXH,"San Dimas"
+1757-TCATG,"Huntington Beach"
+1760-CAZHT,Glendale
+1761-AEZZR,Guinda
+1763-KUAAW,"Junction City"
+1763-WQFUK,Riverside
+1764-VUUMT,Spreckels
+1766-GKNMI,Bakersfield
+1767-CJKBA,Richmond
+1767-TGTKO,"Dana Point"
+1768-HNVGJ,"Mountain View"
+1768-ZAIFU,"Rio Dell"
+1769-GRUIK,Gridley
+1771-OADNZ,"Pauma Valley"
+1775-KWJKQ,"Santa Barbara"
+1776-SPBWV,Salinas
+1777-JYQPJ,Colfax
+1779-PWPMG,"San Jose"
+1784-BXEFA,Vacaville
+1784-EZDKJ,Hemet
+1785-BPHTP,"Santa Monica"
+1790-NESIO,Concord
+1791-PQHBB,"El Dorado"
+1792-UXAFY,"San Jose"
+1794-HBQTJ,Corcoran
+1794-SWWKL,Dorris
+1796-JANOW,Fiddletown
+1803-BGNBD,"Santa Monica"
+1809-DMJHQ,"Newport Beach"
+1810-BOHSY,Vacaville
+1810-MVMAI,"San Jose"
+1813-JLKWR,Orange
+1813-JYWTO,Shandon
+1814-DKOLC,"Loma Linda"
+1814-WFGVS,Richvale
+1816-FLZDK,Fawnskin
+1818-ESQMW,"San Joaquin"
+1820-DJFPH,Orick
+1820-TQVEV,Madera
+1821-BUCWY,Valyermo
+1830-GGFNM,Somerset
+1830-IPXVJ,Lafayette
+1832-PEUTS,"San Bernardino"
+1833-TCXKK,"San Bernardino"
+1833-VGRUM,Perris
+1834-ABKHQ,"Upper Lake"
+1834-WULEG,"Nevada City"
+1837-YQUCE,"Buena Park"
+1839-FBNFR,Georgetown
+1839-UMACK,Pasadena
+1840-BIUOG,Hayward
+1841-YSJGV,"South El Monte"
+1842-EZJMK,Orangevale
+1843-TLSGD,Standish
+1845-CSBRZ,Pomona
+1845-ZLLIG,Woodbridge
+1846-XWOQN,Bradley
+1848-LBZHY,Downey
+1849-RJYIG,Sunnyvale
+1850-AKQEP,"Santa Cruz"
+1852-QSWCD,"Palo Verde"
+1852-XEMDW,"Mad River"
+1853-ARAAQ,Cayucos
+1853-UDXBW,Samoa
+1855-AGAWH,Bell
+1855-CFULU,Oakland
+1862-QRWPE,"Pacific Palisades"
+1862-SKORY,"Los Angeles"
+1866-DIOQZ,Forestville
+1866-NXPSP,Arcata
+1866-OBPNR,Sacramento
+1866-RZZQS,Redlands
+1866-ZSLJM,"Valley Ford"
+1867-BDVFH,"Los Angeles"
+1867-TJHTS,Sacramento
+1871-MOWRM,Woodacre
+1872-EBWSC,Berkeley
+1875-QIVME,Tujunga
+1877-HKBQX,Cerritos
+1891-FZYSA,Piercy
+1891-QRQSA,Downey
+1891-UAWWU,Johannesburg
+1894-IGFSG,Lancaster
+1895-QTKDO,"San Jacinto"
+1897-OKVMW,Lathrop
+1897-RCFUM,"Point Arena"
+1898-JSNDC,"Elk Grove"
+1899-VXWXM,"San Diego"
+1902-XBTFB,"North Hollywood"
+1904-WAJAA,Coronado
+1905-OEILC,"Pebble Beach"
+1907-UBQFC,"San Francisco"
+1907-YLNYW,Gasquet
+1910-FMXJM,Colton
+1915-IOFGU,Keene
+1915-OAKWD,"Belvedere Tiburon"
+1918-ZBFQJ,Glendale
+1919-RTPQD,"Fish Camp"
+1921-KYSAY,Olivehurst
+1925-GMVBW,Oroville
+1925-LFCZZ,Potrero
+1925-TIBLE,"Los Angeles"
+1926-QUZNN,Carmel
+1927-QEWMY,Arcadia
+1928-BXYIV,Placerville
+1929-ZCBHE,Georgetown
+1930-BZLHI,Castroville
+1930-QPBVZ,Laytonville
+1930-WNXSB,Covina
+1932-UEDCX,Manchester
+1934-MKPXS,Nicolaus
+1934-SJVJK,"Smith River"
+1935-IMVBB,"San Diego"
+1936-CZAKF,Graton
+1936-UAFEH,Pioneer
+1937-OTUKY,Seaside
+1941-HOSAM,"San Diego"
+1942-OQFRW,"Forest Knolls"
+1945-XISKS,Sonora
+1950-KSVVJ,"Monterey Park"
+1951-IEYXM,"Rancho Cucamonga"
+1952-DVVSW,Colfax
+1955-IBMMB,"Forest Knolls"
+1956-YIFGE,Boulevard
+1958-RNRKS,"El Segundo"
+1960-UOTYM,Lakewood
+1960-UYCNN,Julian
+1963-SVUCV,Flournoy
+1963-VAUKV,Kyburz
+1964-SVLEA,Upland
+1965-AKTSX,Byron
+1965-DDBWU,Escondido
+1970-KKFWL,Rescue
+1971-DTCZB,Yreka
+1972-XMUWV,Miramonte
+1976-AZZPJ,Concord
+1976-CFOCS,"Dana Point"
+1977-STDKI,"The Sea Ranch"
+1980-KXVPM,"El Centro"
+1981-INRFU,"San Diego"
+1982-FEBTD,"Newport Beach"
+1984-FCOWB,Templeton
+1984-GPTEH,Burbank
+1985-MBRYP,Arnold
+1986-PHGZF,Greenwood
+1987-AUELQ,"Los Angeles"
+1989-PRJHP,Pleasanton
+1991-VOPLL,"San Marcos"
+1996-DBMUS,"Palo Verde"
+1998-VHJHK,"Santa Barbara"
+2000-DHJUY,"Menlo Park"
+2000-MPKCA,"San Pedro"
+2001-EWBQU,Stockton
+2001-MCUUW,Corona
+2002-MZHWP,Delhi
+2003-CKLOR,Igo
+2004-OCQXK,Merced
+2005-DWQZJ,"Stevenson Ranch"
+2007-QVGAW,Cypress
+2011-TRQYE,"Deer Park"
+2012-NWRPA,Modesto
+2013-SGDXK,Mariposa
+2014-MKGMH,Riverside
+2017-CCBLH,Weott
+2018-PZKMU,"Santa Ana"
+2018-QKYGT,"San Gabriel"
+2019-HDCZY,Farmersville
+2023-VQFDL,Riverside
+2024-BASKD,Exeter
+2025-JKFWI,Burbank
+2026-TGDHM,Cloverdale
+2027-CWDNU,Venice
+2027-DNKIV,"Spring Valley"
+2027-FECZV,Bodfish
+2027-OAQQC,Aptos
+2027-WKXMW,Montara
+2030-BTZRO,Northridge
+2034-CGRHZ,"San Francisco"
+2034-GDRCN,"San Diego"
+2037-SGXHH,"Campo Seco"
+2037-XJFUP,Temecula
+2038-LLMLM,"El Centro"
+2038-OEQZH,Menifee
+2038-YSEZE,"Los Angeles"
+2039-JONDJ,Burbank
+2040-LDIWQ,"Woodland Hills"
+2040-OBMLJ,Dunlap
+2040-VZIKE,Stevinson
+2040-XBAVJ,Malibu
+2041-JIJCI,Wendel
+2043-WVTQJ,Westminster
+2045-BMBTJ,"South El Monte"
+2049-BAFNW,Vallejo
+2050-ONYDQ,Montara
+2054-PJOCK,Corona
+2055-BFOCC,Likely
+2055-PDADH,"Big Bend"
+2055-SIFSS,Westmorland
+2056-EVGZL,"West Covina"
+2057-BOYKM,Inglewood
+2057-ZBLPD,"Los Gatos"
+2058-DCJBE,"Los Angeles"
+2061-VVFST,Whittier
+2065-MMKGR,"Diamond Springs"
+2067-QYTCF,"Los Angeles"
+2068-WWXQZ,Whittier
+2070-FNEXE,Pasadena
+2070-XYMFH,"Long Beach"
+2072-ZVJJX,Sacramento
+2073-QBVBI,"Los Angeles"
+2074-GKOWZ,Novato
+2074-GUHPQ,Albion
+2075-PUEPR,"Newport Coast"
+2075-RMJIK,"Santa Ysabel"
+2077-DDHJK,Goleta
+2077-MPJQO,"Menlo Park"
+2079-FBMZK,Antelope
+2080-CAZNM,Burbank
+2080-GKCWQ,"San Pablo"
+2080-SRCDE,Walnut
+2081-KJSQF,Isleton
+2081-VEYEH,Compton
+2082-CEFLT,"San Diego"
+2082-OJVTK,"San Diego"
+2085-BOJKI,"Long Beach"
+2085-JVGAD,Ivanhoe
+2087-QAREY,"Sequoia National Park"
+2088-IEBAU,Poway
+2091-GPPIQ,"Yuba City"
+2091-MJTFX,Auburn
+2091-RFFBA,"Port Costa"
+2096-XOTMO,Marysville
+2097-YVPKN,Healdsburg
+2100-BDNSN,"Strawberry Valley"
+2101-RANCD,"El Dorado Hills"
+2103-ZRXFN,"La Quinta"
+2105-PHWON,Navarro
+2107-FBPTK,Ramona
+2108-GLPQB,"Los Angeles"
+2108-XWMPY,Cabazon
+2108-YKQTY,"Santa Monica"
+2111-DWYHN,Aptos
+2114-MGINA,"Rio Vista"
+2115-BFTIW,"Clearlake Oaks"
+2120-SMPEX,"Santa Rosa"
+2121-JAFOM,Danville
+2122-SZZZD,Sacramento
+2122-YWVYA,"San Francisco"
+2123-AGEEN,Millbrae
+2123-VSCOT,Pomona
+2126-GSEGL,Solvang
+2129-ALKBS,Needles
+2133-TSRRM,Rosemead
+2135-DQWAQ,"Santa Barbara"
+2135-RXIHG,Carson
+2137-DQMEV,Tustin
+2138-VFAPZ,"San Francisco"
+2139-FQHLM,Corona
+2141-RRYGO,Camino
+2143-LJULT,Fresno
+2144-BFDSO,Ranchita
+2144-ESWKO,"San Pedro"
+2146-EGVDT,Chatsworth
+2150-OEGBV,Oakland
+2150-UWTFY,"San Mateo"
+2150-WLKUW,Banning
+2153-MREFK,Fawnskin
+2154-KVJFF,Stevinson
+2155-AMQRX,Norwalk
+2157-MXBJS,Calistoga
+2159-TURXX,Weaverville
+2160-GPFXD,Davis
+2162-FRZAA,"Fort Irwin"
+2164-SOQXL,"Los Angeles"
+2165-VOEGB,Burbank
+2167-FQSTQ,Hayward
+2169-RRLFW,Capay
+2171-UDMFD,Chowchilla
+2172-EJXVF,"Los Angeles"
+2176-LVPNX,"San Jose"
+2176-OSJUV,Anaheim
+2178-PMGCJ,"Long Beach"
+2180-DXNEG,"Harbor City"
+2181-TIDSV,"Glen Ellen"
+2181-UAESM,"Angelus Oaks"
+2186-QZEYA,"San Leandro"
+2187-LZGPL,"Walnut Creek"
+2187-PKZAY,Stevinson
+2188-SXWVT,Chilcoot
+2189-UXTKY,"La Quinta"
+2189-WWOEW,Keene
+2190-BCXEC,"Death Valley"
+2190-PHBHR,Hume
+2192-CKRLV,Wilton
+2192-OZITF,"San Leandro"
+2193-SFWQW,"San Rafael"
+2194-IIQOF,Sunnyvale
+2195-VVRJF,"Los Angeles"
+2195-ZRVAX,Rodeo
+2197-OMWGI,"Los Angeles"
+2200-DSAAL,Greenbrae
+2202-CUYXZ,Dublin
+2202-OUTMO,Caruthers
+2203-GHNWN,Julian
+2205-LPVGL,Colusa
+2205-YMZZJ,Clovis
+2207-NHRJK,Carmel
+2207-OBZNX,Aguanga
+2207-QPJED,"Somes Bar"
+2207-RYYRL,"Grass Valley"
+2208-MPXIO,Escondido
+2208-NKVVH,"Costa Mesa"
+2208-NQBCT,"San Jose"
+2208-UGTGR,Sultana
+2209-XADXF,"Willow Creek"
+2211-RMNHO,"Rio Nido"
+2212-LYASK,Brea
+2215-ZAFGX,"La Mesa"
+2219-MVUSO,"Los Angeles"
+2220-IAHLS,Modesto
+2223-GDSHL,"Fountain Valley"
+2223-KAGMX,"Santa Rosa"
+2225-ZRGSG,Piru
+2226-ICFDO,Covelo
+2227-JRSJX,"Monterey Park"
+2228-BZDEE,Pleasanton
+2229-DPMBI,"Blairsden Graeagle"
+2229-VWQJH,Homewood
+2230-XTUWL,Madera
+2232-DMLXU,"Van Nuys"
+2233-FAGXV,"Salton City"
+2233-TXSIU,"Grass Valley"
+2234-EOFPT,"Santa Ana"
+2234-XADUH,Amboy
+2235-DWLJU,"Thousand Palms"
+2235-EZAIK,Badger
+2235-ZGKPT,"Los Angeles"
+2236-HILPA,Hayward
+2237-ZFSMY,Riverdale
+2239-CFOUJ,Trinidad
+2239-CGBUZ,"West Covina"
+2239-JALAW,Escondido
+2240-HSJQD,"La Mesa"
+2242-MFOTG,Poway
+2243-FNMMI,Torrance
+2245-ADZFJ,Castella
+2249-YPRNG,"The Sea Ranch"
+2250-IVBWA,"San Jose"
+2251-PYLPB,"Big Bear Lake"
+2252-ISRNH,Covelo
+2252-JHJGE,"Sun Valley"
+2252-NKNSI,Salinas
+2253-KPMNB,"Live Oak"
+2254-DLXRI,Burbank
+2256-YLYLP,Cypress
+2257-BOVXD,"Tahoe City"
+2259-OUUSZ,"San Diego"
+2260-USTRB,Campo
+2262-SLNVK,"Birds Landing"
+2263-SFSQZ,"San Jose"
+2265-CYWIV,Hickman
+2266-FUBDZ,"San Francisco"
+2266-SJNAT,Temecula
+2267-FPIMA,"San Carlos"
+2267-WTPYD,"Granada Hills"
+2270-CHBFN,Ventura
+2272-JKMSI,Roseville
+2272-QAGFO,Inglewood
+2272-UOINI,"Rancho Cucamonga"
+2272-WUSPA,Milford
+2273-QCKXA,"Culver City"
+2274-XUATA,Earp
+2275-RBYQS,"Sun City"
+2276-YDAVZ,"San Diego"
+2277-AXSDC,"El Centro"
+2277-BKJKN,Camptonville
+2277-DJJDL,"La Grange"
+2277-VWCNI,Brookdale
+2279-AXJJK,Cazadero
+2282-YGNOR,"Monterey Park"
+2284-VFLKH,"Clipper Mills"
+2292-XQWSV,"Temple City"
+2293-IJWPS,Piercy
+2294-DMMUS,Patterson
+2294-SALNE,"Chula Vista"
+2296-DKZFP,"San Francisco"
+2300-RQGOI,Needles
+2302-ANTDP,"Hat Creek"
+2302-OUZXB,Ventura
+2303-PJYHN,"Los Angeles"
+2305-MRGLV,"Klamath River"
+2307-FYNNL,"La Mirada"
+2308-STERM,Armona
+2309-OSFEU,"Smith River"
+2311-QYMUQ,"San Joaquin"
+2314-TNDJQ,Oceanside
+2316-ESMLS,Fresno
+2320-JRSDE,Richgrove
+2320-SLKMB,Baker
+2320-TZRRH,"Three Rivers"
+2320-YKQBO,Grenada
+2321-OMBXY,"San Diego"
+2322-VCZHZ,"El Portal"
+2323-ARSVR,Milpitas
+2324-AALNO,Porterville
+2324-EFHVG,Oakland
+2325-NBPZG,Novato
+2325-WINES,Littlerock
+2325-ZUSFD,Irvine
+2330-PQGDQ,Gualala
+2332-EFBJY,"Sherman Oaks"
+2332-TODQS,"Garden Grove"
+2333-KWEWW,Fresno
+2335-GSODA,Camino
+2338-BQEZT,"San Carlos"
+2342-CKIAO,Eagleville
+2344-JMOGN,Buttonwillow
+2346-CZYIL,"Beverly Hills"
+2346-DJQTB,Fairfax
+2346-LOCWC,Arbuckle
+2347-WKKAE,Penryn
+2348-KCJLT,"Los Alamitos"
+2351-BKRZW,Gilroy
+2351-RRBUE,Tulelake
+2357-COQEK,Atherton
+2359-KLTEK,Lookout
+2359-KMGLI,"Running Springs"
+2359-QWQUL,"Los Angeles"
+2360-RDGRO,Sutter
+2361-FJWNO,"Rancho Cucamonga"
+2361-UPSND,Herlong
+2362-IBOOY,"San Diego"
+2363-BJLSL,Bonita
+2364-UFROM,"San Diego"
+2368-GAKKQ,Sylmar
+2369-FEVNO,"Long Beach"
+2369-UAPKZ,"Meadow Vista"
+2371-JQHZZ,Bakersfield
+2371-JUNGC,Cupertino
+2371-KFUOG,Escondido
+2372-HWUHI,Lakewood
+2373-NTKOD,"Rancho Cordova"
+2378-HTWFW,Newman
+2378-VTKDH,Woodland
+2378-YIZKA,Weed
+2379-ENZGV,"San Diego"
+2379-GYFLQ,Oceanside
+2380-DAMQP,"La Palma"
+2382-BCKQJ,Escondido
+2384-OVPSA,Caruthers
+2386-LAHRK,Weimar
+2386-OWURY,Yucaipa
+2387-KDZQY,Weaverville
+2388-LAESQ,Manchester
+2391-IPLOP,Corcoran
+2391-SOORI,"Big Bear City"
+2393-DIVAI,Brea
+2397-BRLOM,"San Rafael"
+2398-YPMUR,Dinuba
+2400-FEQME,Grenada
+2400-XIWIO,Lucerne
+2402-TAIRZ,"Los Angeles"
+2403-BCASL,"Santa Ana"
+2404-JIBFC,Anaheim
+2405-LBMUW,Oceanside
+2408-PSJVE,"Chino Hills"
+2408-TZMJL,Gualala
+2408-WITXK,"San Jose"
+2410-CIYFZ,Woodland
+2418-TPEUN,Topanga
+2419-FSORS,Salinas
+2424-WVHPL,"Redondo Beach"
+2428-HYUNX,"San Francisco"
+2428-ZMCTB,"Mountain View"
+2429-AYKKO,Redding
+2430-RRYUW,Tecate
+2430-USGXP,"Santa Fe Springs"
+2432-TFSMK,Sebastopol
+2433-KMEAS,Dublin
+2434-EEVDB,"California City"
+2436-QBZFP,Yreka
+2439-LYPMQ,Milford
+2439-QKJUL,Saratoga
+2446-BEGGB,Lakewood
+2446-PLQVO,"Santa Clarita"
+2446-ZKVAF,Stockton
+2450-ZKEED,"Mammoth Lakes"
+2451-YMUXS,Vista
+2452-KDRRH,"Mi Wuk Village"
+2452-MRMZF,Inglewood
+2452-SNHFZ,"Elk Creek"
+2453-SAFNS,Likely
+2454-RPBRZ,"Catheys Valley"
+2455-USLMV,Redlands
+2458-EOMRE,"Mc Farland"
+2460-FPSYH,Exeter
+2460-NGXBJ,Stockton
+2462-XIIJB,Miranda
+2465-BLLEU,Salinas
+2466-FCCPT,"North Fork"
+2466-NEJOJ,Bodega
+2468-SJFLM,Biggs
+2469-DTSGX,Somis
+2472-OVKUP,"Canoga Park"
+2474-BRUCM,Redding
+2474-LCNUE,"Sunset Beach"
+2475-MROZF,Murrieta
+2476-YGEFM,Clovis
+2478-EEWWM,Glenn
+2479-BRAMR,Murphys
+2480-EJWYP,Roseville
+2480-JZOSN,Woody
+2480-SQIOB,"Woodland Hills"
+2481-SBOYW,"San Bernardino"
+2482-CZGBB,Anaheim
+2483-XSSMZ,Orinda
+2484-DGXPZ,"San Dimas"
+2485-ITVKB,Northridge
+2486-WYVVE,Sacramento
+2495-INZWQ,"San Juan Bautista"
+2495-KZNFB,"La Mesa"
+2495-TTHBQ,"La Quinta"
+2498-XLDZR,"San Diego"
+2499-AJYUA,Benton
+2501-XWWTZ,"San Clemente"
+2504-DSHIH,"Thousand Oaks"
+2506-CLAKW,Ventura
+2506-TNFCO,Riverside
+2507-QZPQS,"La Mirada"
+2509-TFPJU,Torrance
+2511-ALLCS,"Temple City"
+2511-MORQY,Torrance
+2514-GINMM,"Dana Point"
+2516-VQRRV,"Culver City"
+2516-XSJKX,"San Juan Bautista"
+2519-ERQOJ,"Desert Hot Springs"
+2519-FAKOD,Tehachapi
+2519-LBNQL,Artesia
+2519-TWKFS,Blocksburg
+2520-SGTTA,"Ben Lomond"
+2521-NPUZR,"Santa Maria"
+2522-AHJXR,"Death Valley"
+2522-WLNSF,"Los Olivos"
+2523-EWWZL,Blythe
+2525-GVKQU,"Santa Margarita"
+2528-HFYZX,"Santa Ana"
+2530-ENDWQ,"Rio Dell"
+2530-FMFXO,Irvine
+2533-QVMSK,"March Air Reserve Base"
+2533-TIBIX,"Oak Run"
+2535-PBCGC,"San Diego"
+2538-OIMXF,"Cathedral City"
+2541-YGPKE,"Lemon Cove"
+2542-HYGIQ,"Palo Alto"
+2545-EBUPK,"Los Angeles"
+2545-LXYVJ,"Suisun City"
+2546-KZAAT,"San Diego"
+2550-AEVRU,"Woodland Hills"
+2550-QHZGP,Calexico
+2558-BUOZZ,Glendale
+2560-PPCHE,"Huntington Beach"
+2560-QTSBS,Pomona
+2560-WBWXF,"March Air Reserve Base"
+2565-JSLRY,Bakersfield
+2568-BRGYX,Dixon
+2568-OIADY,Escondido
+2569-WGERO,Landers
+2573-GYRUU,"San Miguel"
+2575-GFSOE,Graton
+2576-HXMPA,Mckinleyville
+2577-GVSIL,Lamont
+2578-JQPHZ,Bayside
+2580-ASVVY,"San Ysidro"
+2580-ATZSQ,"San Jose"
+2581-VKIRT,"Kings Beach"
+2582-FFFZR,Vallejo
+2585-KTFRE,Escondido
+2586-CWXVV,"Hawaiian Gardens"
+2587-EKXTS,"San Diego"
+2587-YNLES,Downey
+2589-AYCRP,"Cedar Glen"
+2592-HODOV,Brea
+2592-SEIFQ,"San Anselmo"
+2592-YKDIF,"North Highlands"
+2595-KIWPV,Tecate
+2599-CIPQE,Compton
+2599-CZABP,Meridian
+2603-HVKCG,Meridian
+2604-IJPDU,Encino
+2604-XVDAM,"Pope Valley"
+2606-PKWJB,"Little River"
+2606-RMDHZ,Lakewood
+2607-DHDAK,Bakersfield
+2607-FBDFF,Tuolumne
+2608-BHKFN,Berkeley
+2609-IAICY,"North Fork"
+2612-PHGOX,Graton
+2612-RANWT,"Mount Laguna"
+2612-RRIDN,Westwood
+2615-YVMYX,"Chula Vista"
+2616-FLVQC,"Point Arena"
+2616-UUTFK,Bakersfield
+2619-WFQWU,"Mission Viejo"
+2621-UDNLU,"San Francisco"
+2623-DRYAM,Jamul
+2625-TRCZQ,Auburn
+2626-URJFX,Termo
+2626-VEEWG,"Sun City"
+2632-IVXVF,Kernville
+2632-TACXW,Richmond
+2632-UCGVD,Fairfield
+2634-HCZGT,"San Jose"
+2636-ALXXZ,"Tahoe Vista"
+2636-OHFMN,Orosi
+2636-SJDOU,"Seal Beach"
+2637-FKFSY,Wasco
+2639-UGMAZ,Artesia
+2640-LYMOV,Anaheim
+2640-PMGFL,"West Sacramento"
+2642-DTVCO,Chualar
+2642-MAWLJ,"Menlo Park"
+2645-QTLMB,Bloomington
+2649-HWLYB,Fresno
+2650-GYRYL,Kerman
+2651-ZCBXV,Burbank
+2654-VBVPB,"Newport Beach"
+2656-FMOKZ,Pasadena
+2656-TABEH,Temecula
+2657-ALMWY,"Simi Valley"
+2657-VPXTA,Anza
+2659-VXMWZ,"Newport Coast"
+2660-EMUBI,Escondido
+2661-GKBTK,Eureka
+2662-NNTDK,Coleville
+2664-XJZNO,Oroville
+2665-NPTGL,"Sheep Ranch"
+2667-WYLWJ,Dunnigan
+2668-TZSPS,"Santa Rosa"
+2669-OIDSD,"Long Beach"
+2669-QVCRG,"Forest Ranch"
+2672-DZUOY,Buttonwillow
+2672-HUYVI,Newman
+2672-OJQZP,Stockton
+2672-TGEFF,Traver
+2673-CXQEU,Gardena
+2673-ZALNP,Mcarthur
+2674-MIAHT,Blocksburg
+2674-MLXMN,Richmond
+2675-DHUTR,"Big Pine"
+2675-IJRGJ,Oakland
+2675-OTVVJ,Novato
+2676-ISHSF,Anderson
+2676-OXPPQ,Irvine
+2676-SSLTO,"Hawaiian Gardens"
+2680-XKKNJ,Weimar
+2682-KEVRP,Woodlake
+2683-BPJSO,Byron
+2683-JXWQQ,Visalia
+2684-EIWEO,"San Diego"
+2685-SREOM,"Rancho Cucamonga"
+2688-BHGOG,Olancha
+2690-DVRVK,"San Diego"
+2691-NZETQ,"San Jose"
+2692-AQCPF,"San Mateo"
+2692-BUCFV,"Shingle Springs"
+2692-PFYTJ,Hercules
+2694-CIUMO,"Los Angeles"
+2696-ECXKC,Ione
+2696-NARTR,"Corona Del Mar"
+2696-RZVZW,Downey
+2697-NQBPF,Fulton
+2700-LUEVA,Oakland
+2703-AMTUL,Lookout
+2706-QZIHY,"Los Angeles"
+2709-UQGNP,"San Mateo"
+2710-WYVXG,"Sun Valley"
+2712-SYWAY,Creston
+2716-GFZOR,Raymond
+2717-HVIZY,Orleans
+2718-GAXQD,Fallbrook
+2718-YSKCS,Tomales
+2719-BDAQO,Sunnyvale
+2720-FVBQP,Mccloud
+2720-WGKHP,Sloughhouse
+2722-JMONI,Escondido
+2722-VOJQL,"San Diego"
+2724-FJDYW,Inverness
+2725-IWWBA,"El Cajon"
+2725-KXXWT,Vallejo
+2725-TTRIQ,Menifee
+2729-VNVAP,Vallejo
+2731-GJRDG,Corona
+2732-ISEZX,"Pacific Grove"
+2737-WFVYW,"Marina Del Rey"
+2737-YNGYW,Hemet
+2739-CACDQ,"La Jolla"
+2739-CCZMB,Alleghany
+2740-JFBOK,Lakewood
+2740-TVLFN,Manteca
+2746-DIJLO,"Harbor City"
+2748-MYRVK,Fresno
+2749-CTKAJ,"Long Beach"
+2750-BJLSB,"Rancho Santa Fe"
+2753-JMMCV,"Paso Robles"
+2754-SDJRD,Somis
+2754-VDLTR,Greenview
+2754-XBHTB,"Amador City"
+2758-RNWXS,Oceanside
+2761-OCIAX,"Palo Cedro"
+2761-XECQW,Glenhaven
+2770-NSVDG,"San Jose"
+2773-MADBQ,"Long Beach"
+2773-OVBPK,Orange
+2774-LVQUS,Temecula
+2775-SEFEE,Wilmington
+2777-PHDEI,Ahwahnee
+2778-OCLGR,"Soda Springs"
+2782-JEEBU,"Los Molinos"
+2782-LFZVW,"Costa Mesa"
+2786-GCDPI,Pioneertown
+2788-CJQAQ,Winton
+2789-CZANW,Dublin
+2789-HQBOU,Bakersfield
+2790-XUYMV,"Mount Hamilton"
+2791-SFVEW,"Los Angeles"
+2792-LSHWX,Fremont
+2792-VPPET,"San Gabriel"
+2794-XIMMO,"Rancho Cucamonga"
+2796-NNUFI,"Palos Verdes Peninsula"
+2796-UUZZO,Redding
+2798-NYLMZ,"Los Banos"
+2799-ARNLO,Bonsall
+2799-TSLAG,Irvine
+2800-QQUSO,Riverside
+2800-VEQXM,Lebec
+2801-NISEI,"Mt Baldy"
+2804-ETQDK,Ventura
+2805-AUFQN,Traver
+2805-EDJPQ,"San Diego"
+2806-MLNTI,"White Water"
+2808-CHTDM,"Los Angeles"
+2809-ILCYT,"Sequoia National Park"
+2809-ZMYOQ,Camptonville
+2810-FTLEM,"Los Angeles"
+2811-POVEX,"Live Oak"
+2812-ENYMO,Orick
+2812-REYAT,Chilcoot
+2812-SFXMJ,"Hat Creek"
+2815-CPTUL,Gasquet
+2817-LVCPP,Sacramento
+2817-NTQDO,"Huntington Beach"
+2819-GWENI,Hayward
+2821-WARNZ,"Buena Park"
+2823-LKABH,"Rancho Mirage"
+2824-DXNKN,"Santa Cruz"
+2824-MYYBN,Bakersfield
+2826-DXLQO,"El Cerrito"
+2826-UWHIS,"Sequoia National Park"
+2828-SLQPF,"San Marino"
+2829-HYVZP,Fairfax
+2830-LEWOA,Jamestown
+2831-EBWRN,Altadena
+2832-KJCRD,"Los Angeles"
+2832-SCUCO,Kirkwood
+2833-SLKDQ,Caspar
+2834-JKOOW,Gerber
+2834-JRTUA,Martinez
+2834-SPCJV,"Rough And Ready"
+2839-RFSQE,"Rancho Mirage"
+2840-XANRC,"San Diego"
+2842-BCQGE,"San Diego"
+2842-JTCCU,Hopland
+2843-CQMEG,"San Diego"
+2845-AFFTX,Westport
+2845-HSJCY,Fallbrook
+2845-KDHVX,Sheridan
+2848-YXSMW,Torrance
+2851-MMUTZ,"Tahoe Vista"
+2851-STERV,Descanso
+2853-CWQFQ,Eureka
+2856-HYAPG,Platina
+2856-NNASM,"Santa Rosa"
+2858-EIMXH,Vallejo
+2858-MOFSQ,"Rio Oso"
+2860-RANUS,"Mc Kittrick"
+2862-JVEOY,"Loma Mar"
+2862-PFNIK,"San Leandro"
+2863-IMQDR,"San Diego"
+2865-TCHJW,Anaheim
+2866-IKBTM,"Dana Point"
+2867-UIMSS,Vernalis
+2868-LLSKM,Escondido
+2868-MZAGQ,Modesto
+2868-SNELZ,"San Diego"
+2869-ADAWR,"Sutter Creek"
+2873-ZLIWT,Temecula
+2874-YXVVA,Herlong
+2876-GZYZC,Cerritos
+2876-VBBBL,"Shaver Lake"
+2877-VDUER,"Camp Nelson"
+2878-DHMIN,Sacramento
+2878-RMWXY,Temecula
+2880-FPNAE,"Van Nuys"
+2882-DDZPG,"San Carlos"
+2882-WDTBA,Willows
+2883-ILGWO,Compton
+2884-GBPFB,"Morro Bay"
+2885-HIJDH,Tecate
+2886-KEFUM,"Big Bend"
+2887-JPYLU,"Stinson Beach"
+2888-ADFAO,Palmdale
+2889-FPWRM,Mckinleyville
+2890-WFBHU,Salyer
+2892-GESUL,"San Juan Capistrano"
+2894-QOJRX,"San Diego"
+2896-TBNBE,Guadalupe
+2897-DOVND,Winterhaven
+2898-LSJGD,"Santa Ana"
+2898-MRKPI,Ranchita
+2900-PHPLN,Vista
+2903-YYTBW,Hemet
+2904-GGUAZ,Potrero
+2905-KFQUV,"Moss Beach"
+2907-ILJBN,Duarte
+2908-WGAXL,Fullerton
+2908-ZTPNF,Pleasanton
+2911-IJORQ,"Stirling City"
+2911-UREFD,"Santa Monica"
+2911-WDXMV,Fontana
+2916-BQZLN,Reseda
+2919-HBCJO,Downieville
+2920-RNCEZ,Lebec
+2921-XWDJH,Glendale
+2923-ARZLG,"La Verne"
+2924-KHUVI,Orland
+2925-MXLSX,"Chula Vista"
+2925-VDZHY,Sonora
+2926-JEJJC,"Angelus Oaks"
+2927-CVULT,Ramona
+2927-QRRQV,"Scott Bar"
+2928-HLDBA,Cypress
+2929-ERCFZ,Independence
+2929-QNSRW,"San Diego"
+2930-UOTMB,Riverside
+2931-FSOHN,Napa
+2931-SVLTV,Vallejo
+2931-VUVJN,Murrieta
+2931-XIQBR,Kelseyville
+2933-FILNV,Carlsbad
+2933-XEUJM,Ballico
+2937-FTHUR,"Cedar Glen"
+2946-KIQSP,Fallbrook
+2947-DOMLJ,"Buena Park"
+2951-QOQTK,Sacramento
+2952-QAYZF,Sacramento
+2954-PIBKO,"Los Angeles"
+2955-BJZHG,"Apple Valley"
+2955-PSXOE,Topanga
+2956-GGUCQ,Pioneer
+2957-JIRMN,Vallejo
+2957-LOLHO,Fallbrook
+2958-NHPPS,Sacramento
+2959-EEXWB,Pasadena
+2959-FENLU,"Los Gatos"
+2959-MJHIC,Hinkley
+2960-NKRSO,"Mad River"
+2961-VNFKL,"Mountain View"
+2962-XPMCQ,Sacramento
+2967-MXRAV,"Los Angeles"
+2968-SSGAA,"San Francisco"
+2969-QWUBZ,"Los Altos"
+2969-VAPYH,Fresno
+2969-WGHQO,Bradley
+2971-SGAFL,Millbrae
+2972-YDYUW,Posey
+2974-GGUXS,"Granite Bay"
+2977-CEBSX,Coachella
+2978-XXSOG,Doyle
+2979-SXESE,Berkeley
+2982-IHMFT,"San Diego"
+2982-VPSGI,"South Pasadena"
+2983-ZANRP,"La Puente"
+2984-AFWNC,"Rough And Ready"
+2984-MIIZL,Guadalupe
+2984-RGEYA,Winnetka
+2984-TBYKU,Barstow
+2985-FMWYF,"Myers Flat"
+2985-JUUBZ,Dulzura
+2987-BJXIK,Tulare
+2988-GBIVW,"Knights Landing"
+2988-PLAHS,Sierraville
+2988-QRAJY,"Santa Rosa"
+2990-HWIML,Ontario
+2990-IAJSV,"San Francisco"
+2990-OGYTD,Fullerton
+2995-UPRYS,"Long Beach"
+2995-YWTCD,"Browns Valley"
+2996-XAUVF,Needles
+2999-AANRQ,Sacramento
+3001-CBHLQ,"Angels Camp"
+3001-UNBTL,Burbank
+3002-WQZWT,Murrieta
+3003-CMDUU,"Santa Paula"
+3005-NFMTA,Valencia
+3005-TYFRD,Tollhouse
+3006-XIMLN,"Garden Valley"
+3007-FDPEA,Fallbrook
+3009-JWMPU,"Five Points"
+3011-WQKSZ,Foresthill
+3012-VFFMN,Richvale
+3014-WJKSM,"San Luis Obispo"
+3016-KSVCP,"Rancho Palos Verdes"
+3018-TFTSU,"Hathaway Pines"
+3021-VLNRJ,Encino
+3022-BEXHZ,Sonoma
+3023-GFLBR,"San Bernardino"
+3026-ATZYV,Riverside
+3027-YNWZU,"San Ramon"
+3027-ZTDHO,Fresno
+3030-YDNRM,Pasadena
+3030-YZADT,"Grass Valley"
+3030-ZKIWL,"Lake Isabella"
+3034-ZBEQN,"La Puente"
+3038-PQIUY,Dulzura
+3039-MJSLN,Cressey
+3043-SUDUA,"West Sacramento"
+3043-TYBNO,Kneeland
+3045-XETSH,"Lake Hughes"
+3049-NDXFL,"San Diego"
+3049-SOLAY,"San Diego"
+3050-GBUSH,Burlingame
+3050-RLLXC,Kyburz
+3055-MJDSB,Planada
+3055-OYMSE,Saratoga
+3055-VTCGS,Whittier
+3057-VJJQE,"Yorba Linda"
+3058-HJCUY,"Rancho Cordova"
+3058-WQDRE,Branscomb
+3059-NGMXB,"San Jose"
+3061-BCKYI,"Thousand Palms"
+3062-ICYZQ,"Oak Park"
+3063-QFSZL,"San Jose"
+3066-RRJIO,"San Francisco"
+3067-SVMTC,Imperial
+3068-OMWZA,"Round Mountain"
+3069-SSVSN,Hilmar
+3070-BDOQC,Sacramento
+3070-DVEYC,Williams
+3070-FNFZQ,"Happy Camp"
+3071-MVJCD,"Grizzly Flats"
+3071-VBYPO,Whittier
+3074-GQWYX,"San Diego"
+3077-RSNTJ,"Long Beach"
+3078-ZKNTS,"Rancho Santa Fe"
+3079-BCHLN,Wishon
+3082-VQXNH,"Hat Creek"
+3082-WQRVY,Stockton
+3082-YVEKW,"Yucca Valley"
+3084-DOWLE,"Citrus Heights"
+3085-QUOZK,Alpine
+3086-RUCRN,Paicines
+3088-FVYWK,"Mc Kittrick"
+3088-LHEFH,"Pollock Pines"
+3090-HAWSU,Pasadena
+3090-LETTY,"San Diego"
+3090-QFUVD,Reedley
+3091-FYHKI,"Harbor City"
+3092-IGHWF,"San Diego"
+3094-JOJAI,Maxwell
+3096-GKWEB,Bakersfield
+3096-IZETN,Lomita
+3096-JRDSO,Fallbrook
+3096-WPXBT,Venice
+3096-YXENJ,Danville
+3097-FQTVJ,Denair
+3097-IDVPU,"Los Angeles"
+3097-NNSPB,"Valley Ford"
+3097-NQYSN,"San Jose"
+3097-PYWXL,"New Cuyama"
+3099-OONVS,Crockett
+3104-OWCGK,"South Dos Palos"
+3106-ULWFW,Fontana
+3108-PCCGG,"Redwood Valley"
+3113-IWHLC,Strathmore
+3115-CZMZD,Independence
+3115-JPJDD,Ventura
+3118-UHVVQ,Calpine
+3120-FAZKD,"El Portal"
+3125-RAHBV,Rocklin
+3126-WQMGH,"Yorba Linda"
+3128-YOVTD,Forbestown
+3129-AAQOU,"Trabuco Canyon"
+3130-ICDUP,Hercules
+3131-NWVFJ,Pioneer
+3132-TVFDZ,Glendale
+3133-PZNSR,Belmont
+3134-DSHVC,Stockton
+3137-LUPIX,"Yucca Valley"
+3137-NYQQI,Palmdale
+3138-BKYAV,Kerman
+3143-ILDAL,"El Monte"
+3143-JQEGI,"San Diego"
+3144-AUDBS,Calexico
+3144-KMTWZ,Whittier
+3146-JTQHR,"San Bruno"
+3146-MSEGF,Paramount
+3148-AOIQT,Sacramento
+3148-BLQJT,Fallbrook
+3154-CFSZG,Modesto
+3154-HMWUU,Winters
+3156-QLHBO,"San Jose"
+3158-MOERK,Hayward
+3160-TYXLT,Palmdale
+3161-GETRM,Soledad
+3161-ONRWK,Hydesville
+3162-KKZXO,"Citrus Heights"
+3162-ZJZFU,"Mill Creek"
+3164-AALRN,Greenwood
+3164-YAXFY,Coulterville
+3165-HDOEW,Salida
+3166-PNEOF,"Walnut Creek"
+3167-SNQPL,"Pine Valley"
+3170-GWYKC,Vernalis
+3170-NMYVV,Compton
+3173-NVMPX,"Newport Beach"
+3173-WSSUE,"Canoga Park"
+3174-AKMAS,Hume
+3174-RKMOW,Glendale
+3177-LASXD,Westmorland
+3178-CIFOT,"Amador City"
+3178-FESZO,Clements
+3179-GBRWV,"San Gabriel"
+3181-MIZBN,Jenner
+3181-VTHOE,"Browns Valley"
+3186-AJIEK,"Apple Valley"
+3186-BAXNB,Cottonwood
+3190-FZATL,Lakeside
+3190-ITQXP,Ceres
+3190-XFANI,"Happy Camp"
+3191-CSNMG,Upland
+3192-LNKRK,"San Joaquin"
+3192-NQECA,"Santa Monica"
+3194-ORPIK,"San Diego"
+3195-TQDZX,"Elk Creek"
+3196-NVXLZ,"Orange Cove"
+3197-ARFOY,Ontario
+3197-NNYNB,Jolon
+3198-VELRD,"Marina Del Rey"
+3199-NPKCN,"Menlo Park"
+3199-XGZCY,"Granada Hills"
+3200-MNQTF,"Raisin City"
+3205-MXZRA,Standish
+3207-OYBWH,"Newport Beach"
+3208-YPIOE,"La Mesa"
+3209-ZPKFI,"Borrego Springs"
+3211-AAPKX,Woodland
+3211-ILJTT,Taft
+3212-KXOCR,Inglewood
+3213-VVOLG,"Sun City"
+3214-IYUUQ,"Pine Grove"
+3217-FZDMN,"Los Angeles"
+3219-JQRSL,"Monterey Park"
+3221-CJMSG,"Mira Loma"
+3223-DWFIO,"Forks Of Salmon"
+3223-WZWJM,Petrolia
+3224-DFQNQ,"Carmel Valley"
+3227-WLKLI,"San Francisco"
+3229-USWAR,"San Francisco"
+3230-IUALN,Eureka
+3230-JCNZS,"San Francisco"
+3230-WYKIR,"San Francisco"
+3234-VKACU,Sunol
+3235-ETOOB,"San Diego"
+3237-AJGEH,Bridgeville
+3239-TPHPZ,"Chula Vista"
+3243-ZHOHY,Escondido
+3244-CQPHU,Berkeley
+3244-DCJWY,Bakersfield
+3247-MHJKM,Upland
+3247-ZVOUO,Downey
+3249-VHRIP,Fiddletown
+3249-ZPQRG,"Diamond Springs"
+3251-YMVWZ,"San Andreas"
+3253-HKOKL,"Elk Grove"
+3254-YRILK,Dobbins
+3255-GRXMG,"Playa Del Rey"
+3256-EZDBI,Greenville
+3258-SANFR,"Big Oak Flat"
+3258-SYSWS,Lakeside
+3258-ZKPAI,Sacramento
+3259-FDWOY,"Elk Grove"
+3259-KNMRR,Montrose
+3259-QMXUN,"Campo Seco"
+3261-CQXOL,Concord
+3262-EIDHV,Inglewood
+3266-FTKHB,"Beale Afb"
+3269-ATYWD,"San Francisco"
+3272-VUHPV,Whittier
+3274-NSDWE,Ivanhoe
+3275-RHRNE,Keeler
+3276-HDUEG,Temecula
+3278-FSIXX,"Blue Lake"
+3279-DYZQM,"Santa Clarita"
+3280-MRDOF,"Los Angeles"
+3280-NMUVX,"Rio Vista"
+3282-ZISZV,"South El Monte"
+3283-WCWXT,"Los Angeles"
+3284-SVCRO,Sunol
+3285-UCQVC,Seaside
+3292-PBZEJ,Greenview
+3295-YVUSR,Glendale
+3296-SILRA,Lakeport
+3298-QEICA,"Fountain Valley"
+3301-LSLWQ,Vallejo
+3301-VKTGC,Huron
+3307-TLCUD,"Los Angeles"
+3308-DGHKL,Linden
+3308-JSGML,Shandon
+3308-MHOOC,Scotia
+3312-UUMZW,"San Jose"
+3312-ZWLGF,Acton
+3313-QKNKB,"Pebble Beach"
+3315-IKYZQ,"Los Angeles"
+3315-TOTBP,"Mill Creek"
+3316-UWXUY,Burbank
+3317-HRTNN,"San Diego"
+3317-VLGQT,Wallace
+3318-ISQFQ,Newark
+3318-NMQXL,"El Monte"
+3318-OSATS,"Sierra City"
+3319-DWOEP,"San Diego"
+3320-VEOYC,"Beverly Hills"
+3323-CPBWR,"Knights Landing"
+3324-OIRTO,Glennville
+3325-FUYCG,"Five Points"
+3327-YBAKM,"San Diego"
+3329-WDIOK,Edwards
+3331-HQDTW,"San Diego"
+3334-CTHOL,Jackson
+3336-JORSO,Hayward
+3338-CVVEH,"Chula Vista"
+3339-EAQNV,Palermo
+3340-QBBFM,Petaluma
+3345-JHUEO,Windsor
+3345-PBBFH,Fowler
+3346-BRMIS,Bonsall
+3347-YJZZE,"Los Osos"
+3348-CFRNX,Healdsburg
+3349-ANQNH,"Del Rey"
+3351-NGXYI,"San Diego"
+3351-NQLDI,"Travis Afb"
+3352-ALMCK,Navarro
+3352-RICWQ,Davis
+3354-OADJP,Bolinas
+3359-DSRKA,"Scott Bar"
+3363-DTIVD,Reseda
+3363-EWLGO,Freedom
+3365-SAIGS,"Rancho Santa Fe"
+3370-GQEAL,Indio
+3370-HXOPH,"Mountain View"
+3372-CDXFJ,"San Quentin"
+3372-KWFBM,Bayside
+3373-DIUUN,Hinkley
+3373-YZZYM,"Los Gatos"
+3374-LXDEV,Pearblossom
+3374-PZLXD,"Blairsden Graeagle"
+3374-TTZTK,"Sun City"
+3376-BMGFE,Monrovia
+3378-AJRAO,"Garden Grove"
+3384-CTMSF,Lincoln
+3387-PLKUI,"San Jose"
+3387-VATUS,Aromas
+3389-KTRXV,Ravendale
+3389-YGYAI,Princeton
+3391-JSQEW,"San Jose"
+3392-EHMNK,Thermal
+3393-FMZPV,Elverta
+3396-DKDEL,"King City"
+3397-AVTKU,"Mount Hamilton"
+3398-FSHON,"San Diego"
+3398-GCPMU,Fullerton
+3398-ZOUAA,"Redwood City"
+3399-BMLVW,Whitmore
+3400-ESFUW,Cupertino
+3401-URHDA,"Emigrant Gap"
+3402-XRIUO,Glendale
+3404-JNXAX,Ukiah
+3407-JMJQQ,Oakhurst
+3407-QGWLG,Roseville
+3410-MHHUM,"San Francisco"
+3410-YOQBQ,Compton
+3411-WLRSQ,"Los Angeles"
+3413-BMNZE,"Los Angeles"
+3413-CSSTH,Stevinson
+3413-DHLPB,Oceano
+3415-TAILE,Johannesburg
+3417-TSCIC,Cloverdale
+3419-SNJJD,"Yorba Linda"
+3420-YJLQT,Alturas
+3420-ZDBMA,Brea
+3422-GALYP,Phillipsville
+3422-LYEPQ,"Carmel By The Sea"
+3422-WJOYD,Oakland
+3423-HHXAO,Littlerock
+3424-NMNBO,"San Diego"
+3426-NIYYL,Sausalito
+3427-GGZZI,Midpines
+3428-MMGUB,"Rio Nido"
+3428-XZMAZ,Turlock
+3429-IFLEM,Hayward
+3439-GVUSX,Lookout
+3440-JPSCL,Sonoma
+3441-CGZJH,"Lost Hills"
+3442-ZHHCC,Coarsegold
+3445-HXXGF,"Sierra Madre"
+3446-QDSZF,Homewood
+3450-WXOAT,Bakersfield
+3451-VAWLI,"North Highlands"
+3452-ABWRL,"San Jose"
+3452-FLHYD,Lucerne
+3452-GWUIN,"Raisin City"
+3452-SRFEG,"La Verne"
+3453-RTHJQ,"San Bernardino"
+3454-JFUBC,Pala
+3457-PQBYH,Washington
+3458-IDMFK,Idyllwild
+3460-TJBWI,Marshall
+3462-BJQQA,"Belvedere Tiburon"
+3466-BYAVD,"Long Beach"
+3466-RITXD,"Twin Bridges"
+3466-WAESX,"Rancho Cucamonga"
+3468-DRVQJ,"Los Angeles"
+3470-BTGQO,Belmont
+3470-OBUET,"San Jose"
+3472-OAOOR,"Mission Hills"
+3472-QPRCH,Sacramento
+3473-XIIIT,Sacramento
+3474-BAFSJ,"West Hollywood"
+3481-JHUZH,"Forks Of Salmon"
+3482-ABPKK,Nuevo
+3486-HOOGQ,"San Jose"
+3486-KHMLI,Adelanto
+3486-NPGST,"Mill Valley"
+3487-EARAT,Wishon
+3488-PGMQJ,Alpine
+3489-HHPFY,Amboy
+3489-VSFRD,Willits
+3494-JCHRQ,"Van Nuys"
+3496-LFSZU,Anaheim
+3498-LZGQZ,"Walnut Grove"
+3500-NSDOA,"Los Angeles"
+3500-RMZLT,Fresno
+3503-TYDAY,Keene
+3506-LCJDC,Modesto
+3506-OVLKD,Wilmington
+3507-GASNP,"North Hollywood"
+3508-CFVZL,"El Monte"
+3508-VLHCZ,Lakewood
+3509-GWQGF,Ducor
+3511-APPBJ,"Spring Valley"
+3511-BFTJW,Glendora
+3512-IZIKN,"San Bernardino"
+3518-FSTWG,Paradise
+3518-PZXZQ,Castroville
+3519-ZKXGG,"San Francisco"
+3520-FJGCV,"San Diego"
+3521-HTQTV,Hesperia
+3521-MNKLV,Nubieber
+3521-SYVOR,"San Diego"
+3522-CDKHF,Stockton
+3523-BRGUW,"Los Altos"
+3523-QRQLL,Bieber
+3524-WQDSG,"Corte Madera"
+3525-DVKFN,Felton
+3528-HFRIQ,"Los Angeles"
+3530-CRZSB,Malibu
+3530-VWVGU,Manteca
+3533-UVMOM,Markleeville
+3536-IQCTX,"South Pasadena"
+3537-HPKQT,Mentone
+3537-RYBHH,Northridge
+3538-WZPHD,"San Francisco"
+3540-RZJYU,Zenia
+3541-ZNUHK,"La Crescenta"
+3544-FBCAS,Philo
+3545-CNWRG,"Santa Monica"
+3546-GHEAE,Blythe
+3547-LQRIK,"San Gregorio"
+3549-ZTMNH,"San Mateo"
+3550-SAHFP,"Saint Helena"
+3551-GAEGL,Oakhurst
+3551-HUAZH,Brownsville
+3552-CTCYF,"San Bernardino"
+3556-BVQGL,"Sutter Creek"
+3557-HTYWR,"Los Angeles"
+3563-SVYLG,Nipton
+3565-UNOCC,Stockton
+3566-CAAYU,Cayucos
+3566-HJGPK,"Woodland Hills"
+3566-VVORZ,"Westlake Village"
+3567-PQTSO,"Junction City"
+3569-EDBPQ,"Pine Grove"
+3569-JFODW,"Del Mar"
+3569-VLDHH,Sacramento
+3570-YUEKJ,Fresno
+3571-DPYUH,Temecula
+3571-RFHAR,"Santa Paula"
+3572-UOLYZ,"San Jose"
+3572-UUHRS,"Castro Valley"
+3577-AMVUX,"Big Bear City"
+3580-GICBM,Clovis
+3580-HYCSP,"Midway City"
+3580-REOAC,"San Diego"
+3583-EKAPL,Redlands
+3583-KRKMD,"San Diego"
+3584-WKTTW,Weed
+3585-ISXZP,Indio
+3585-YNADK,Berkeley
+3587-PMCOY,Placerville
+3588-WSTTJ,"Los Angeles"
+3589-PPVKW,Pomona
+3590-TCXTB,Cerritos
+3594-BDSOA,Novato
+3594-IVHJZ,"French Gulch"
+3594-KADLU,"Witter Springs"
+3594-UVONA,"Costa Mesa"
+3597-MVHJT,Brawley
+3597-YASZG,Tustin
+3604-WLABM,"San Diego"
+3605-JISKB,"Twentynine Palms"
+3606-SBKRY,Linden
+3606-TWKGI,"Rowland Heights"
+3612-YUNGG,Burbank
+3612-YVGSJ,"La Honda"
+3617-XLSGQ,Modesto
+3620-EHIMZ,Menifee
+3620-MWJNE,Homeland
+3621-CEOVK,"Trinity Center"
+3621-CHYVB,Soquel
+3623-FQBOX,"Los Angeles"
+3627-FCRDW,Hughson
+3627-FHKBK,Anaheim
+3629-WEAAM,Forbestown
+3629-ZNKXA,"Seiad Valley"
+3633-CDBUW,Midpines
+3635-JBPSG,"Van Nuys"
+3635-QQRQD,Westmorland
+3638-DIMPH,Wilseyville
+3638-VBZTA,"Baldwin Park"
+3638-WEABW,"Los Angeles"
+3639-XJHKQ,"San Jose"
+3640-JQGJG,Pasadena
+3640-PHQXK,"Union City"
+3642-BYHDO,Downey
+3642-GKTCT,Oceanside
+3643-AHCFP,Selma
+3644-QXEHN,Smartville
+3645-DEYGF,Northridge
+3646-ITDGM,Sacramento
+3647-GMGDH,Jackson
+3648-GZPHF,"San Marcos"
+3649-JPUGY,"San Bernardino"
+3653-NCRDJ,Sacramento
+3654-ARMGP,"Los Angeles"
+3655-SNQYZ,"Los Angeles"
+3656-TKRVZ,"Chula Vista"
+3657-COGMW,"San Luis Obispo"
+3658-KIBGF,"Los Angeles"
+3658-QQJYD,"Santa Monica"
+3662-FXJFO,"Redondo Beach"
+3663-MITLP,Marina
+3665-JATSN,"Mount Shasta"
+3668-QPYBK,"Los Angeles"
+3669-LVWZB,Tahoma
+3669-OYSJI,"Porter Ranch"
+3669-WHAFY,Whittier
+3671-SHRSP,Marina
+3672-YITQD,Castaic
+3675-EQOZA,"Newport Beach"
+3675-YDUPJ,"Rancho Cucamonga"
+3677-IYRBF,Newcastle
+3677-TNKIO,Templeton
+3678-MNGZX,"Porter Ranch"
+3679-XASPY,Inglewood
+3680-CTHUH,Kneeland
+3682-YEUWS,Tulelake
+3683-QKIUE,"San Francisco"
+3685-YLCMQ,Dobbins
+3688-FTHLT,Flournoy
+3689-MOZGR,Irvine
+3692-JHONH,"Kettleman City"
+3694-DELSO,Olancha
+3694-GLTJM,Corning
+3696-DFHHB,"Big Bend"
+3696-XRIEN,"San Jose"
+3701-SFMUH,"Trabuco Canyon"
+3703-KBKZP,Standish
+3703-TTEPD,Irvine
+3703-VAVCL,"Strawberry Valley"
+3704-IEAXF,"Los Angeles"
+3705-PSNGL,Cerritos
+3705-RHRFR,Ukiah
+3707-GNWHM,"Carmel Valley"
+3707-LRWZD,Oakland
+3709-OIJEA,Geyserville
+3712-PKXZA,Glendale
+3714-JTVOV,"Crows Landing"
+3714-NTNFO,"Los Angeles"
+3714-XPXBW,"Santa Cruz"
+3716-BDVDB,"San Diego"
+3716-LRGXK,"San Jose"
+3716-UVSPD,"San Juan Capistrano"
+3717-FDJFU,"Montgomery Creek"
+3717-LNXKW,Glenn
+3717-OEAUQ,Ione
+3717-OFRTN,Dublin
+3719-TDVQB,Ripon
+3720-DBRWL,Tehama
+3721-CNEYS,"Douglas City"
+3721-CNZHX,Berkeley
+3721-WKIIL,Smartville
+3722-WPXTK,Benton
+3723-BFBGR,"Borrego Springs"
+3724-BSCVH,Mecca
+3724-UCSHY,Reedley
+3726-TBHQT,"Catheys Valley"
+3727-JEZTU,Bakersfield
+3727-OVPRY,Calabasas
+3727-OWVYD,Campo
+3727-RJMEO,"Rohnert Park"
+3729-OWRVL,Pixley
+3733-LSYCE,Samoa
+3733-UOCWF,Helendale
+3733-ZEECP,Inglewood
+3736-BLEPA,Folsom
+3737-GCSPV,Millbrae
+3737-XBQDD,"Mount Laguna"
+3739-YBWAB,Paramount
+3740-RLMVT,"Saint Helena"
+3744-ZBHON,Highland
+3744-ZRRDZ,Torrance
+3745-HRPHI,"Yuba City"
+3746-EUBYR,Fallbrook
+3748-FVMZZ,Oakland
+3750-CKVKH,"Clearlake Oaks"
+3750-RNQKR,Alameda
+3750-YHRYO,Glendora
+3751-KTZEL,Yorkville
+3752-CQSJI,"San Anselmo"
+3753-TSEMP,"San Diego"
+3754-DXMRT,"San Pablo"
+3755-JBMNH,"Huntington Beach"
+3756-VNWDH,Pasadena
+3757-NJYBX,Nipomo
+3758-CKOQL,Valyermo
+3761-FLYZI,"Los Angeles"
+3763-GCZHZ,"Hathaway Pines"
+3764-MNMOI,Boulevard
+3765-JXVKY,"Paynes Creek"
+3766-EJLFL,"Mill Creek"
+3768-NLUBH,Torrance
+3768-VHXQO,"Redondo Beach"
+3769-MHZNV,Salyer
+3771-PZOBW,Solvang
+3774-VBNXY,"Hawaiian Gardens"
+3776-EKTKM,Burbank
+3777-XROBG,"Echo Lake"
+3778-FOAQW,"San Diego"
+3779-OSWCF,"Dillon Beach"
+3780-DDGSE,Shoshone
+3780-YVMFA,"Long Beach"
+3785-KTYSH,"Mission Hills"
+3785-NRHYR,Bridgeport
+3786-WOVKF,Anaheim
+3787-TRIAL,"San Ardo"
+3791-LGQCY,Loomis
+3793-MMFUH,Davis
+3794-NFNCH,"Bella Vista"
+3795-CAWEX,Whitmore
+3795-GWTRD,"Los Angeles"
+3796-ENZGF,"The Sea Ranch"
+3797-FKOGQ,"Canoga Park"
+3797-VTIDR,"San Jose"
+3798-EPWRR,"Beverly Hills"
+3799-ISUZQ,"California Hot Springs"
+3800-LYTRK,"Point Reyes Station"
+3801-HMYNL,Brooks
+3803-KMQFW,Brea
+3804-RVTGV,"Mountain View"
+3806-DXQOM,Baker
+3806-YAZOV,Lagunitas
+3807-BPOMJ,Dobbins
+3807-XHCJH,"Fish Camp"
+3808-HFKDE,Alhambra
+3810-DVDQQ,"Shasta Lake"
+3810-PJUHR,"Morongo Valley"
+3811-VBYBZ,"Lytle Creek"
+3812-LRZIR,"Desert Hot Springs"
+3813-DHBBB,Cedarville
+3814-MLAXC,Hayward
+3815-SLMEF,Avenal
+3823-KYNQY,"Van Nuys"
+3824-RHKVR,Fullerton
+3831-YCPUO,Glencoe
+3834-XUIFC,"Long Beach"
+3836-FZSDJ,Fresno
+3838-OZURD,"Somes Bar"
+3841-CONLJ,"Morro Bay"
+3841-NFECX,"Los Angeles"
+3842-IYKUE,"San Leandro"
+3842-QTGDL,"Walnut Creek"
+3845-FXCYS,"Long Barn"
+3845-JHAMY,Inverness
+3847-BAERP,"Bass Lake"
+3850-OKINF,Pasadena
+3853-LYGAM,"Meadow Vista"
+3855-ONCAR,Arcadia
+3858-VOBET,"San Diego"
+3858-XHYJO,"San Gabriel"
+3859-CVCET,Lindsay
+3863-IUBJR,Oakland
+3863-QSTYI,"Mission Viejo"
+3865-QBWSJ,Courtland
+3865-YIOTT,"San Francisco"
+3865-ZFZIB,"Los Angeles"
+3865-ZYKAD,Sacramento
+3866-MDTUB,"Los Angeles"
+3870-MQAMG,"Camp Nelson"
+3870-SPZSI,Wilton
+3871-IKPYH,Camarillo
+3873-NFTGI,Fresno
+3873-WOSBC,"Catheys Valley"
+3874-EQOEP,"Long Beach"
+3877-JRJIP,Hawthorne
+3878-AVSOQ,"La Jolla"
+3882-IYOIJ,"Yorba Linda"
+3884-HCSWG,Camptonville
+3884-UEBXB,"Diamond Springs"
+3886-CERTZ,Fullerton
+3887-PBQAO,"Hermosa Beach"
+3889-VWBID,Antelope
+3890-RTCMS,Millville
+3891-NLXJB,"San Jose"
+3891-PUQOD,"Los Angeles"
+3892-NXAZG,Downieville
+3893-JRNFS,Palmdale
+3896-RCYYE,Atwater
+3896-ZVNET,Gerber
+3898-BSJYF,Herlong
+3898-GUYTS,Ravendale
+3900-AQPHZ,Pearblossom
+3902-FOIGH,Doyle
+3902-MIVLE,Whittier
+3904-UKFRE,Stockton
+3908-BLSYF,"Los Altos"
+3908-MKIMJ,"Mount Shasta"
+3910-MRQOY,Orick
+3911-RSNHI,Rocklin
+3913-FCUUW,Hanford
+3913-RDSJZ,"Los Angeles"
+3914-FDRHP,"Warner Springs"
+3915-ODIYG,Cotati
+3916-NRPAP,Escalon
+3920-HIHMQ,"Scotts Valley"
+3923-CSIHK,Herald
+3926-CUQZX,Campo
+3926-YZVVX,Sacramento
+3927-NLNRY,"Long Barn"
+3930-ZGWVE,Stanton
+3932-CMDTD,"Foothill Ranch"
+3932-IJWDZ,Willits
+3933-DQPWX,Barstow
+3934-HXCFZ,Pinecrest
+3935-TBRZZ,"Twentynine Palms"
+3936-QQFLL,Calimesa
+3938-YFPXD,Janesville
+3941-XTSKM,"Burnt Ranch"
+3943-KDREE,"Los Angeles"
+3945-GFWQL,"San Jose"
+3946-JEWRQ,"Sherman Oaks"
+3946-MHCZW,Ontario
+3948-FVVRP,"Santa Maria"
+3948-KXDUF,"Los Gatos"
+3948-XHGNA,"San Diego"
+3950-VPYJB,Chester
+3951-NJCVI,"Cathedral City"
+3955-JBZZM,"Hermosa Beach"
+3956-CJUST,"San Francisco"
+3956-MGXOG,Modesto
+3957-HHLMR,Aguanga
+3957-LXOLK,Shingletown
+3957-SQXML,"Los Angeles"
+3961-SXAXY,"Thousand Oaks"
+3963-RYFNS,Venice
+3966-HRMZA,Bishop
+3967-KXAPS,"Los Angeles"
+3967-VQOGC,Leggett
+3969-GYXEL,Berkeley
+3969-JQABI,"Palo Alto"
+3970-XGJDU,"West Hills"
+3973-SKMLN,Carlsbad
+3976-BWUCK,"San Diego"
+3976-HXHCE,"Belvedere Tiburon"
+3976-NLDEZ,"Mira Loma"
+3977-QCRSL,"Warner Springs"
+3978-YNKDD,"Culver City"
+3981-QSVQI,Bakersfield
+3982-DQLUS,Sunland
+3982-JGSFD,Madera
+3982-XWFZQ,Denair
+3985-HOYPM,Washington
+3987-KQDDU,Sonoma
+3988-RQIXO,"Corona Del Mar"
+3990-QYKBE,"La Canada Flintridge"
+3992-YWPKO,Atwater
+3995-WFCSM,"San Jacinto"
+3996-ZNWYK,Sacramento
+3999-QGRJH,Ballico
+3999-WRNGR,"Soda Springs"
+4000-VGMQP,"Pollock Pines"
+4001-TSBTV,Sacramento
+4002-BQWPQ,Crockett
+4003-FUSHP,"Santa Cruz"
+4003-OCTMP,Tracy
+4006-HKYHO,Bakersfield
+4007-NHVHI,"Rio Linda"
+4009-ALQFH,Groveland
+4010-YLMVT,Yucaipa
+4011-ARPHK,Norwalk
+4012-YCFAI,Riverside
+4012-ZTHBR,Kneeland
+4013-GUXND,Lancaster
+4013-TLDHQ,Berkeley
+4013-UBXWQ,Fallbrook
+4016-BJKTZ,"San Jose"
+4018-KJYUY,Courtland
+4018-PPNDW,"California City"
+4020-KIUDI,"Los Angeles"
+4021-RQSNY,"Moreno Valley"
+4023-RTIQM,Redcrest
+4024-CSNBY,"Mount Hamilton"
+4026-SKKHW,"Dillon Beach"
+4029-HPFVY,"San Francisco"
+4030-VPZBD,Comptche
+4032-RMHCI,"Fall River Mills"
+4039-HEUNW,Irvine
+4039-PIMHX,"San Diego"
+4043-MKDTV,"Rancho Mirage"
+4049-ZPALD,"Forest Falls"
+4054-CUMIA,"San Miguel"
+4056-QHXHZ,Goleta
+4057-FKCZK,Prather
+4059-IIEBK,Ojai
+4060-LDNLU,"Diamond Bar"
+4061-UKJWL,"San Francisco"
+4062-HBMOS,Redding
+4063-EIKNQ,"Canyon Country"
+4065-JJAVA,Oakland
+4067-HLYQI,Colton
+4070-OKWVH,"Mira Loma"
+4072-IPYLT,Randsburg
+4074-SJFFA,"San Francisco"
+4075-JFPGR,"Rancho Cucamonga"
+4075-WKNIU,Bell
+4077-CROMM,Modesto
+4077-HWUYD,Modesto
+4078-SAYYN,Burbank
+4079-ULGFR,Paicines
+4079-VTGLK,Riverside
+4079-WWQQQ,"San Francisco"
+4080-IIARD,"Los Angeles"
+4080-OGPJL,"San Pedro"
+4081-DYXAV,"San Jose"
+4083-BFNYK,Acton
+4083-EUGRJ,Oceanside
+4086-ATNFV,"Hawaiian Gardens"
+4086-WITJG,"Los Angeles"
+4086-YQSNZ,Glencoe
+4088-YLDSU,"Redwood City"
+4090-KPJIP,Anaheim
+4091-TVOCN,Potrero
+4092-OFQZS,"Manhattan Beach"
+4094-NSEDU,Temecula
+4097-YODCF,Fawnskin
+4098-NAUKP,Oceano
+4102-HLENU,Auburn
+4102-OQUPX,"Sheep Ranch"
+4104-PVRPS,Rialto
+4106-HADHQ,"Emigrant Gap"
+4109-CYRBD,Menifee
+4110-PFEUZ,Daggett
+4111-BNXIF,"Rancho Cucamonga"
+4112-LUEIZ,"La Palma"
+4114-QMKVN,Surfside
+4115-BNPJY,"National City"
+4115-NZRKS,"San Diego"
+4115-UMJFQ,"West Hills"
+4116-IQRFR,Cressey
+4116-TZAQJ,"Culver City"
+4118-CEVPF,"Redwood City"
+4119-ZYPZY,Glendale
+4121-AGSIN,"Ben Lomond"
+4123-DVHPH,Orinda
+4123-FCVCB,"Pinon Hills"
+4124-MMETB,Lockwood
+4128-ETESU,Pasadena
+4129-LYCOI,Guinda
+4130-MZLCC,"Temple City"
+4132-KALRO,"Davis Creek"
+4132-POCZS,"West Point"
+4134-BSXLX,Riverside
+4135-FRWKJ,"Santa Monica"
+4137-BTIKL,Daggett
+4137-JOPHL,Inglewood
+4138-NAXED,"Joshua Tree"
+4139-DETXS,Needles
+4139-JPIAM,Geyserville
+4139-SUGLD,"Santa Clara"
+4140-MUHUG,"Oak View"
+4140-WJAWW,"Los Angeles"
+4143-HHPMK,"Mission Hills"
+4143-OOBWZ,Fresno
+4145-UQXUQ,Berkeley
+4146-SVFUD,Modesto
+4154-AQUGT,"San Diego"
+4159-NAAIX,Saratoga
+4160-AMJTL,Fellows
+4163-HFTUK,Oxnard
+4163-KIUHY,"Los Angeles"
+4163-NCJAK,"Palm Desert"
+4174-LPGTI,Beaumont
+4176-FXYBO,Whittier
+4176-RELJR,Elmira
+4177-JPDFU,Redcrest
+4178-EGMON,Prather
+4182-BGSIQ,Durham
+4183-MYFRB,"Los Angeles"
+4183-WCSEP,Weaverville
+4184-TJFAN,Berkeley
+4184-VODJZ,"Forks Of Salmon"
+4186-ZBUEW,Compton
+4187-CINZD,Lakewood
+4188-FRABG,Sunland
+4188-PCPIG,Valencia
+4189-NAKJS,Murphys
+4190-MFLUW,"San Diego"
+4191-XOVOM,Oakland
+4192-GORJT,Fremont
+4193-IBKSW,"San Pedro"
+4193-ORFCL,"North Hollywood"
+4194-FJARJ,Albany
+4194-WHFCB,Aromas
+4195-NZGTA,Valencia
+4195-PNGZS,Irvine
+4195-SMMNX,Hydesville
+4198-VFOEA,Stanford
+4199-QHJNM,"Bass Lake"
+4201-JMNGR,"Lucerne Valley"
+4203-QGNZA,"Los Angeles"
+4208-UFFGW,Byron
+4210-QFJMF,Fallbrook
+4211-MMAZN,Vacaville
+4213-HKBJO,Martinez
+4220-TINQT,"Raisin City"
+4223-BKEOR,"San Bernardino"
+4223-WOZCM,Carmel
+4226-KKDON,"French Camp"
+4227-OJHAL,"El Centro"
+4228-ZGYUW,"San Francisco"
+4229-CZMLL,Salinas
+4231-LZUYM,Larkspur
+4232-JGKIY,"Los Angeles"
+4234-XTNEA,Irvine
+4236-UJPWO,Alviso
+4236-XPXAV,Dunnigan
+4237-CLSMM,Highland
+4237-RLAQD,Callahan
+4238-HFHSN,Elverta
+4238-JSSWH,Porterville
+4248-HCETZ,Sacramento
+4248-QPAVC,"San Diego"
+4250-FDVOU,Woodland
+4250-WAROZ,Fresno
+4250-ZBWLV,Olema
+4254-QPEDE,Banning
+4255-DDUOU,Casmalia
+4256-ZWTZI,"Morro Bay"
+4257-GAESD,Dinuba
+4273-MBHYA,"Desert Hot Springs"
+4274-DRSQT,Potrero
+4274-OWWYO,"Walnut Grove"
+4277-BWBML,"Three Rivers"
+4277-PVRAN,"Daly City"
+4277-UDIEF,Nuevo
+4280-DLSHD,"San Bernardino"
+4282-ACRXS,Covina
+4282-MSACW,"Tahoe City"
+4282-YMKNA,Biola
+4283-FUTGF,"El Sobrante"
+4283-IVYCI,Sacramento
+4285-GYRQC,"Newport Beach"
+4289-DTDKW,Madera
+4290-BSXUX,"Fields Landing"
+4291-HPAXL,Galt
+4291-HYEBC,Weldon
+4291-SHSBH,Modesto
+4291-TPNFG,"Raisin City"
+4291-YZODP,"San Carlos"
+4293-ETKAP,Litchfield
+4295-YURET,"San Quentin"
+4298-OYIFC,Loyalton
+4299-OPXEJ,Inglewood
+4299-SIMNS,"Temple City"
+4301-VVZKA,"San Francisco"
+4302-ZYFEL,"Belvedere Tiburon"
+4304-TSPVK,Tupman
+4304-XUMGI,"Moreno Valley"
+4307-KTUMW,"Santa Barbara"
+4307-KWMXE,Llano
+4310-KEDTB,"Yuba City"
+4311-QTTAI,"Van Nuys"
+4312-GVYNH,Westminster
+4312-KFRXN,Bradley
+4315-MURBD,"San Bruno"
+4316-XCSLJ,"Palo Alto"
+4317-VTEOA,"Rowland Heights"
+4318-RAJVY,Encino
+4320-QMLLA,Avery
+4322-RCYMT,"San Diego"
+4323-ELYYB,Likely
+4323-OHFOW,Newhall
+4323-SADQS,Concord
+4324-AHJKS,Buttonwillow
+4324-BZCKL,"Paynes Creek"
+4325-NFSKC,"Pacific Palisades"
+4328-VUFWD,Vallejo
+4329-YPDDQ,Cazadero
+4332-MUOEZ,"Moreno Valley"
+4334-HOWRP,Cambria
+4335-BSMJS,Sanger
+4335-UPJSI,Aguanga
+4338-EYCER,Carlotta
+4342-HENTK,Garberville
+4342-HFXWS,"Santa Monica"
+4343-EJVQB,Mariposa
+4349-GFQHK,Mentone
+4350-ZTLPI,"Van Nuys"
+4351-QLCSU,Quincy
+4353-HYOJD,Monrovia
+4355-CVPVS,"California Hot Springs"
+4355-HBJHH,Waterford
+4359-INNWN,Dunsmuir
+4360-PNRQB,"Yucca Valley"
+4360-QRAVE,Farmington
+4361-BKAXE,"Boulder Creek"
+4361-FEBGN,"San Francisco"
+4361-JEIVL,Greenfield
+4365-MSDYN,"San Clemente"
+4366-CTOUZ,"Bodega Bay"
+4367-NHWMM,"Corte Madera"
+4367-NUYAO,Cupertino
+4369-HTUIF,"Pismo Beach"
+4369-NYSCF,Oakland
+4373-MAVJG,"San Diego"
+4373-VVHQL,"Arroyo Grande"
+4374-YMUSQ,"Lake Elsinore"
+4376-KFVRS,Barstow
+4377-VDHYI,Patterson
+4378-BZYFP,Fairfield
+4378-MYPGO,Greenwood
+4381-MHQDC,Solvang
+4385-GZQXV,Ontario
+4385-ZKVNW,"San Francisco"
+4389-UEFCZ,"Monte Rio"
+4390-KYULV,Piru
+4391-LNRXK,"Port Costa"
+4391-RESHN,"Lemon Cove"
+4393-GEADV,Dulzura
+4393-OBCRR,"Bella Vista"
+4393-RYCRE,Macdoel
+4395-PZMSN,"San Gregorio"
+4396-KLSEH,Bakersfield
+4397-FRLTA,Corona
+4398-HSCJH,"Los Angeles"
+4402-FTBXC,Hopland
+4403-BWPAY,"Los Angeles"
+4404-HIBDJ,"San Jose"
+4412-YLTKF,"Pico Rivera"
+4415-IJZTP,"Los Angeles"
+4415-WNGVR,Daggett
+4418-LZMSV,"San Diego"
+4419-UJMUS,Wildomar
+4422-QVIJA,"Los Angeles"
+4423-JWZJN,Springville
+4423-YLHDV,"Los Angeles"
+4424-TKOPW,Crestline
+4425-OWHWB,"El Cajon"
+4429-WYGFR,Sacramento
+4430-UZIPO,"San Diego"
+4430-YHXGG,"San Lorenzo"
+4431-EDMIQ,Sugarloaf
+4432-ADRLB,Fallbrook
+4433-JCGCG,"San Diego"
+4439-JMPMT,Comptche
+4439-YRNVD,Selma
+4441-NIHPT,Freedom
+4443-EMBNA,Castaic
+4445-KWOKW,Potrero
+4445-ZJNMU,"Manhattan Beach"
+4446-BZKHU,"Pleasant Hill"
+4450-DLLMH,Avalon
+4450-MDZFX,Monrovia
+4450-YOOHP,Sacramento
+4451-RWASJ,Lagunitas
+4452-QIIEB,Glendora
+4452-ROHMO,"San Diego"
+4455-BFSPD,Escondido
+4456-RHSNB,"San Bernardino"
+4458-KVRBJ,"San Jose"
+4459-BBGHE,Descanso
+4462-CYWMH,Lindsay
+4464-JCOLN,Huron
+4465-VDKIQ,Glendale
+4468-KAZHE,Hughson
+4468-YDOVK,Richmond
+4471-KXAUH,Woody
+4472-LVYGI,"San Bernardino"
+4472-VESGY,Durham
+4475-NVTLU,"Paso Robles"
+4476-OSWTN,"Witter Springs"
+4480-MBMLB,"Los Angeles"
+4480-QQRHC,Hydesville
+4482-EWFMI,Arcadia
+4482-FTFFX,Penngrove
+4484-CGXFK,"El Dorado"
+4484-GLZOU,"San Dimas"
+4486-EFAEB,"Los Angeles"
+4487-ZYJZK,"Los Gatos"
+4488-KQFDT,"Lemon Grove"
+4488-PSYCG,"Seiad Valley"
+4489-SNOJF,"Deer Park"
+4495-LHSSK,"Camp Nelson"
+4500-HKANN,Anaheim
+4501-EQDRN,Montclair
+4501-UYKBC,Igo
+4501-VCPFK,Coachella
+4503-BDXBD,Anaheim
+4504-YOULA,Wilton
+4505-EXZHB,Ducor
+4508-OEBEY,Goleta
+4510-HIMLV,"La Habra"
+4510-PYUSH,Sylmar
+4512-ZUIYL,Sunnyvale
+4513-CXYIX,"Lake Elsinore"
+4514-GFCFI,"San Diego"
+4518-FZBSX,Coulterville
+4521-WFJAI,Sacramento
+4521-YEEHE,Anaheim
+4522-AKYLR,"Chino Hills"
+4522-XRWWI,Manton
+4523-WXCEF,"San Jose"
+4524-QCSSM,Encino
+4525-VZCZG,Vernalis
+4526-EXKKN,"Rio Nido"
+4526-RMTLL,Maywood
+4526-ZJJTM,"San Mateo"
+4529-CKBCL,Ventura
+4530-NDRKU,Auburn
+4531-AUZNK,Oakland
+4534-WGCIR,Covina
+4536-PLEQY,"Los Angeles"
+4537-CIBHB,Arvin
+4537-DKTAL,Darwin
+4538-WNTMJ,Isleton
+4541-RMRLG,Hayward
+4544-RXFMG,"North San Juan"
+4546-FOKWR,"Los Gatos"
+4547-FZJWE,"Forest Falls"
+4547-KQRTM,Eldridge
+4547-LYTDD,"North Hollywood"
+4548-SDBKE,"San Dimas"
+4549-ZDQYY,Torrance
+4550-EVXNY,"San Francisco"
+4550-VBOFE,Soulsbyville
+4553-DVPZG,"Daly City"
+4554-YGZIH,Summerland
+4558-CGYCZ,"San Fernando"
+4558-FANTW,"Fair Oaks"
+4559-UWIHT,Atascadero
+4560-WQAQW,"Mount Laguna"
+4565-EVZMJ,"San Diego"
+4565-NLZBV,Kneeland
+4566-GOLUK,Rosemead
+4566-NECEV,"Palos Verdes Peninsula"
+4566-QVRRW,"Witter Springs"
+4567-AKPIA,"Canyon Dam"
+4568-KNYWR,Fullerton
+4568-TTZRT,Auburn
+4570-QHXHL,"Santa Ana"
+4572-DVCGN,"San Diego"
+4573-JKNAE,"Los Angeles"
+4576-CSAJH,"San Diego"
+4578-PHJYZ,Orland
+4580-TMHJU,Avenal
+4581-LNWUM,"San Pablo"
+4581-SSPWD,"Mountain View"
+4583-PARNH,Kerman
+4584-LBNMK,Portola
+4585-HETAI,"Huntington Park"
+4587-NUKOX,Walnut
+4587-VVTOX,"Frazier Park"
+4588-YBNIB,Fremont
+4589-IUAJB,"Garden Grove"
+4592-IWTJI,Homewood
+4597-ELFTS,Glendale
+4597-NUCQV,Oakland
+4598-XLKNJ,Inglewood
+4598-ZADCK,Hopland
+4603-JANFB,Glencoe
+4607-CHPCA,"San Martin"
+4608-LCIMN,"Pismo Beach"
+4609-KNNWG,Dunnigan
+4611-ANLQC,"Castro Valley"
+4612-SSVHJ,Yermo
+4612-THJBS,"Terra Bella"
+4614-NUVZD,Anaheim
+4615-PIVVU,Ludlow
+4616-EWBNJ,"Los Angeles"
+4616-ULAOA,Escondido
+4619-EVPHY,Lamont
+4622-YNKIJ,Norwalk
+4623-ZKHLY,Ontario
+4625-EWPTF,Pasadena
+4625-LAMOB,Fresno
+4625-XMOYM,Annapolis
+4626-GYCZP,Eureka
+4626-OZDTJ,Wildomar
+4627-MIHJH,Stockton
+4628-CTTLA,Sanger
+4628-WQCQQ,Whittier
+4629-NRXKX,"El Monte"
+4631-OACRM,"Lake Forest"
+4632-PAOYU,Anaheim
+4632-XJMEX,Fresno
+4633-MKHYU,"San Diego"
+4634-JLRJT,Ontario
+4635-EJYPD,Tomales
+4636-JGAAI,"San Jose"
+4636-OLWOE,Fortuna
+4636-QRJKY,Idyllwild
+4636-TVXVG,Woodacre
+4640-UHDOS,Phelan
+4641-FROLU,"La Honda"
+4644-OBGFZ,"San Francisco"
+4644-PIZRT,"Long Barn"
+4646-QZXTF,"San Juan Bautista"
+4647-MUZON,"Port Hueneme"
+4647-XXZAM,"Los Angeles"
+4648-YPBTM,Arcadia
+4652-NNHNY,Fellows
+4652-ODEVH,"Dutch Flat"
+4654-DLAMQ,"Warner Springs"
+4654-GGUII,Smartville
+4654-ULTTN,Fillmore
+4656-CAURT,Phillipsville
+4657-FWVFY,"Kings Beach"
+4658-HCOHW,"Redwood Valley"
+4659-NZRUF,Oakland
+4660-IRIBM,"Crows Landing"
+4661-NJEUX,"Portola Valley"
+4662-EKDPQ,"San Diego"
+4664-NJCMS,"San Francisco"
+4667-OHGKG,Summerland
+4667-QONEA,"Los Angeles"
+4670-TABXH,Hawthorne
+4671-LXRDQ,Salyer
+4671-VJLCL,"Los Angeles"
+4672-FOTSD,Dorris
+4673-KKSLS,Oakland
+4674-HGNUA,Petrolia
+4676-MQUEA,"Laguna Beach"
+4676-WLUHT,Darwin
+4678-DVQEO,"Bass Lake"
+4680-KUTAJ,"Beverly Hills"
+4682-BLBUC,"La Crescenta"
+4683-WYDOU,"Rancho Palos Verdes"
+4685-ERGHK,Gasquet
+4685-TFLLS,Spreckels
+4686-GEFRM,Pioneertown
+4686-UXDML,Cutler
+4690-LLKUA,"San Diego"
+4690-PKDQG,"San Diego"
+4692-NNQRU,Cloverdale
+4693-VWVBO,"Valley Springs"
+4694-PHWFW,"San Francisco"
+4695-VADHF,Oakland
+4695-WJZUE,Irvine
+4697-LUPSU,"Grover Beach"
+4698-KVLLG,"San Quentin"
+4700-UBQMV,Stockton
+4701-AHWMW,Susanville
+4701-LKOZD,Foresthill
+4701-MLJPN,Fresno
+4702-HDRKD,"Knights Landing"
+4702-IOQDC,Gustine
+4703-MQYKT,Escondido
+4704-ERYFC,"Knights Landing"
+4706-AXVKM,"Stevenson Ranch"
+4706-DGAHW,"California Hot Springs"
+4707-MAXGU,"Canyon Country"
+4707-YNOQA,"Burnt Ranch"
+4709-LKHYG,Tarzana
+4710-FDUIZ,"Santa Ana"
+4710-NKCAW,"El Cajon"
+4712-AUQZO,Pinole
+4712-UYOOI,"Santa Cruz"
+4713-LZDRV,Malibu
+4713-ZBURT,Brisbane
+4716-HHKQH,Pomona
+4716-MRVEN,Parlier
+4717-GHADL,Callahan
+4718-DHSMV,Llano
+4718-WXBGI,"Twain Harte"
+4719-UMSIY,"Lake Arrowhead"
+4720-VSTSI,"Monterey Park"
+4723-BEGSG,Corona
+4724-WXVWF,Earp
+4726-DLWQN,"Live Oak"
+4727-MCYZG,"Union City"
+4729-XKASR,"San Jose"
+4730-AWNAU,"Lower Lake"
+4732-RRJZC,Bridgeville
+4735-ASGMA,"Carnelian Bay"
+4735-BJKOU,"Los Angeles"
+4737-AQCPU,"Los Angeles"
+4737-HOBAX,Penngrove
+4741-WWJQZ,Forestville
+4742-DRORA,Mecca
+4742-TXUEX,Rialto
+4745-LSPLO,"San Diego"
+4747-LCAQL,"Los Angeles"
+4749-OJKQU,"San Jose"
+4749-VFKVB,Inverness
+4750-UKWJK,Gilroy
+4750-ZRXIU,"Palo Alto"
+4751-ERMAN,Gazelle
+4753-PADAS,Bieber
+4759-PXTAN,"Potter Valley"
+4759-TRPLW,"Long Beach"
+4760-THGOT,"San Jose"
+4760-XOHVN,"Myers Flat"
+4763-PGDPO,Sacramento
+4765-OXPPD,Ventura
+4767-HZZHQ,"Redondo Beach"
+4770-QAZXN,Tomales
+4770-UEZOX,Fallbrook
+4774-HHGGS,Janesville
+4776-XSKYQ,"Laguna Hills"
+4778-IZARL,"New Cuyama"
+4779-ZGICK,"Los Angeles"
+4781-ZXYGU,Sausalito
+4782-OSFXZ,Lodi
+4785-FCIFB,"Forest Falls"
+4785-NKHCX,"O Neals"
+4785-QRJHC,"San Francisco"
+4786-UKSNZ,Clayton
+4789-KWMXN,Tuolumne
+4791-QRGMF,Miranda
+4795-KTRTH,"San Diego"
+4795-UXVCJ,Gonzales
+4795-WRNVT,Pomona
+4797-AXPXK,Lompoc
+4797-MIWUM,Goleta
+4800-CZMPC,Delano
+4800-VHZKI,"San Diego"
+4801-JZAZL,"Angelus Oaks"
+4801-KFYKL,"Granada Hills"
+4803-AXVYP,"Butte City"
+4803-LBYPN,Orange
+4804-NCPET,Clearlake
+4806-DXQCE,"Santa Monica"
+4806-HIPDW,Calimesa
+4806-KEXQR,Lockeford
+4807-IZYOZ,"North Palm Springs"
+4808-YNLEU,Maywood
+4811-JBUVU,"Sherman Oaks"
+4813-HQMGZ,Ducor
+4815-GBTCD,Wishon
+4815-TUMEQ,Lynwood
+4815-YOSUK,"Aliso Viejo"
+4816-JBHOV,"Los Angeles"
+4816-LXZYW,"Long Beach"
+4816-OKWNX,"Los Angeles"
+4817-KEQSP,Temecula
+4817-QRJSX,Clovis
+4817-VYYWS,Silverado
+4818-DRBQT,Farmersville
+4818-QIUFN,"Desert Hot Springs"
+4819-HJPIW,Avery
+4821-SJHJV,Calipatria
+4821-WQOYN,"Little River"
+4822-LPTYJ,"Los Angeles"
+4822-NGOCH,Sacramento
+4822-RVYBB,Berkeley
+4822-YCXMX,Fresno
+4824-GUCBY,"San Francisco"
+4825-FUREZ,"San Jose"
+4825-XJGDM,Mccloud
+4826-DXMUP,"Mountain View"
+4826-TZEVA,"O Neals"
+4826-XTSOH,"Moss Landing"
+4827-DPADN,"Los Angeles"
+4827-LTQRJ,Shasta
+4827-USJHP,Glendale
+4828-FAZPK,Inglewood
+4829-AUOAX,"Los Angeles"
+4829-ZLJTK,Penngrove
+4830-FAXFM,Korbel
+4831-EOBFE,"Mountain Ranch"
+4832-VRBMR,"Parker Dam"
+4833-QTJNO,Coulterville
+4835-YSJMR,Ceres
+4836-WNFNO,"Los Angeles"
+4837-PZTIC,Torrance
+4837-QUSFT,Oakley
+4840-ORQXB,"Sierra Madre"
+4844-JJWUY,"San Francisco"
+4846-WHAFZ,Whittier
+4847-QNOKA,Modesto
+4847-TAJYI,"Chula Vista"
+4849-PYRLQ,Fremont
+4851-BQDNX,Oxnard
+4853-OITSN,Oakland
+4853-RULSV,Miramonte
+4854-CIDCF,"Los Angeles"
+4854-SSLTN,Torrance
+4855-SNKMY,"Los Angeles"
+4859-ZSRDZ,Vacaville
+4860-IJUDE,Ripon
+4860-YZGZM,"San Jose"
+4868-AADLV,Durham
+4869-EPIUS,"San Rafael"
+4871-JTKJF,Selma
+4872-JCVCA,"Desert Hot Springs"
+4872-VXRIL,Lancaster
+4873-ILOLJ,Sunol
+4877-EVATK,Elk
+4877-TSOFF,"Morongo Valley"
+4878-BUNFV,Oakland
+4879-GZLFH,"Buena Park"
+4881-GQJTW,Taylorsville
+4881-JVQOD,Oxnard
+4883-KCPZJ,"Deer Park"
+4883-QICIH,"Bodega Bay"
+4884-LEVMQ,"Valley Springs"
+4884-TVUQF,Occidental
+4884-ZTHVF,"Santa Cruz"
+4890-VMUAV,Alpine
+4891-NLUBA,"Paynes Creek"
+4892-VLANZ,Colusa
+4893-GYUJU,"Oregon House"
+4895-TMWIR,"San Diego"
+4896-CPRPF,"Valley Ford"
+4897-QSUYC,Amboy
+4900-MSOMT,"Carnelian Bay"
+4902-OHLSK,"Half Moon Bay"
+4903-CNOZC,"La Canada Flintridge"
+4903-UYAVB,Lathrop
+4905-JEFDW,"Palo Alto"
+4906-ZHGPK,"Los Angeles"
+4908-XAXAY,Buttonwillow
+4909-JOUPP,Tahoma
+4910-AQFFX,Soulsbyville
+4910-GMJOT,"San Francisco"
+4911-BANWH,Sunland
+4912-PIGUY,Perris
+4913-EHYUI,Alpaugh
+4915-BFSXL,"Mount Hermon"
+4918-FYJNT,"Los Angeles"
+4918-QLLIW,"Santa Monica"
+4919-IKATY,"San Diego"
+4919-MOAVT,Pasadena
+4922-CVPDX,Westminster
+4923-ADWXJ,Igo
+4925-LMHOK,Stockton
+4926-UMJZD,"Mt Baldy"
+4927-WWOOZ,"Pacific Grove"
+4929-BSTRX,Oxnard
+4929-ROART,Ukiah
+4929-XIHVW,"Los Angeles"
+4931-TRZWN,Hornbrook
+4933-BSAIP,Northridge
+4933-IKULF,"Pinon Hills"
+4936-YPJNK,Rosamond
+4937-QPZPO,Snelling
+4939-KYYPY,Coleville
+4940-KHCWD,Downey
+4942-VZZOM,Tupman
+4945-RVMTE,Blocksburg
+4946-EDSEW,Compton
+4947-DSMXK,Farmersville
+4948-WBBKL,Dunnigan
+4950-BDEUX,"Apple Valley"
+4950-HKQTE,"Morro Bay"
+4951-UKAAQ,Inglewood
+4952-YSOGZ,"San Diego"
+4955-VCWBI,Markleeville
+4957-SREEC,Fallbrook
+4957-TIALW,Corona
+4957-TREIR,Stratford
+4958-GZWIY,"North Palm Springs"
+4958-XCBDQ,Victorville
+4959-JOSRX,"La Puente"
+4962-CHQPW,Greenville
+4967-WPNCF,Huron
+4971-PUYQO,"San Diego"
+4973-MGTON,Topaz
+4973-RLZVI,Hornbrook
+4976-LNFVV,"Daly City"
+4979-HPRFL,"Garden Grove"
+4980-URKXC,"Fort Irwin"
+4981-FLTMF,Springville
+4983-CCWMC,Creston
+4983-CLMLV,Escondido
+4986-MXSFP,"San Leandro"
+4987-GQWPO,"Huntington Beach"
+4988-IQIGL,"Canoga Park"
+4989-LIXVT,"Santa Monica"
+4990-ALDGW,"Los Angeles"
+4992-LTJNE,"Cantua Creek"
+4993-JCRGJ,Holtville
+4994-OBRSZ,Weed
+4998-IKFSE,Phelan
+4999-IEZLT,Susanville
+5002-GCQFH,Hercules
+5003-OKNNK,Hoopa
+5003-XZWWO,"Capistrano Beach"
+5006-MXVRN,Keyes
+5010-IPEAQ,Escalon
+5012-YSPJJ,Nubieber
+5013-SBUIH,Stockton
+5014-GSOUQ,"Grass Valley"
+5014-WUQMG,Hornbrook
+5016-ETTFF,"Los Angeles"
+5016-IBERQ,"Simi Valley"
+5016-LIPDW,Stanford
+5018-GWURO,Novato
+5018-HEKFO,"Rowland Heights"
+5018-LXQQG,Torrance
+5019-GQVCR,"Westlake Village"
+5020-ZSTTY,"San Diego"
+5022-JNQEQ,Esparto
+5022-KVDQT,"Woodland Hills"
+5025-GOOKI,"San Geronimo"
+5027-QPKTE,Modesto
+5027-XWQHA,Ukiah
+5027-YOCXN,"Cardiff By The Sea"
+5028-GZLDO,Moraga
+5028-HTLJB,"New Cuyama"
+5032-MIYKT,Weott
+5032-USPKF,Indio
+5035-BVCXS,Loyalton
+5035-PGZXH,Chico
+5038-ETMLM,Sacramento
+5039-LZRQT,"Mountain Center"
+5043-TRZWM,"Los Angeles"
+5044-LRQAQ,"Ladera Ranch"
+5044-XDPYX,Chico
+5046-NUHWD,"Hacienda Heights"
+5047-LHVLY,"San Diego"
+5049-GLYVG,Badger
+5049-MUBWG,"Carmel By The Sea"
+5052-PNLOS,"Echo Lake"
+5054-IEXZT,"San Diego"
+5055-BRMNE,Friant
+5055-MGMGF,"Half Moon Bay"
+5056-FIMPT,Sacramento
+5057-LCOUI,Nipomo
+5057-RKGLH,Daggett
+5060-TQUQN,"Rancho Cucamonga"
+5061-PBXFW,"San Jose"
+5062-CJJKH,Burbank
+5063-IUOKK,"Santa Barbara"
+5066-GFJMM,Eureka
+5067-DGXLL,Alleghany
+5067-WJEUN,Bakersfield
+5067-XJQFU,"Los Angeles"
+5071-FBJFS,Redding
+5073-RZGBK,"West Sacramento"
+5073-WXOYN,Belmont
+5074-FBGHB,Freedom
+5075-JSDKI,Woodbridge
+5076-YVXCM,Tupman
+5077-DXTCG,Challenge
+5081-NWSUP,"San Jose"
+5084-OOVCJ,"Canyon Dam"
+5087-SUURX,"Yorba Linda"
+5088-QZLRL,Corona
+5089-IFSDP,"Huntington Beach"
+5090-EMGTC,"Beverly Hills"
+5091-HFAZW,"Santa Fe Springs"
+5092-STPKP,Platina
+5093-FEGLU,"San Francisco"
+5095-AESKG,Sausalito
+5095-ETBRJ,Lakeport
+5099-BAILX,"Santa Barbara"
+5103-MHMHY,"Los Osos"
+5108-ADXWO,"San Francisco"
+5110-CHOPY,Carlsbad
+5115-GZDEL,"Chula Vista"
+5115-SQAAU,"Long Beach"
+5117-IFGPS,"Tahoe City"
+5117-ZSMHQ,Pioneer
+5118-MUEYH,"Grand Terrace"
+5119-KEPFY,"San Jose"
+5119-NZPTV,Sacramento
+5120-ZBLAI,"King City"
+5122-CYFXA,"Beverly Hills"
+5124-EOGYE,Crestline
+5125-CNDSP,"Big Creek"
+5126-RCXYW,Alhambra
+5127-BZENZ,Mcarthur
+5129-HHMZC,"Van Nuys"
+5129-JLPIS,"Los Angeles"
+5130-IEKQT,"San Francisco"
+5130-YPIRV,"San Diego"
+5131-PONJI,"Upper Lake"
+5133-POWUA,Somerset
+5133-VRSAB,Olema
+5134-IKDAY,Twain
+5135-GRQJV,"Cantua Creek"
+5135-RDDQL,Corning
+5136-GFPMB,"Spring Valley"
+5136-KCKGI,Templeton
+5136-RGMZO,Gardena
+5138-WVKYJ,"San Diego"
+5140-FOMCQ,Oakland
+5141-ZUVBH,Boron
+5143-EGQFK,"San Diego"
+5143-WMWOG,Stratford
+5144-PQCDZ,Fairfield
+5144-TVGLP,"Los Angeles"
+5146-CBVOE,"San Francisco"
+5146-YYFRZ,"Hacienda Heights"
+5148-HKFIR,Piru
+5148-ORICT,Olivehurst
+5149-CUZUJ,Helendale
+5149-QYTTU,"Long Beach"
+5149-TGWDZ,"San Francisco"
+5150-ITWWB,"Hamilton City"
+5150-LJNSR,Tustin
+5151-HQRDG,Placerville
+5153-LXKDT,Danville
+5153-RTHKF,"Palm Springs"
+5154-VEKBL,Bodfish
+5155-AZQPB,"San Diego"
+5156-UMKOW,"San Simeon"
+5158-RIVOP,"Fields Landing"
+5159-YFPKQ,"Moreno Valley"
+5160-UXJED,"San Diego"
+5161-UBZXI,Alamo
+5161-XEUVX,Lynwood
+5167-GBFRE,Oakland
+5167-ZFFMM,"San Diego"
+5168-MQQCA,Yucaipa
+5168-MSWXT,Essex
+5170-PTRKA,Atherton
+5171-EPLKN,"Rancho Cucamonga"
+5172-MIGPM,Orange
+5172-RKOCB,Piercy
+5173-WXOQV,"Dos Palos"
+5173-ZXXXL,Orange
+5174-ITUMV,"San Jacinto"
+5174-RNGBH,"Live Oak"
+5175-AOBHI,"Hamilton City"
+5175-WLYXL,Fallbrook
+5176-LDKUH,"San Francisco"
+5176-LMJXE,"San Diego"
+5176-OLSKT,Sloughhouse
+5177-RVZNU,Redding
+5178-LMXOP,Gardena
+5180-UCIIQ,Lucerne
+5181-OABFK,Rescue
+5183-KLYEM,"El Cerrito"
+5183-SNMJQ,"Frazier Park"
+5186-EJEGL,Escondido
+5186-PEIZU,"San Francisco"
+5186-SAMNZ,Marina
+5188-HGMLP,Middletown
+5192-EBGOV,Brea
+5193-QLVZB,Bieber
+5195-KPUNQ,Lakehead
+5196-SGOAK,Caliente
+5196-WPYOW,"Paso Robles"
+5197-LQXXH,Taylorsville
+5197-PYEPU,Edwards
+5197-YPYBZ,"Laguna Niguel"
+5198-EFNBM,Kingsburg
+5198-HQAEN,Fremont
+5199-FPUSP,Esparto
+5201-CBWYG,"Salton City"
+5201-FRKKS,Winnetka
+5201-USSQZ,"Monte Rio"
+5202-IVJNU,Crockett
+5203-XEHAX,Macdoel
+5204-HMGYF,"La Crescenta"
+5204-QZXPU,Glendale
+5206-HPJKM,Valencia
+5206-XZZQI,Orange
+5207-PLSTK,"La Habra"
+5208-FVQKB,Lakeshore
+5208-HFSBT,Challenge
+5213-TWWJU,Richmond
+5214-CHIWJ,Fresno
+5214-NLTIT,"Five Points"
+5215-LNLDJ,"San Juan Bautista"
+5216-WASFJ,Challenge
+5219-YIPTK,Trinidad
+5220-AGAAX,Mendocino
+5222-IMUKT,Hornitos
+5222-JCXZT,Sacramento
+5223-UZAVK,Thornton
+5226-NOZFC,Modesto
+5227-JSCFE,"Scotts Valley"
+5228-EXCET,"San Diego"
+5229-DTFYB,"San Diego"
+5229-PRWKT,Lompoc
+5231-FIQPA,"Beverly Hills"
+5232-NXPAY,Hilmar
+5233-AOZUF,"Palm Springs"
+5233-GEEAX,Lewiston
+5236-PERKL,Pearblossom
+5236-XMZJY,"Los Angeles"
+5240-CAOYT,"Oak View"
+5240-IJOQT,"Grass Valley"
+5242-UOWHD,Anaheim
+5243-SAOTC,Bonsall
+5244-IRFIH,"San Diego"
+5245-VDBUR,"Los Alamitos"
+5248-KWLAR,Niland
+5248-RPYWW,Turlock
+5248-YGIJN,"Los Angeles"
+5249-QYHEX,"Rancho Mirage"
+5256-SKJGO,Whittier
+5260-UMPWX,Yorkville
+5261-QSHQM,Temecula
+5266-PFRQK,Orleans
+5268-DSMNQ,Farmington
+5269-NRGDP,Concord
+5271-DBYSJ,Berkeley
+5271-YNWVR,"Santa Paula"
+5274-XHAKY,Compton
+5275-PMFUT,Chualar
+5275-SQEIZ,Ojai
+5276-KQWHG,Woody
+5277-ZLOOR,Applegate
+5278-PNYOX,"San Jose"
+5281-BUZGT,Weaverville
+5285-MVEHD,Sunnyvale
+5286-YHCVC,Laton
+5287-QWLKY,"Big Pine"
+5288-AHOUP,"Palm Desert"
+5293-WXJAK,"San Jose"
+5294-CDGWY,"Long Beach"
+5294-DMSFH,Torrance
+5294-IMHHT,Occidental
+5295-PCJOO,"Long Beach"
+5296-BFCYD,"San Fernando"
+5296-PSYVW,Oceanside
+5297-MDOIR,"Monterey Park"
+5298-GSTLM,Sacramento
+5299-RULOA,Whittier
+5299-SJCZT,"Ladera Ranch"
+5301-GAUUY,"Newport Beach"
+5302-BDJNT,"Sutter Creek"
+5304-EFJLP,"Los Molinos"
+5306-BVTKJ,"El Cajon"
+5307-DZCVC,Sacramento
+5307-UVGNB,Compton
+5309-TAIKL,"Rio Linda"
+5310-NOOVA,"Redwood Valley"
+5311-IHLEI,Sebastopol
+5312-IRCFR,Nice
+5312-TSZVC,Hyampom
+5312-UXESG,Indio
+5313-FPXWG,"Three Rivers"
+5315-CKEQK,"Castro Valley"
+5317-FLPJF,Altadena
+5318-IXUZF,"Redondo Beach"
+5318-YKDPV,Raymond
+5320-BRKGK,Escondido
+5321-NTRKC,"Pebble Beach"
+5322-TEUJK,"Duncans Mills"
+5322-ZSMZY,"Lower Lake"
+5324-KTGCG,Emeryville
+5325-UWTWJ,Berkeley
+5327-CNLUQ,"Paynes Creek"
+5327-XOKKY,"Santa Maria"
+5329-KRDTM,"Long Barn"
+5331-RGMTT,"Point Arena"
+5334-AFQJB,"Simi Valley"
+5334-JLAXU,"French Camp"
+5336-UFNZP,"Monterey Park"
+5337-IIWKZ,Sultana
+5338-YHWYT,"San Diego"
+5339-PXDVH,"Clipper Mills"
+5339-TJFEK,"Santa Rosa"
+5343-SGUBI,Concord
+5345-BMKWB,"San Francisco"
+5346-BZCHP,Earp
+5348-CAGXB,Irvine
+5349-AZPEW,"San Diego"
+5349-IECLD,"San Jose"
+5351-QESIO,"San Diego"
+5353-WILCI,Stockton
+5356-CSVSQ,"La Verne"
+5356-KZCKT,Torrance
+5356-RHIPP,Dinuba
+5357-TZHPP,Wheatland
+5360-LJCNJ,Tracy
+5360-XGYAZ,"Los Angeles"
+5364-EVNIB,Orange
+5364-XYIRR,"Los Angeles"
+5365-LLFYV,Penryn
+5366-IJEQJ,"San Diego"
+5366-OBVMR,"Los Angeles"
+5370-IIVVL,"Le Grand"
+5371-VYLSX,"Long Beach"
+5372-FBKBN,"San Jose"
+5373-SFODM,"San Lucas"
+5375-XLDOF,Calipatria
+5376-DEQCP,"San Diego"
+5376-PCKNB,Montclair
+5377-NDTOU,"San Pedro"
+5378-IKEEG,Eagleville
+5380-AFSSK,"Bella Vista"
+5380-WJKOV,"Los Angeles"
+5380-XPJNZ,"San Francisco"
+5382-SOYZL,Concord
+5382-TEMLV,Lindsay
+5383-MMTWC,Oakley
+5384-ZTTWP,"Yuba City"
+5385-SUIRI,Delhi
+5386-THSLQ,"Santa Monica"
+5387-ASZNZ,Cressey
+5389-FFVKB,"Thousand Oaks"
+5392-AKEMH,Vista
+5393-HJZSM,"San Francisco"
+5393-RXQSZ,Taft
+5394-MEITZ,"Corona Del Mar"
+5394-SVGJV,Sacramento
+5396-IZEPB,Summerland
+5397-NSKQG,"Los Altos"
+5397-TUPSH,Carson
+5399-ZIMKF,"San Simeon"
+5402-HTOTQ,Macdoel
+5404-GGUKR,"Santa Ynez"
+5405-ZMYXQ,"Los Angeles"
+5406-KGRMX,Helm
+5414-OFQCB,Hanford
+5419-CONWX,"Pleasant Grove"
+5419-JKZNQ,"La Mesa"
+5419-JPRRN,"Rough And Ready"
+5419-KLXBN,"San Diego"
+5423-BHIXO,Pasadena
+5424-RLQLC,Bonsall
+5429-LWCMV,Gardena
+5433-KYGHE,"Avila Beach"
+5438-QMDDL,"Campo Seco"
+5439-WIKXB,Newhall
+5440-FLBQG,"Santa Barbara"
+5440-VHLUL,Berkeley
+5442-BHQNG,Brooks
+5442-BXVND,"San Diego"
+5442-PPTJY,Arcadia
+5442-UTCVD,Pittsburg
+5442-XSDCW,"San Diego"
+5443-SCMKX,"Newbury Park"
+5445-GLVOT,Greenbrae
+5445-PZWGX,"Travis Afb"
+5445-UTODQ,"San Diego"
+5446-DKWYW,"San Francisco"
+5447-VYTKW,"Los Angeles"
+5447-WZAFP,Carlsbad
+5448-VWNAM,Oroville
+5449-FIBXJ,"San Jose"
+5451-MHQOF,"Los Angeles"
+5451-YHYPW,"San Francisco"
+5453-AXEPF,"San Jose"
+5453-YBTWV,"Moreno Valley"
+5456-ITGIC,Loomis
+5457-COLHT,"San Francisco"
+5458-CQJTA,"Smith River"
+5461-QKNTN,"Catheys Valley"
+5465-BUBFA,"El Nido"
+5468-BPMMO,"Santa Cruz"
+5469-CTCWN,Arbuckle
+5469-NUJUR,Zenia
+5472-CVMDX,Bolinas
+5473-KHBPS,Surfside
+5474-LAMUQ,"Los Angeles"
+5478-JJVZK,"Fair Oaks"
+5480-HPRRX,Glendora
+5480-TBGPH,Sacramento
+5480-XTFFL,"Mount Hermon"
+5481-NTDOH,Whittier
+5482-NUPNA,Imperial
+5482-PLVPE,"Daly City"
+5482-VXSXJ,Tehama
+5485-ITNPC,"Le Grand"
+5485-WUYWF,Crockett
+5493-SDRDQ,"Angels Camp"
+5494-HECPR,"Mi Wuk Village"
+5494-WOZRZ,"Mission Viejo"
+5495-GPSRW,"Joshua Tree"
+5498-IBWPI,Guadalupe
+5498-TXHLF,Whitmore
+5499-ECUTN,Shafter
+5501-TVMGM,Canby
+5502-RLUYV,Milpitas
+5504-WSIUR,"Chula Vista"
+5505-OVWQW,Sacramento
+5510-BOIUJ,Visalia
+5512-IDZEI,"Garden Grove"
+5514-YQENT,Rocklin
+5515-AKOAJ,"Hawaiian Gardens"
+5515-IDEJJ,"San Diego"
+5515-RUGKN,"Beverly Hills"
+5519-NPHVG,"Klamath River"
+5519-TEEUH,Irvine
+5519-YLDGW,"Los Angeles"
+5520-FVEWJ,"Santa Rosa"
+5522-JBWMO,Blythe
+5522-NYKPB,Burney
+5524-KHNJP,Glendale
+5527-ACHSO,Orange
+5529-GIBVH,"Duncans Mills"
+5533-NHFRF,"San Jose"
+5533-RJFTJ,Lemoore
+5536-RTPWK,Sausalito
+5536-SLHPM,Temecula
+5537-UXXVS,"Citrus Heights"
+5539-HIVAK,Friant
+5539-TMZLF,Concord
+5542-DHSXL,"Butte City"
+5542-NKVRU,"La Grange"
+5542-TBBWB,Lakeport
+5543-QDCRY,"San Francisco"
+5546-BYZSM,"Oak View"
+5546-QUERU,Burbank
+5549-ZGHFB,Glendale
+5550-VFRLC,Moorpark
+5552-ZNFSJ,"Santa Rosa"
+5553-AOINX,Copperopolis
+5555-RNPGT,Bloomington
+5561-NWEVX,"Hermosa Beach"
+5562-BETPV,"San Andreas"
+5562-YJQGT,Encino
+5564-NEMQO,Thermal
+5565-FILXA,Escondido
+5566-SOEZD,Madeline
+5567-GZKQY,Porterville
+5567-WSELE,Richmond
+5568-DMXZS,"San Diego"
+5569-IDSEY,Winters
+5569-KGJHX,"Canoga Park"
+5569-OUICF,"San Diego"
+5570-PTWEH,Encinitas
+5572-ZDXHY,"Santa Rosa"
+5574-NXZIU,"Los Alamos"
+5575-GNVDE,"Los Angeles"
+5575-TPIZQ,Buellton
+5577-OTWWW,"San Jose"
+5578-NKCXI,"South Gate"
+5583-EJXRD,"San Diego"
+5583-SXDAG,Alhambra
+5590-BYNII,Bayside
+5590-YRFJT,Lompoc
+5590-ZSKRV,Gardena
+5593-SUAOO,Boonville
+5597-GLBUC,"Squaw Valley"
+5598-IKHQQ,"Myers Flat"
+5599-HVLTW,Oakland
+5600-KTXFM,Ventura
+5600-PDUJF,"Los Angeles"
+5602-BVFMK,Independence
+5605-IYGFG,"Thousand Palms"
+5605-XNWEN,Montebello
+5606-AMZBO,Rosamond
+5609-CEBID,Hemet
+5609-IMCGG,"Suisun City"
+5614-DNZCE,Wilseyville
+5616-PRTNT,"Desert Center"
+5619-PTMIK,"Lemon Grove"
+5619-XZZKR,"Santa Maria"
+5622-UEJFI,"Duncans Mills"
+5624-BQSSA,"Santa Cruz"
+5624-RYAMH,"Citrus Heights"
+5626-MGTUK,Chatsworth
+5627-TVBPP,"Big Bear Lake"
+5628-FCGYG,Riverside
+5628-RKIFK,Bloomington
+5630-AHZIL,"El Segundo"
+5630-IXDXV,Reedley
+5639-NTUPK,"Walnut Creek"
+5640-CAXOA,Auberry
+5641-DMBFJ,"Oregon House"
+5642-MHDQT,"Mc Farland"
+5644-PDMZC,Delano
+5647-FXOTP,"Santa Ysabel"
+5647-URDKA,Alturas
+5649-ANRML,"Clipper Mills"
+5649-RXQTV,Alderpoint
+5649-TJHOV,Davenport
+5649-VUKMC,"San Diego"
+5650-VDUDS,Kernville
+5650-YLIBA,Lakeport
+5651-CPDND,"San Leandro"
+5651-CRHKQ,"San Diego"
+5651-WYIPH,Vacaville
+5651-YLPRD,Danville
+5652-MSDEY,"Sutter Creek"
+5655-JSMZM,Coalinga
+5656-JAMLX,Greenbrae
+5656-MJEFC,Victorville
+5663-QBGIS,"La Canada Flintridge"
+5666-CYCYZ,Montebello
+5666-MBJPT,Bakersfield
+5668-MEISB,"Hacienda Heights"
+5669-SRAIP,Larkspur
+5671-RQRLP,Fowler
+5671-UUNXD,Nicasio
+5673-FSSMF,Delhi
+5673-TIYIB,Torrance
+5676-CFLYY,Ahwahnee
+5678-VFNEQ,Rocklin
+5680-LQOGP,"Twin Bridges"
+5681-LLOEI,Encino
+5684-FJVYR,"Lake Hughes"
+5685-IIXLY,Novato
+5686-CMAWK,"San Diego"
+5687-DKDTV,Bellflower
+5688-KZTSN,"San Diego"
+5692-FPTAH,Nicolaus
+5692-ICXLW,Escondido
+5693-PIPCS,"National City"
+5696-CEIQJ,Riverside
+5696-EXCYS,Hood
+5696-JVVQY,Davis
+5696-QURRL,Waterford
+5697-GOMBF,Julian
+5698-BQJOH,"Beverly Hills"
+5699-BNCAS,"Valley Center"
+5701-GUXDC,"El Centro"
+5701-SVCWR,"Laguna Niguel"
+5701-YVSVF,Fallbrook
+5701-ZIKJE,Redcrest
+5702-KVQRD,Topaz
+5702-SKUOB,Fresno
+5707-ORNDZ,"Yuba City"
+5707-ZMDJP,Norwalk
+5708-EVONK,Cassel
+5709-LVOEQ,"San Mateo"
+5712-AHQNN,Whittier
+5712-PTIWW,Mcarthur
+5712-VBOXD,"Santa Barbara"
+5716-EZXZN,Surfside
+5716-LIBJC,Winton
+5724-BIDBU,"Penn Valley"
+5726-CVNYA,Cutler
+5727-MYATE,"Van Nuys"
+5729-KLZAR,Sacramento
+5730-DBDSI,"June Lake"
+5730-RIITO,Willows
+5732-IKGQH,Camarillo
+5734-EJKXG,"Goodyears Bar"
+5736-YEJAX,Hemet
+5740-YHGTW,"Los Angeles"
+5743-KHMNA,Berkeley
+5747-PMBSQ,"San Diego"
+5748-RNCJT,Sacramento
+5751-USDBL,"Soda Springs"
+5753-QQWPW,"Aliso Viejo"
+5756-JYOJT,"Santa Ana"
+5756-OZRIO,Riverside
+5759-RCVCB,Orange
+5760-FXFVO,"Pleasant Grove"
+5760-IFJOZ,Richgrove
+5760-WRAHC,Fontana
+5762-TJXGK,Wheatland
+5766-FTRTS,"El Segundo"
+5766-XQXMQ,Princeton
+5766-ZJYBB,Brisbane
+5774-QPLTF,"El Nido"
+5774-XZTQC,Lakewood
+5777-KJIRB,Weimar
+5777-ZPQNC,Covina
+5778-BVOFB,Escondido
+5780-INQIK,"San Mateo"
+5781-BKHOP,Richmond
+5781-RFZRP,"Ladera Ranch"
+5787-KXGIY,"Palo Alto"
+5788-YPOEG,"Pebble Beach"
+5789-LDFXO,Baker
+5791-KAJFD,"Newport Beach"
+5792-JALQC,"San Rafael"
+5793-YOLJN,"Oro Grande"
+5795-BKOYE,Sacramento
+5795-KTGUD,Ione
+5797-APWZC,"San Francisco"
+5799-JRCZO,"North San Juan"
+5802-ADBRC,"San Juan Capistrano"
+5803-NQJZO,Bakersfield
+5804-HYIEZ,Winterhaven
+5804-JMYIO,Glencoe
+5804-LEPIM,"San Diego"
+5808-TOTXO,Oakland
+5811-IWXYM,Napa
+5813-UECBU,Bridgeville
+5815-HGGHV,"Witter Springs"
+5816-JMLGY,"Red Bluff"
+5816-QVHRX,"San Leandro"
+5816-SCGFC,Fullerton
+5820-PTRYM,"Chula Vista"
+5821-MMEIL,Nipton
+5825-XJOCM,Gazelle
+5827-MWCZK,Boonville
+5828-AVIPD,Sierraville
+5828-DWPIL,Livermore
+5829-NVSQN,Gonzales
+5832-EXGTT,Burbank
+5832-TRLPB,Milpitas
+5832-XKAES,Sierraville
+5834-ASPWA,"San Diego"
+5835-BEQEU,Escondido
+5837-LXSDN,Angwin
+5839-SUYVZ,Orange
+5840-NVDCG,Pacoima
+5842-POCOP,Randsburg
+5843-TTHGI,Sunnyvale
+5844-QVTAT,Irvine
+5845-BZZIB,"Frazier Park"
+5846-ABOBJ,"Los Angeles"
+5846-NEQVZ,"Mission Viejo"
+5846-QFDFI,"Pine Valley"
+5847-MXBEO,Helm
+5848-FHRFC,"Santa Monica"
+5849-ASHZJ,"Palo Alto"
+5850-BDWCY,"Los Angeles"
+5854-KSRBJ,"San Clemente"
+5855-EIBDE,Orangevale
+5857-TYBCJ,Dixon
+5857-XRECV,Manteca
+5858-EAFCZ,Rialto
+5859-HZYLF,"San Jose"
+5862-BRIXZ,"Santa Maria"
+5863-OOKCL,Cayucos
+5868-CZJDR,Linden
+5868-YTYKS,Davenport
+5868-YWPDW,"Sherman Oaks"
+5871-DGTXZ,"River Pines"
+5872-OEQNH,Carmichael
+5875-YPQFJ,Fremont
+5876-HZVZM,"West Covina"
+5876-QMYLD,Earp
+5879-HMFFH,Cassel
+5879-SESNB,Moraga
+5882-CMAZQ,"National City"
+5883-GTGVD,Biola
+5884-FBCTL,Shafter
+5884-GCYMI,"San Diego"
+5886-VLQVU,"Grand Terrace"
+5887-IKKYO,Pomona
+5889-JTMUL,Castaic
+5889-LFOLL,Canby
+5893-KCLGT,Sunland
+5893-PYOLZ,"San Leandro"
+5895-QSXOD,Alleghany
+5896-NPFWW,"San Diego"
+5897-ZYEKH,Lincoln
+5898-IGSLP,"Mountain View"
+5899-MQZZL,"San Ysidro"
+5899-OUVKV,Sacramento
+5902-WBLSE,Bonita
+5906-BFOZT,Loleta
+5906-CVLHP,"Rowland Heights"
+5906-DVAPM,Meridian
+5908-QMGOE,Fowler
+5909-ECHUI,"Oak Run"
+5913-INRQV,Upland
+5914-DVBWJ,Riverside
+5914-GXMDA,Lamont
+5914-XRFQB,Caspar
+5915-ANOEI,Corcoran
+5915-DGNVC,Cambria
+5916-QEWPT,"Valley Village"
+5917-HBSDW,"Mill Valley"
+5917-RYRMG,Jolon
+5918-VUKWP,Pasadena
+5919-TMRGD,"Huntington Park"
+5919-VCZYM,"Santa Ana"
+5921-NGYRH,Stonyford
+5922-ABDVO,"Seal Beach"
+5923-GXUOC,Fallbrook
+5924-IFQTT,"Crescent Mills"
+5924-SNGKP,"Solana Beach"
+5928-QLDHB,"San Fernando"
+5930-GBIWP,Doyle
+5931-FLJJF,"Midway City"
+5934-RMPOV,Pescadero
+5934-TSSAU,Landers
+5935-FCCNB,Downey
+5937-EORGB,"Five Points"
+5939-SXWHM,Millville
+5939-XAIXZ,"Birds Landing"
+5940-AHUHD,Pomona
+5940-NFXKV,"San Diego"
+5944-UGLLK,Cloverdale
+5945-AZYHT,Antioch
+5947-SGKCL,"San Marino"
+5948-UJZLF,"Los Angeles"
+5949-EBSQK,"Sunset Beach"
+5949-HGVJL,Mccloud
+5949-XIKAE,"San Bernardino"
+5950-AAAGJ,"Playa Del Rey"
+5951-AOFIH,"San Jose"
+5954-BDFSG,"West Hollywood"
+5955-EPOAZ,Livermore
+5955-ERIHD,Lakewood
+5956-VKDTT,"Moreno Valley"
+5956-YHHRX,"Pilot Hill"
+5959-BELXA,Yucaipa
+5960-MVTUK,Grenada
+5960-WPXQM,Temecula
+5961-VUSRV,"Sherman Oaks"
+5965-GGPRW,Hayward
+5966-EMAZU,"Fort Bidwell"
+5968-HYJRZ,Kerman
+5968-VXZLG,Calabasas
+5968-XQIVE,Temecula
+5970-GHJAW,Irvine
+5973-EJGDP,"Palm Springs"
+5975-BAICR,Yountville
+5976-JCJRH,Danville
+5977-CKHON,Roseville
+5980-BDHPY,Wendel
+5980-NOPLP,Pasadena
+5981-ITEMU,Marshall
+5981-ZVXOT,"San Diego"
+5982-FPVQN,Camarillo
+5982-PSMKW,"North Hollywood"
+5982-XMDEX,Arvin
+5985-BEHZK,"Santa Ana"
+5985-TBABQ,"West Sacramento"
+5986-WWXDV,"Salton City"
+5989-AXPUC,"Garden Grove"
+5989-OMNJE,Windsor
+5989-PGKJB,"San Diego"
+5993-BQHEA,"San Francisco"
+5993-JSUWV,Columbia
+5995-LFTLE,"Lower Lake"
+5995-OIGLP,"Port Costa"
+5995-SNNEW,Whittier
+5995-WWKKG,"Running Springs"
+5996-DAOQL,Penngrove
+5996-EBTKM,Lakeside
+5996-NRVXR,"Los Alamitos"
+5997-OPVFA,Montrose
+5998-DZLYR,Sutter
+5998-VVEJY,Glendora
+5999-LCXAO,Orange
+6000-APYLU,Valencia
+6000-UKLWI,Sacramento
+6005-OBZPH,"San Diego"
+6007-TCTST,Salinas
+6008-NAIXK,"Pine Grove"
+6010-DDPPW,"Newport Coast"
+6013-BHCAW,"San Jose"
+6015-VVHHE,"Los Angeles"
+6016-LVTJQ,"Long Beach"
+6016-NXBNJ,"Orange Cove"
+6017-PPLPX,"Daly City"
+6022-KOUQO,Eagleville
+6022-UGGSO,"Citrus Heights"
+6023-GSSXW,"Wofford Heights"
+6023-YEBUP,Stockton
+6024-RUGGH,"San Francisco"
+6029-CSMJE,"Forest Ranch"
+6029-WTIPC,"San Diego"
+6030-REHUX,"Fountain Valley"
+6032-IGALN,"Granite Bay"
+6032-KRXXO,"San Diego"
+6034-YMTOB,Arcadia
+6034-ZRYCV,Sacramento
+6035-BXTTY,"Rancho Santa Fe"
+6035-RIIOM,Janesville
+6036-TTFYU,"Thousand Oaks"
+6038-GCYEC,"Palm Desert"
+6040-CGACY,"Blairsden Graeagle"
+6047-SUHPR,Woodlake
+6047-YHPVI,"Los Angeles"
+6048-NJXHX,"Apple Valley"
+6048-QBXKL,Madison
+6048-UWKAL,"Beale Afb"
+6050-FFXES,"Garden Grove"
+6050-IJRHS,"Chino Hills"
+6051-PTVNS,Bodfish
+6060-DRTNL,"San Jacinto"
+6060-QBMGV,Pasadena
+6061-GWWAV,Fresno
+6061-PQHMK,"Los Angeles"
+6064-PUPMC,Loyalton
+6064-ZATLR,Llano
+6067-NGCEU,Topanga
+6072-NUQCB,"Villa Park"
+6075-QMNRR,Doyle
+6075-SLNIL,"Desert Center"
+6077-BDPXA,Merced
+6078-VESFR,Vista
+6080-LNESI,Hercules
+6080-TCMYC,Rosemead
+6082-GLJIX,Holtville
+6082-OQFBA,Victorville
+6086-ESGRL,Brea
+6087-MVHJH,"French Camp"
+6087-YPWHO,Raymond
+6088-BXMRG,Cabazon
+6092-QZVPP,Fresno
+6094-ZIVKX,Inglewood
+6096-EGVTU,"San Jose"
+6097-EQISJ,"Los Angeles"
+6100-FJZDG,Olema
+6100-QQHEB,"San Jose"
+6101-IMRMM,"El Segundo"
+6103-BOCOU,"San Francisco"
+6103-LIANB,Westminster
+6103-QCKFX,"Big Bar"
+6108-OQZDQ,Keene
+6110-OHIHY,Burney
+6112-KTHFQ,Loleta
+6114-TCFID,"Pismo Beach"
+6115-ZTBFQ,Alamo
+6116-RFVHN,Roseville
+6119-SPUDB,Woodland
+6120-RJKLU,"Sierra Madre"
+6121-TNHBO,Sacramento
+6121-VZNQB,Bolinas
+6122-EFVKN,"San Diego"
+6122-LJADA,"Lower Lake"
+6124-ACRHJ,"San Mateo"
+6127-ISGTU,"Garden Valley"
+6127-IYJOZ,"Studio City"
+6128-AQBMT,Nicasio
+6128-CZOMY,Alpine
+6128-DAFVY,Willits
+6131-FOYAS,"San Lorenzo"
+6131-IUNXN,"Huntington Beach"
+6131-JLWZM,"San Francisco"
+6133-OZILE,"Santa Monica"
+6134-KWTBV,Covina
+6135-OZQVA,"Santa Clarita"
+6137-MFAJN,"Los Angeles"
+6137-NICCO,Perris
+6139-ZZRBQ,"Granite Bay"
+6140-QNRQQ,"Santa Barbara"
+6141-OOXUQ,"San Bernardino"
+6142-VSJQO,Homeland
+6143-JQKEA,Adelanto
+6145-NNPNO,"Santa Rosa"
+6147-CBCRA,"Wofford Heights"
+6152-ONASV,Landers
+6156-UZDLF,"Pleasant Hill"
+6158-DWPZT,Avery
+6158-HDPXZ,"San Diego"
+6161-ERDGD,"Santa Maria"
+6161-UUUTA,Stockton
+6164-HAQTX,Boonville
+6164-HXUGH,Raymond
+6166-ILMNY,Tomales
+6166-YIPFO,"Douglas City"
+6168-WFVVF,"San Diego"
+6168-YBYNP,Newhall
+6169-PGNCD,Westwood
+6169-PPETC,Brentwood
+6171-ZTVYB,"San Diego"
+6172-FECYY,Antioch
+6173-GOLSU,"Oak View"
+6173-ITPWD,Heber
+6174-NRBTZ,Murrieta
+6175-IRFIT,Bangor
+6176-YJWAS,"Potter Valley"
+6177-PEVRA,Corcoran
+6178-KFNHS,Hughson
+6179-GJPSO,Escondido
+6180-YBIQI,"Santa Monica"
+6181-AXXYF,"Pico Rivera"
+6184-DYUOB,Palermo
+6185-TASNN,"Chula Vista"
+6188-UXBBR,Fresno
+6194-HBGQN,Taft
+6195-MELTI,"Pleasant Hill"
+6196-HBOBZ,Winnetka
+6198-PNNSZ,"Valley Springs"
+6198-RTPMF,"Oregon House"
+6198-ZFIOJ,Willits
+6199-IPCAO,Tehachapi
+6199-IWKGC,Benton
+6202-DYYFX,"West Covina"
+6202-JVYEU,Chino
+6203-HBZPA,Forestville
+6204-IEUXJ,"Yorba Linda"
+6207-WIOLX,Avalon
+6210-KBBPI,"West Covina"
+6211-WHMYA,"Chula Vista"
+6211-WWLTF,Oakhurst
+6212-ATMLK,"Rancho Cucamonga"
+6214-EDAKZ,Elverta
+6215-NQCPY,Yreka
+6217-KDYWC,Lomita
+6217-TOWGS,"San Jose"
+6218-KNUBD,Lodi
+6221-AVQYL,Glendale
+6223-DHJGV,"Los Angeles"
+6227-FBDXH,Essex
+6227-HWPWX,Victorville
+6229-LSCKB,Encino
+6229-UOLQL,"White Water"
+6230-BSUXY,Paramount
+6231-WFGFH,Benicia
+6233-HXJMX,Alpine
+6234-PFPXL,Sacramento
+6234-RAAPL,"Los Angeles"
+6235-VDHOM,Riverside
+6240-EURKS,Plymouth
+6242-FEGFD,Stratford
+6242-MBHPK,"Hathaway Pines"
+6242-SGYTS,Oakland
+6243-OZGFH,Vista
+6244-BESBM,Geyserville
+6248-BSHKG,Soledad
+6248-TKCQV,"Upper Lake"
+6250-CGGUN,Esparto
+6252-DFGTK,"O Neals"
+6253-GNHWH,"Pacific Palisades"
+6253-WRFHY,Marshall
+6257-DTAYD,Fallbrook
+6257-RJOHI,"San Diego"
+6258-NGCNG,Compton
+6258-PVZWJ,Clio
+6259-WJQLC,Pacifica
+6260-ONULR,Middletown
+6260-XLACS,Casmalia
+6261-LHRTG,Upland
+6261-RCVNS,Rodeo
+6265-FRMTQ,Scotia
+6265-SXWBU,Shingletown
+6266-QHOJZ,Lomita
+6267-DCFFZ,Madeline
+6270-OMFIW,"Valley Springs"
+6275-YDUVO,Orosi
+6278-FEPBZ,"San Bernardino"
+6281-FKEWS,"Berry Creek"
+6283-GITPX,Beaumont
+6284-AHOOQ,Avenal
+6284-KMNUF,"Twentynine Palms"
+6285-FTQBF,Hawthorne
+6286-SUUWT,Arnold
+6286-ZHAOK,Firebaugh
+6288-CHQJB,"San Bernardino"
+6288-LBEAR,Yountville
+6289-CPNLD,Temecula
+6292-TOSSS,"Mt Baldy"
+6295-OSINB,Samoa
+6296-DDOOR,"Laguna Beach"
+6297-NOOPG,Temecula
+6298-QDFNH,Banning
+6300-BWMJX,Valencia
+6302-JGYRJ,Chico
+6303-KFWSL,"Los Angeles"
+6304-IJFSQ,Calipatria
+6305-YLBMM,Hood
+6308-CQRBU,Zenia
+6311-UEUME,"Los Angeles"
+6313-GIDIT,"Point Arena"
+6317-YPKDH,Glendale
+6319-IEJWJ,Camarillo
+6319-QSUSR,Oceanside
+6322-HRPFA,"Los Angeles"
+6322-PJJDJ,Markleeville
+6323-AYBRX,Ontario
+6326-MTTXK,"Yuba City"
+6328-ZPBGN,Riverbank
+6330-JKLPC,Somis
+6331-EWIEB,"El Monte"
+6331-LWDTQ,Rialto
+6332-FBZRI,Sacramento
+6333-YDVLT,Oakland
+6338-AVWCY,Escondido
+6339-DKLMK,Corona
+6339-RZCBJ,Colton
+6339-TBELP,Fillmore
+6339-YPSAH,Tehama
+6340-DACFT,Madeline
+6341-AEVKX,Ontario
+6341-JVQGF,"Van Nuys"
+6344-SFJVH,"Shasta Lake"
+6345-FZOQH,"La Canada Flintridge"
+6345-HOVES,"Los Osos"
+6345-ULYRW,"Laguna Beach"
+6347-DCUIK,"Los Angeles"
+6348-SNFUS,"Granada Hills"
+6349-JDHQP,Fowler
+6350-XFYGW,Ferndale
+6351-SCJKT,"Santa Cruz"
+6352-GIGGQ,Escondido
+6352-TWCAU,"San Diego"
+6353-BRMMA,Angwin
+6356-ELRKD,"Rancho Mirage"
+6357-JJPQT,"San Gabriel"
+6358-LYNGM,Mariposa
+6360-SVNWV,"Big Creek"
+6362-QHAFM,Sacramento
+6365-HITVU,"Santa Fe Springs"
+6365-MTGZX,Glendale
+6366-XIVKZ,"San Jose"
+6366-ZGQGL,Pomona
+6368-NWMCE,Merced
+6368-TZZDT,Vacaville
+6369-MCAKO,"Monterey Park"
+6370-ZVHDV,Buellton
+6371-NZYEG,"Long Beach"
+6372-RFVNS,Placentia
+6374-AFWOX,"Long Beach"
+6374-NTQLP,"Trinity Center"
+6376-GAHQE,"Dutch Flat"
+6377-KSLXC,"Fair Oaks"
+6377-WHAOX,Gualala
+6379-RXJRQ,Modesto
+6380-ARCEH,Inglewood
+6383-ZTSIW,Gustine
+6384-VMJHP,"Bethel Island"
+6386-SZZKH,"San Diego"
+6388-TABGU,"Los Angeles"
+6390-DSAZX,"San Diego"
+6393-WRYZE,Bridgeville
+6394-HHHZM,"Little River"
+6394-MFYNG,"Solana Beach"
+6397-JNZZG,Adin
+6400-BWQKW,"San Mateo"
+6402-EJMWF,"San Jacinto"
+6402-SSEJG,"Ben Lomond"
+6402-ZFPPI,"Fair Oaks"
+6407-GSJNL,Fontana
+6407-UTSLV,Compton
+6408-OTUBZ,Glendale
+6408-WHTEF,Valyermo
+6410-LEFEN,"San Diego"
+6413-XKKPU,"Sierra City"
+6416-JNVRK,Gardena
+6416-TVAIH,"San Francisco"
+6416-YJTTB,Downieville
+6418-HNFED,"Huntington Beach"
+6418-PIQSP,Perris
+6419-ZTTLE,Yountville
+6421-SZVEM,Carson
+6424-ELEYH,Lebec
+6425-JWTDV,Boron
+6425-YQLLO,Pinole
+6427-FEFIG,"South San Francisco"
+6429-SHBCB,Maxwell
+6432-TWQLB,Rosemead
+6434-TTGJP,Geyserville
+6435-SRWBJ,"Los Angeles"
+6435-VWCCY,"Oro Grande"
+6437-UDQJM,"Los Angeles"
+6437-UKHMV,"Moreno Valley"
+6439-GTPCA,"San Diego"
+6439-LAJXL,"Echo Lake"
+6439-PKTRR,"San Diego"
+6440-DKQGE,Carson
+6445-TNRXS,Richmond
+6447-EGDIV,"Santa Monica"
+6447-GORXK,"San Diego"
+6457-GIRWB,Carlsbad
+6457-USBER,"San Diego"
+6458-CYIDZ,Albion
+6461-PPAXN,Napa
+6461-SZMCV,"Corte Madera"
+6463-HHXJR,"Lemon Cove"
+6463-MVYRY,"Palo Alto"
+6464-KEXXH,Fillmore
+6465-GSRCL,Plymouth
+6467-CHFZW,"Los Angeles"
+6469-MRVET,"Van Nuys"
+6469-QJKZW,"Arroyo Grande"
+6473-ULUHT,"San Diego"
+6474-FVJLC,"Sherman Oaks"
+6475-VHUIZ,"Myers Flat"
+6476-EPYZR,Wishon
+6476-YHMGA,Benton
+6478-HRRCZ,"Stirling City"
+6479-OAUSD,"Mokelumne Hill"
+6479-SZPLM,Anaheim
+6479-VDGRK,"Cardiff By The Sea"
+6480-YAGIY,"San Francisco"
+6481-ESCNL,Clayton
+6481-LXPWL,"Palo Alto"
+6481-OGDOO,"San Diego"
+6483-OATDN,Monrovia
+6484-LATFU,Linden
+6485-QXWWE,"Old Station"
+6486-LHTMA,"California City"
+6490-FGZAT,Strathmore
+6496-JDSSB,"Oak Park"
+6496-SLWHQ,Moraga
+6497-TILVL,"La Mirada"
+6500-JVEGC,Lakewood
+6502-HCJTI,Lakewood
+6502-KUGLL,"El Monte"
+6502-MJQAE,Escondido
+6504-VBLFL,Madeline
+6505-OZNPG,Annapolis
+6506-EYCNH,Montclair
+6507-DTJZV,"Cardiff By The Sea"
+6507-ZJSUR,Albion
+6508-NJYRO,Carlsbad
+6509-TSGWN,Fallbrook
+6510-UPNKS,"Emigrant Gap"
+6513-EECDB,"San Francisco"
+6516-NKQBO,Corona
+6518-KZXCB,Cassel
+6518-LGAOV,"San Diego"
+6518-PPLMZ,Clio
+6519-CFDBX,Torrance
+6519-ZHPXP,Sacramento
+6521-YYTYI,Navarro
+6522-OIQSX,Alta
+6522-YRBXD,Anaheim
+6527-PZFPV,"Los Angeles"
+6532-YLWSI,"Crescent Mills"
+6537-OTKMY,Covelo
+6537-QLGEX,"Mammoth Lakes"
+6538-POCHL,"Mountain Center"
+6542-LWGXJ,Pixley
+6543-CPZMK,Ventura
+6543-JXSOO,"Clipper Mills"
+6543-XRMYR,Stockton
+6546-OPBBH,"Santa Ana"
+6549-BTYPG,Sebastopol
+6549-NNDYT,Fresno
+6549-YMFAW,"Los Olivos"
+6551-GNYDG,"Long Beach"
+6551-VLJMV,Hemet
+6551-ZCOTS,Torrance
+6556-DBKZF,"Chula Vista"
+6557-BZXLQ,Cabazon
+6559-ILWKJ,Fresno
+6559-PDZLR,"Desert Center"
+6559-RAKOZ,"Orange Cove"
+6563-VNPMN,Sylmar
+6563-VRERX,"San Diego"
+6567-HOOPW,Folsom
+6568-POCUI,"Strawberry Valley"
+6569-KTMDU,Sacramento
+6572-ADKRS,"Los Angeles"
+6574-MCOEH,Escondido
+6575-SUVOI,"Los Angeles"
+6576-FBXOJ,"Yuba City"
+6578-KRMAW,Planada
+6579-JPICP,Riverside
+6581-NQCBA,Snelling
+6582-OIVSP,Glendale
+6582-PLFUU,Cedarville
+6583-KQJLK,"Twin Bridges"
+6583-QGCSI,"Indian Wells"
+6583-SZVGP,Indio
+6584-VQMYT,"San Jose"
+6585-WCEWR,Fresno
+6586-MYGKD,"Newport Beach"
+6586-PSJOX,Earlimart
+6591-QGOYB,Surfside
+6595-COKXZ,Plymouth
+6595-YGXIT,"Boulder Creek"
+6598-KELSS,"San Diego"
+6598-RFFVI,"San Bernardino"
+6599-CEBNN,"San Diego"
+6599-GZWCM,"San Jose"
+6599-RCLCJ,Fallbrook
+6599-SFQVE,"Santa Clara"
+6603-QWSPR,Galt
+6603-YRDCJ,"San Francisco"
+6608-QQLVK,Bangor
+6609-MXJHJ,"Long Beach"
+6614-FHDBO,"Rancho Cucamonga"
+6614-VBEGU,"Loma Linda"
+6614-YOLAC,Oakland
+6614-YWYSC,Sultana
+6615-NGGZJ,Buellton
+6615-ZGEDR,"Smith River"
+6616-AALSR,"Citrus Heights"
+6617-WLBQC,"Beverly Hills"
+6618-RYATB,"North Hollywood"
+6619-RPLQZ,"June Lake"
+6620-HVDUJ,Fresno
+6620-JDYNW,Leggett
+6621-NRZAK,"Mount Hamilton"
+6621-YOBKI,"San Ardo"
+6624-JDRDS,"Dos Palos"
+6625-FLENO,"Los Angeles"
+6625-IUTTT,Fremont
+6625-UTXEW,"Fort Bragg"
+6627-CFOSN,Madera
+6629-CZTTH,Orange
+6629-LADHQ,"Santa Barbara"
+6630-UJZMY,"Palo Alto"
+6631-HMANX,Kelseyville
+6633-MPWBS,Woodland
+6633-SYEUS,"San Diego"
+6635-CPNUN,"Moreno Valley"
+6635-MYYYZ,"Trinity Center"
+6637-KYRCV,"La Puente"
+6641-XRPSU,"San Lorenzo"
+6645-MXQJT,Copperopolis
+6646-JPPHA,Fullerton
+6646-QVXLR,Napa
+6646-VRFOL,Larkspur
+6647-ZEDXT,"Santa Maria"
+6648-INWPS,"San Bernardino"
+6650-BWFRT,Cambria
+6650-VJONK,Carson
+6651-AZVTJ,Pomona
+6651-RLGGM,Galt
+6652-YFFJO,Tuolumne
+6653-CBBOM,Compton
+6654-QGBZZ,"Nevada City"
+6655-LHBYW,Glendora
+6656-GULJQ,"Emigrant Gap"
+6656-JWRQX,"San Diego"
+6661-EIPZC,"Grand Terrace"
+6661-HBGWL,Mineral
+6663-JOCQO,Wasco
+6664-FPDAC,"San Diego"
+6668-CNMFP,"West Hills"
+6670-MFRPK,Coalinga
+6671-NGWON,"Dillon Beach"
+6674-KVJHG,"Lake Arrowhead"
+6680-NENYN,"San Diego"
+6680-WKXRZ,Antioch
+6681-ZSEXG,"Rancho Cordova"
+6682-QJDGB,"San Diego"
+6682-VCIXC,"Mad River"
+6683-VLCTZ,"San Diego"
+6685-GBWJZ,"Los Angeles"
+6685-XSHHU,Keyes
+6686-YPGHK,"Long Beach"
+6688-UZPWD,"Palm Springs"
+6689-KXGBO,"San Luis Obispo"
+6689-TCZHQ,Claremont
+6689-VRRTK,Camarillo
+6691-CCIHA,"Joshua Tree"
+6692-UDPJC,"South El Monte"
+6692-YQHXC,Sacramento
+6693-DJWTY,Inglewood
+6693-FRIRW,"Newport Beach"
+6695-AMZUF,Stockton
+6695-FRVEC,Burbank
+6696-YDAYZ,"Mt Baldy"
+6698-OXETB,"Joshua Tree"
+6701-DHKWQ,Montrose
+6701-YVNQG,"Moreno Valley"
+6702-OHFWR,Reseda
+6704-UTUKK,Exeter
+6705-LNMDD,"San Diego"
+6705-LXORM,Perris
+6710-HSJRD,"Newport Coast"
+6711-FLDFB,"Big Oak Flat"
+6711-VTNRE,Tranquillity
+6712-OAWRH,"San Bernardino"
+6713-OKOMC,"Los Angeles"
+6715-OFDBP,"Palo Alto"
+6718-BDGHG,"Gold Run"
+6719-FGEDO,Whittier
+6719-OXYBR,"California City"
+6723-CEGQI,Bayside
+6723-WSNTY,"Del Mar"
+6725-TPKJO,"Duncans Mills"
+6726-NNFWD,Murrieta
+6726-WEXXK,"Fields Landing"
+6727-IOTLZ,Pasadena
+6728-CZFEI,Sacramento
+6728-DKUCO,"Santa Monica"
+6728-VOIFY,"Palo Cedro"
+6728-WYQBC,Escondido
+6729-FZWSY,"Penn Valley"
+6729-GDNGC,Westport
+6732-FZUGP,Berkeley
+6732-VAILE,Montclair
+6733-LRIZX,"Bodega Bay"
+6734-CKRSM,"Stirling City"
+6734-FQAJX,Somerset
+6734-GMPVK,"Santa Maria"
+6734-JDTTV,Manton
+6734-PSBAW,"Santa Fe Springs"
+6736-DHUQI,Fairfax
+6738-ISCBM,Northridge
+6741-EGCBI,"Hacienda Heights"
+6741-QRLUP,Olema
+6743-HHQPF,Capay
+6745-JEFZB,"El Cajon"
+6746-WAUWT,Salida
+6749-UTDVX,Brownsville
+6752-APNJL,Woodlake
+6754-LZUKA,Escondido
+6754-WKSHP,Brisbane
+6762-NSODU,"Los Angeles"
+6762-QVYJO,Acton
+6765-MBQNU,Phillipsville
+6766-HFKLA,Cazadero
+6769-DCQLI,"Pope Valley"
+6769-DYBQN,Clearlake
+6770-UAYGJ,Lebec
+6770-XUAGN,"North Hollywood"
+6771-XWBDM,"White Water"
+6772-KSATR,Eagleville
+6772-WFQRD,Castella
+6773-LQTVT,"Long Beach"
+6776-TLWOI,Livingston
+6777-TGHTM,"San Francisco"
+6778-EICRF,Clio
+6778-JFCMK,"Van Nuys"
+6778-YSNIH,Riverside
+6784-XYJAE,"Fort Irwin"
+6786-OBWQR,Nipomo
+6789-HJBWG,Livingston
+6791-YBNAK,Manteca
+6794-HKIAJ,"Redondo Beach"
+6797-LNAQX,Poway
+6797-UCJHZ,"Simi Valley"
+6804-GDMOI,Brea
+6806-YDEUL,Sacramento
+6807-SIWJI,Groveland
+6810-VCAEX,"Los Angeles"
+6813-GZQCG,Milford
+6814-ZPWFQ,"Santa Clarita"
+6815-ABQFQ,Silverado
+6817-WTYHE,"Happy Camp"
+6818-DJXAA,Alturas
+6818-WOBHJ,Fulton
+6821-BUXUX,Temecula
+6821-JPCDC,"Castro Valley"
+6823-SIDFQ,"Parker Dam"
+6825-UYPFK,"Sun City"
+6827-IEAUQ,"Los Angeles"
+6828-HMKWP,Berkeley
+6833-JMZYP,Hesperia
+6834-NXDCA,"South Dos Palos"
+6837-BJYDQ,Wilmington
+6837-HAEVO,"Moreno Valley"
+6838-HVLXG,Keyes
+6838-YAUVY,Petaluma
+6839-ITVZJ,"Los Angeles"
+6840-RESVB,Adelanto
+6844-DZKRF,Irvine
+6845-RGTYS,"San Diego"
+6847-KJLTS,"Frazier Park"
+6848-HJTXY,Ontario
+6848-YLDFR,Gerber
+6849-OYAMU,Indio
+6849-WLEYG,Emeryville
+6851-WEFYX,Descanso
+6854-EXGSF,"Mt Baldy"
+6855-VLGOS,Guerneville
+6856-RAURS,"Rio Oso"
+6857-TKDJV,"Strawberry Valley"
+6857-VWJDT,"Santa Cruz"
+6859-QNXIQ,"Costa Mesa"
+6859-RKMZJ,Vallejo
+6860-YRJZP,Sacramento
+6861-OKBCE,"Seal Beach"
+6861-XWTWQ,Napa
+6862-CQUMB,"San Diego"
+6865-JZNKO,"Los Angeles"
+6867-ACCZI,"Bethel Island"
+6869-FGJJC,Gazelle
+6870-ECSHE,"Sun City"
+6870-ZWMNX,Clements
+6872-HXFNF,Irvine
+6873-UDNLD,Oakland
+6874-SGLHU,"San Jose"
+6876-ADESB,Etna
+6877-LGWXO,Pleasanton
+6877-TJMBR,Orinda
+6878-GGDWG,"San Diego"
+6885-PKOAM,"San Marcos"
+6888-SBYAI,"San Ramon"
+6890-PFRQX,Sacramento
+6891-JPYFF,"San Jose"
+6892-BOGQE,Whittier
+6892-EZDTG,"Kings Beach"
+6892-XPFPU,Pasadena
+6893-ODYYE,"Mokelumne Hill"
+6894-LFHLY,Escondido
+6896-SRVYQ,Camino
+6897-RWMUB,Chino
+6897-UUBNU,"North Hollywood"
+6898-MDLZW,"Blue Lake"
+6898-RBTLU,Whittier
+6899-PPEEA,Vallejo
+6900-PXRMS,"Spring Valley"
+6900-RBKER,"San Jose"
+6901-GOGZG,"Lake Hughes"
+6904-JLBGY,Salinas
+6905-NIQIN,"San Diego"
+6906-ANDWJ,Vina
+6906-MPARY,"Redondo Beach"
+6907-CQGPN,Oakland
+6907-FLBER,Burbank
+6907-NZZIJ,"Santa Monica"
+6908-VVYHM,Pasadena
+6910-HADCM,"Long Beach"
+6916-HIJSE,Fresno
+6917-FIJHC,Livingston
+6917-IAYHD,"La Honda"
+6917-YACBP,Escondido
+6918-UMQCG,Orange
+6919-ELBGL,"Big Pine"
+6921-OZMFH,"Santa Clara"
+6922-NCEDI,"Costa Mesa"
+6923-AQONU,"Los Angeles"
+6923-EFPNL,Silverado
+6923-JHPMP,Templeton
+6924-TDGMT,Platina
+6925-BAYGL,Inglewood
+6927-WTFIV,"Redwood City"
+6928-ONTRW,Bell
+6933-FHBZC,"Moreno Valley"
+6933-VLYFX,Belmont
+6937-GCDGQ,"West Point"
+6941-KXRRV,Dorris
+6941-PMGEP,Novato
+6942-LBFDP,Bakersfield
+6946-LMSQS,Temecula
+6950-TWMYB,"Santa Monica"
+6952-OMNWB,Creston
+6953-PBDIN,"Fort Bidwell"
+6954-OOYZZ,"Los Angeles"
+6956-SMUCM,Miranda
+6959-GQEGV,"Canoga Park"
+6959-UWKHF,Alpaugh
+6960-HVYXR,"Rio Linda"
+6961-MJKBO,"Los Angeles"
+6961-VCPMC,"North Palm Springs"
+6963-EZQEE,Midpines
+6963-KQYQB,Pacifica
+6967-PEJLL,"San Diego"
+6967-QIQRV,"Mission Viejo"
+6968-GMKPR,"French Gulch"
+6968-MHOMU,Princeton
+6968-URWQU,Redlands
+6969-MVBAI,"Davis Creek"
+6972-SNKKW,Chester
+6974-DAFLI,Bakersfield
+6976-BWGLQ,Pomona
+6979-TNDEU,Sacramento
+6979-ZNSFF,"Pollock Pines"
+6980-CDGFC,Aptos
+6980-IMXXE,Modesto
+6981-TDRFT,Soulsbyville
+6982-SSHFK,Fresno
+6982-UQZLY,"Los Alamos"
+6985-HAYWX,Hughson
+6986-IJDHX,"Huntington Beach"
+6986-IXNDM,"Three Rivers"
+6987-XQSJT,"Blue Lake"
+6988-CJEYV,"Crows Landing"
+6990-YNRIO,"Agoura Hills"
+6992-TKNYO,Richmond
+6993-OHLXR,"Walnut Creek"
+6993-YCOBK,"Sun Valley"
+6993-YGFJV,Cayucos
+6994-FGRHH,"Meadow Vista"
+6994-KERXL,Avalon
+6994-ORCWG,Wilseyville
+6996-KNSML,Cotati
+6997-UVGOX,Albany
+6999-CHVCF,Covina
+7000-WCEVQ,Wrightwood
+7005-CCBKV,Thornton
+7005-CYUIL,Laytonville
+7008-LZVOZ,Pixley
+7009-LGECI,"Westlake Village"
+7009-PCARS,Stockton
+7010-BRBUU,"Woodland Hills"
+7010-ZMVBF,Thermal
+7011-CVEUC,"Chula Vista"
+7013-PSXHK,Lagunitas
+7014-ZZXAW,Montclair
+7016-BPGEU,Dunsmuir
+7016-NVRIC,Chualar
+7017-VFHAY,Glendora
+7017-VFULY,Chatsworth
+7018-FPXHH,Callahan
+7018-WBJNK,"San Fernando"
+7020-OZKXZ,Vista
+7021-XSNYE,Lancaster
+7024-OHCCK,Sheridan
+7025-IWFHT,Upland
+7025-WCBNE,"Santa Ana"
+7026-YMSBE,Berkeley
+7028-DVOIQ,"Birds Landing"
+7029-IJEJK,"Los Angeles"
+7029-RPUAV,"Los Gatos"
+7030-FZTFM,Gonzales
+7030-NJVDP,"San Quentin"
+7032-LMBHI,Blythe
+7033-CLAMM,"Somes Bar"
+7036-TYDEC,"San Clemente"
+7036-ZZKBD,Lincoln
+7037-MTYVW,"San Jose"
+7041-TXQJH,"Goodyears Bar"
+7044-YAACC,Napa
+7047-FWEYA,"San Pedro"
+7047-YXDMZ,Vallejo
+7048-GXDAY,Fresno
+7049-GKVZY,Berkeley
+7054-DMVAS,"Redwood Valley"
+7054-ENNGU,Benicia
+7054-LGEQW,"Canyon Country"
+7055-HNEOJ,"El Dorado Hills"
+7055-JCGNI,"Moss Beach"
+7055-VKGDA,Clarksburg
+7056-IMHCC,Torrance
+7061-OVMIM,"Palm Springs"
+7064-FRRSW,Tarzana
+7064-JHXCE,"San Luis Obispo"
+7065-YUNRY,"San Diego"
+7067-KSAZT,Chico
+7072-MBHEV,Edwards
+7073-QETQY,Capay
+7074-IEVOJ,"San Francisco"
+7074-STDCN,Artesia
+7075-BNDVQ,Termo
+7077-XJMET,Alta
+7078-NVFAM,Pomona
+7079-QRCBC,Sacramento
+7080-TNUWP,Arbuckle
+7083-MIOPC,Burbank
+7083-YNSKY,Lodi
+7088-FBAWU,"Los Angeles"
+7089-IVVAZ,"Cantua Creek"
+7089-RKVSZ,Woody
+7089-XXAYG,Rocklin
+7094-MSZAO,Oakland
+7096-UCLNH,Fontana
+7096-ZNBZI,"Studio City"
+7100-FQPRV,"Canoga Park"
+7101-HRBLJ,Idyllwild
+7102-JJVTX,Escondido
+7103-IPXPJ,Inglewood
+7103-ZGVNT,"Portola Valley"
+7105-BENQF,Tarzana
+7105-MXJLL,Valencia
+7107-UBYKY,Sutter
+7108-DGVUU,Lookout
+7109-CQYUZ,"Beverly Hills"
+7109-MFBYV,"San Bernardino"
+7110-BDTWG,"San Jose"
+7112-OPOTK,"Fort Bidwell"
+7113-HIPFI,"Long Beach"
+7114-AEOZE,"Big Bar"
+7115-IRDHS,Sonora
+7120-RFMVS,Isleton
+7123-WQUHX,"Santa Monica"
+7124-UGSUR,"Los Angeles"
+7126-RBHSD,Lathrop
+7128-GGCNO,"Laguna Hills"
+7129-ACFOG,"Mountain Ranch"
+7129-AZJDE,"Huntington Beach"
+7129-CAKJW,Fresno
+7130-CTCUS,Springville
+7130-VTEWQ,"San Rafael"
+7130-YXBRO,Cool
+7131-ZQZNK,Clovis
+7133-VBDCG,"San Diego"
+7134-HBPBS,Adelanto
+7134-MJPDY,Moorpark
+7136-IHZJA,"Santa Fe Springs"
+7136-RVDTZ,"Portola Valley"
+7137-NAXML,"Moss Beach"
+7137-RYLPP,Paskenta
+7138-GIRSH,Camarillo
+7139-JZFVG,"Huntington Beach"
+7140-ADSMJ,"Los Banos"
+7142-HVGBG,"Mount Laguna"
+7143-BQIBA,Petaluma
+7145-FEJWU,"San Francisco"
+7147-AYBAA,Berkeley
+7148-XZPHA,"Rancho Cordova"
+7153-CHRBV,"San Andreas"
+7153-OANIO,Mendocino
+7156-MHUGY,"Buena Park"
+7156-MXBJE,"San Diego"
+7157-SMCFK,Valencia
+7159-FVYPK,Beaumont
+7159-NOKYQ,Montebello
+7161-DFHUF,Shasta
+7162-WPHPM,Elk
+7163-OCEQI,"Walnut Creek"
+7164-BPTUT,Banning
+7167-PCEYD,Temecula
+7168-HDQHG,Brownsville
+7169-YWAMK,Sunol
+7173-TETGO,"Lytle Creek"
+7175-NTIXE,"Redwood City"
+7176-WIONM,Bishop
+7176-WRTNX,Ventura
+7180-PISOG,Piru
+7181-BQYBV,"Garden Grove"
+7181-OQCUT,Fresno
+7182-OVLBJ,Kenwood
+7184-LRUUR,"Los Banos"
+7188-CBBBA,"Rowland Heights"
+7190-XHTWJ,"Newbury Park"
+7191-ADRGF,Torrance
+7196-LIWRH,Oroville
+7197-VOJMM,Calpine
+7198-GLXTC,"La Palma"
+7203-OYKCT,"Palo Verde"
+7205-BAIAD,Fillmore
+7206-GZCDC,Loleta
+7206-PQBBZ,Fontana
+7207-RMRDB,"Santa Barbara"
+7208-PSIHR,Klamath
+7209-JCUDS,Stockton
+7216-EWTRS,"Newport Beach"
+7216-KAOID,"Santa Rosa"
+7217-JYHOQ,Burbank
+7218-HKQFK,Homeland
+7219-TLZHO,Montebello
+7225-CBZPL,Earlimart
+7225-IILWY,Turlock
+7228-OMTPN,"Santa Barbara"
+7228-PAQPD,Escondido
+7233-DRTRF,Fresno
+7233-IOQNP,Gazelle
+7233-PAHHL,"South Gate"
+7234-FECYN,"San Gabriel"
+7234-KMNRQ,"Pacific Palisades"
+7235-NXZCP,Hornbrook
+7239-HZZCX,Lancaster
+7240-ETPTR,"Pope Valley"
+7240-FQLHE,"San Diego"
+7241-AJHFS,Escondido
+7242-EDTYC,"Pine Valley"
+7242-QZLXF,"San Diego"
+7243-LCGGZ,Alhambra
+7244-KXYZN,Modesto
+7244-QWYHG,"San Diego"
+7245-JMTTQ,"Baldwin Park"
+7245-NIIWQ,Fellows
+7246-ZGQDF,Victorville
+7247-XOZPB,Miramonte
+7248-VZQLC,Concord
+7249-WBIYX,Elmira
+7250-EQKIY,Escondido
+7251-LJBQN,Strathmore
+7251-XFOIL,Coulterville
+7252-NTGSS,"Redondo Beach"
+7253-UVNDW,"Santa Barbara"
+7254-IQWOZ,Redding
+7255-SSFBC,Northridge
+7266-GSSJX,"West Sacramento"
+7267-FRMJW,"Sierra Madre"
+7268-IGMFD,"Avila Beach"
+7268-WNTCP,Blocksburg
+7269-JISCY,"Los Alamitos"
+7270-BDIOA,Maxwell
+7271-AJDTL,Sacramento
+7272-QDCKA,Oroville
+7273-TEFQD,"La Puente"
+7274-CGTOD,"San Geronimo"
+7274-RTAPZ,"Long Beach"
+7277-KAMWT,"San Leandro"
+7277-OZCGZ,"Spring Valley"
+7278-CKDNC,Fresno
+7279-BUYWN,"Buena Park"
+7279-NMVJC,Compton
+7284-BUYEC,Tulelake
+7284-ZZLOH,Alta
+7285-KLOTR,Pacifica
+7291-CDTMJ,"Laguna Beach"
+7293-LSCDV,"Santa Ana"
+7294-TMAOP,"Castro Valley"
+7295-JOMMD,"San Jose"
+7296-PIXQY,Bodega
+7297-DVYGA,"West Covina"
+7298-IZWLY,Gardena
+7299-GNVPL,"El Portal"
+7301-ABVAD,"Valley Village"
+7302-ZHMHP,Coronado
+7305-ZWMAJ,Oakdale
+7306-YDSOI,Ocotillo
+7310-EGVHZ,"Los Angeles"
+7311-MQJCH,Temecula
+7312-XSBAT,Bakersfield
+7314-OXENN,Temecula
+7315-WYOAW,"Santa Monica"
+7317-GGVPB,Lotus
+7318-EIVKO,Shandon
+7319-VENRZ,"Rancho Santa Margarita"
+7319-ZNRTR,"Rio Linda"
+7321-KKSDU,"San Marino"
+7321-PKUYW,Branscomb
+7321-VGNKU,Paskenta
+7321-ZNSLA,Cottonwood
+7322-OCWHC,Placentia
+7325-ENZFI,"Santa Cruz"
+7326-RIGQZ,"Culver City"
+7328-OWMOM,"San Diego"
+7328-ZJAJO,"Santa Rosa"
+7330-WZLNC,"Red Bluff"
+7336-RLLRH,Oceanside
+7337-CINUD,"Mokelumne Hill"
+7338-ERIVA,Etna
+7339-POGZN,Pasadena
+7340-KEFQE,"Santa Ana"
+7341-LXCAF,Berkeley
+7343-EOBEU,"Laguna Niguel"
+7346-MEDWM,"Cathedral City"
+7349-ALMUX,"Rancho Cucamonga"
+7351-KYHQH,Fallbrook
+7351-MHQVU,Volcano
+7353-YOWFP,Brookdale
+7354-OIJLX,Inglewood
+7356-AYNJP,Stockton
+7356-IWLFW,Weott
+7359-PTSXY,Tustin
+7359-SSBJK,Whittier
+7359-WWYJV,"Los Angeles"
+7361-YPXFS,Brawley
+7363-QTBIW,"Scotts Valley"
+7365-BVCJH,"Trinity Center"
+7369-TRPFD,Chatsworth
+7375-WMVMT,Wildomar
+7377-DMMRI,Exeter
+7379-FNIUJ,"Olympic Valley"
+7379-POKDZ,Lancaster
+7382-DFJTU,Lakeshore
+7384-GHBPI,"San Dimas"
+7389-KBFIT,"Big Pine"
+7392-YYPYJ,"Santa Ana"
+7394-FKDNK,"San Diego"
+7394-LWLYN,Oakland
+7395-IGJOS,Quincy
+7395-XWZOY,"Suisun City"
+7396-VJUZB,"Willow Creek"
+7398-HPYZQ,Beaumont
+7398-LXGYX,Pioneertown
+7398-SKNQZ,Downey
+7399-QHBJS,Escondido
+7401-JIXNM,Arvin
+7401-RUBNK,"South Dos Palos"
+7402-EYFXX,Salyer
+7402-PWYJJ,Sacramento
+7404-JLKQG,Glennville
+7407-SUJIZ,"Los Angeles"
+7408-OFWXJ,Fresno
+7409-JURKQ,"Temple City"
+7409-KIUTL,Escondido
+7410-KTVFV,Grimes
+7410-OIEDU,"Culver City"
+7410-YTJIK,Eureka
+7416-CKTEP,Lakewood
+7421-ZLUPA,Hanford
+7422-WNBTY,"Green Valley Lake"
+7426-GSWPO,Portola
+7426-RHZGU,Oakland
+7426-WEIJX,"Olympic Valley"
+7427-AUFPY,"Hamilton City"
+7432-FFVAR,Victorville
+7434-SHXLS,Wallace
+7435-ZNUYY,Loleta
+7439-DKZTW,Paicines
+7442-YGZFK,Campo
+7445-WMRBW,"Hathaway Pines"
+7446-KQISO,Visalia
+7446-SFAOA,"Santa Rosa"
+7446-YPODE,Bridgeport
+7449-HVPIV,"Chula Vista"
+7450-NWRTR,"San Diego"
+7452-FOLON,"Terra Bella"
+7459-IMVYU,"Chino Hills"
+7459-RRWQZ,"San Diego"
+7460-ITWWP,Oakland
+7463-IFMQU,Laton
+7465-ZZRVX,Ceres
+7469-LKBCI,"Los Angeles"
+7470-DYNOE,Walnut
+7470-MCQTK,Alpaugh
+7471-MQPOS,"Long Beach"
+7471-WNSUF,"San Francisco"
+7472-EQOAV,"Laguna Niguel"
+7473-ZBDSN,"Walnut Creek"
+7479-NITWS,"Green Valley Lake"
+7480-QNVZJ,"Los Angeles"
+7480-SPLEF,Dunlap
+7481-ATQQS,"Boulder Creek"
+7483-IQWIB,"Morongo Valley"
+7486-KSRVI,Folsom
+7488-MXJIV,Armona
+7492-TAFJD,"Long Beach"
+7493-GVFIO,Stockton
+7493-TPUWZ,"Diamond Springs"
+7495-OOKFY,"Los Angeles"
+7501-IWUNG,Springville
+7501-VTYLJ,Sacramento
+7502-BNYGS,Wasco
+7503-EPSZW,"River Pines"
+7503-MIOGA,Shandon
+7503-QQRVF,"San Jose"
+7503-ZGUZJ,Riverside
+7504-UWHNB,Vallejo
+7508-DQAKK,"Shingle Springs"
+7508-KBIMB,Jamestown
+7508-MYBOG,Patterson
+7508-SMHXL,"San Francisco"
+7511-YMXVQ,Lynwood
+7515-LODFU,Burney
+7516-GMHUV,Lakeshore
+7517-LDMPS,Modesto
+7517-SAWMO,"Granada Hills"
+7519-JTWQH,Calipatria
+7520-HQWJU,"Santa Ysabel"
+7521-AFHAB,Auberry
+7521-YXVZY,Placerville
+7524-VRLPL,Manchester
+7526-BEZQB,Lawndale
+7526-IVLYU,"San Francisco"
+7527-QNRUS,Escondido
+7529-ZDFXI,"La Verne"
+7530-HDYDS,Lakewood
+7531-GQHME,"San Jacinto"
+7534-BFESC,"San Diego"
+7537-CBQUZ,Castroville
+7537-RBWEA,Petrolia
+7538-GWHML,"Lemon Cove"
+7541-YLXCL,Pomona
+7542-CYDDM,Turlock
+7544-ZVIKX,Roseville
+7547-EKNFS,Caspar
+7548-SEPYI,Temecula
+7549-MYGPK,"Mountain View"
+7550-WIQVA,Rocklin
+7551-DACSP,"Hat Creek"
+7551-JOHTI,Malibu
+7552-KEYGT,Platina
+7554-AKDQF,"Sierra Madre"
+7554-NEWDD,"Long Beach"
+7558-IMLMT,Stanton
+7560-QJAVJ,Biggs
+7560-QRBXH,Woodland
+7562-GSUHK,Jamestown
+7562-UXTPG,"Canoga Park"
+7563-BIUPC,"San Diego"
+7564-GHCVB,"San Simeon"
+7566-DSRLQ,"Rancho Cucamonga"
+7567-ECMCM,Danville
+7568-PODML,Watsonville
+7569-NMZYQ,Middletown
+7570-WELNY,"Sherman Oaks"
+7571-YXDAD,Davis
+7572-KPVKK,"Los Altos"
+7576-ASEJU,Azusa
+7576-JMYWV,"San Martin"
+7576-OYWBN,"San Mateo"
+7577-SWIFR,Glendale
+7579-KKLOE,Earlimart
+7579-OOPEC,Pala
+7580-UGXNC,"Culver City"
+7581-EBBOU,Volcano
+7586-ZATGZ,Ravendale
+7587-AOVVU,Arcata
+7587-RZNME,Valencia
+7590-VHVEG,"Los Angeles"
+7593-JNWRU,Fremont
+7593-XFKDI,"Los Angeles"
+7594-LZNWR,Sacramento
+7594-RQHXR,Covina
+7595-EHCDL,"Santa Maria"
+7595-EUIVN,Clearlake
+7596-IIWYC,Fiddletown
+7596-LDUXP,Rodeo
+7596-ZYWBB,Bakersfield
+7598-UAASY,Marshall
+7599-FKVXZ,"South Pasadena"
+7599-NTMDP,Lockeford
+7601-DHFWZ,"Simi Valley"
+7601-GNDYK,Wildomar
+7601-WFVZV,Downieville
+7602-DBTOU,"San Francisco"
+7602-MVRMB,"Fish Camp"
+7603-USHJS,"San Gabriel"
+7605-BDWDC,"Mira Loma"
+7605-SNLQG,Gardena
+7606-BPHHN,"La Quinta"
+7607-QKKTJ,"Loma Linda"
+7608-RGIRO,Marysville
+7609-NRNCA,"Mountain Ranch"
+7609-YBPXG,Irvine
+7610-TVOPG,"West Point"
+7611-YKYTC,Burson
+7613-LLQFO,"Amador City"
+7614-QVWQL,"Costa Mesa"
+7615-ESMYF,"San Diego"
+7617-EYGLW,"Clearlake Oaks"
+7619-ODSGN,"Foothill Ranch"
+7619-PLRLP,"Cardiff By The Sea"
+7621-VPNET,Arcadia
+7622-FWGEW,"Costa Mesa"
+7622-NXQZR,"Canoga Park"
+7623-HKYRK,Caliente
+7623-TRNQN,Jackson
+7625-XCQRH,Strathmore
+7627-JKIAZ,"San Jose"
+7629-WFGLW,"Palo Alto"
+7629-WIXZF,"San Rafael"
+7632-MNYOY,"Tahoe Vista"
+7632-YUTXB,"Stinson Beach"
+7633-MVPUY,"Diamond Bar"
+7634-HLQJR,"Moss Landing"
+7634-WSWDB,"Terra Bella"
+7636-OWBPG,Redding
+7636-PEPNS,"Palos Verdes Peninsula"
+7636-XUHWW,Firebaugh
+7638-QVMVY,Visalia
+7639-LIAYI,"Los Angeles"
+7639-OPLNG,"San Diego"
+7639-SUPCW,"Glen Ellen"
+7641-EUYET,Tranquillity
+7641-TQFHN,Fresno
+7643-RCHXS,"Montgomery Creek"
+7644-OMVMY,"Los Angeles"
+7647-GYYKX,"San Marcos"
+7649-PHJVR,"Paso Robles"
+7649-SIJJF,Emeryville
+7654-YWJUF,Sunland
+7657-DYEPJ,"Los Angeles"
+7658-UYUQS,Fullerton
+7660-HDPJV,"Long Beach"
+7661-CPURM,Alhambra
+7663-CUXZB,"Fields Landing"
+7663-RGWBC,"Los Angeles"
+7663-YJHSN,"Moss Landing"
+7663-ZTEGJ,Escondido
+7665-NKLAV,Pleasanton
+7665-TOALD,Temecula
+7665-VIGUD,"Santa Barbara"
+7666-WKRON,Riverbank
+7668-XCFYV,Glendora
+7669-LCRSD,Igo
+7670-ZBPOQ,Denair
+7672-VFMXZ,"Long Beach"
+7673-BQGKU,Carlsbad
+7673-LPRNY,Pasadena
+7674-YTAFD,"North Hills"
+7675-OZCZG,Fallbrook
+7677-SJJJK,"Granite Bay"
+7682-AZNDK,Williams
+7683-CBDKJ,Palmdale
+7684-XSZIY,Loomis
+7688-AWMDX,"San Diego"
+7690-KPNCU,"Willow Creek"
+7691-KGKGP,"Aliso Viejo"
+7691-XVTZH,Aromas
+7693-LCKZL,Julian
+7693-QPEFS,Davenport
+7694-VLBWQ,Coronado
+7695-PKLCZ,Salinas
+7696-AMHOD,Fallbrook
+7696-CFTAT,"Diamond Bar"
+7698-YFGEZ,Riverside
+7703-ZEKEF,Heber
+7706-DZNKK,Palmdale
+7706-YLMQA,Madera
+7707-PYBBH,"Lucerne Valley"
+7710-JSYOA,Pala
+7711-GQBZC,Stockton
+7711-YIJWC,Shingletown
+7714-YXSMB,Irvine
+7716-YTYHG,Oxnard
+7717-BICXI,"O Neals"
+7718-RXDGG,Newcastle
+7718-UPSKJ,"San Diego"
+7721-DVEKZ,"Thousand Oaks"
+7721-JXEAW,"Elk Grove"
+7722-CVFXN,"Santa Cruz"
+7722-VJRQD,Brooks
+7727-SHVZV,Chico
+7729-JTEEC,"Olympic Valley"
+7729-XBTWX,"San Ramon"
+7730-CLDSV,Brentwood
+7730-IUTDZ,Chatsworth
+7733-UDMTP,Fresno
+7734-DBOAI,"Pope Valley"
+7739-LAXOG,Sacramento
+7740-BTPUX,Manchester
+7740-KKCXF,"Los Angeles"
+7742-MYPGI,Cobb
+7743-EXURX,Glendale
+7746-AWNQW,"La Jolla"
+7746-QYVCO,"White Water"
+7748-UMTRK,"San Francisco"
+7750-EYXWZ,"Yucca Valley"
+7752-XUSCI,Crestline
+7753-USQYQ,"West Covina"
+7754-IXRMC,Atascadero
+7758-UJWYS,Millbrae
+7758-XKCBS,Reseda
+7760-OYPDY,"Los Angeles"
+7762-ONLJY,Sacramento
+7762-URZQH,Venice
+7764-BDPEE,Hayward
+7765-LWVVH,Caspar
+7766-CLTIC,Kenwood
+7767-UXAGJ,Colfax
+7771-CFQRQ,Mariposa
+7771-ZONAT,Woodacre
+7774-OJSXI,"South Lake Tahoe"
+7776-QGYJC,"Shasta Lake"
+7776-QWNFX,Chino
+7777-UNYHB,Traver
+7779-LGOVN,Paskenta
+7779-ORAEL,"Mi Wuk Village"
+7780-OTDSO,Covelo
+7781-EWARA,"Big Bend"
+7781-HVGMK,Amboy
+7783-YKGDV,"March Air Reserve Base"
+7785-RDVIG,Hemet
+7786-WBJYI,"San Diego"
+7787-BNTZM,Comptche
+7789-CRUVC,"San Diego"
+7789-HKSBS,Lakewood
+7794-JASDG,Winchester
+7795-CFOCW,"Los Angeles"
+7797-EJMDP,Manteca
+7798-JVXYM,Herald
+7799-DSEWS,Hayward
+7799-LGRDP,Lakewood
+7801-CEDNV,Inglewood
+7801-KICAO,Pasadena
+7802-EFKNY,Redlands
+7803-XOCCZ,Anza
+7808-DVWEP,Chico
+7811-JIVPF,"Long Beach"
+7812-FZHPE,Bradley
+7813-TKCVO,"Oak Park"
+7813-ZGGAW,Applegate
+7814-LEEVE,"Grass Valley"
+7815-PDTHL,"Van Nuys"
+7816-VGHTO,"Rio Oso"
+7817-BOQPW,"Rio Dell"
+7817-OMJNA,"Mammoth Lakes"
+7820-ZYGNY,"La Puente"
+7821-DPRQE,Stockton
+7823-JSOAG,Sonoma
+7824-PANSQ,"Mammoth Lakes"
+7825-ECJRF,"Santa Clarita"
+7825-GKXMW,"San Diego"
+7826-VVKWT,"San Diego"
+7831-QGOXH,"Blue Lake"
+7833-PKIHD,"Palm Desert"
+7838-LAZFO,Hanford
+7839-NUIAA,"Davis Creek"
+7839-QRKXN,Glendale
+7841-FCRQD,Walnut
+7841-TZDMQ,"Sun Valley"
+7845-URHJN,"Hacienda Heights"
+7850-THJMU,"Mill Creek"
+7850-VWJUU,Lakewood
+7851-FLGGQ,Wheatland
+7851-WZEKY,Stockton
+7852-LECYP,"Los Angeles"
+7853-GVUDZ,"Los Angeles"
+7853-OETYL,"West Covina"
+7853-WNZSY,"El Nido"
+7854-EDSSA,"Santa Rosa"
+7854-EKTJL,Salinas
+7854-FOKSF,Rosamond
+7855-DIWPO,Sloughhouse
+7856-GANIL,Irvine
+7858-GTZSP,"San Lucas"
+7860-KSUGX,"Long Beach"
+7860-UXCRM,"San Gabriel"
+7861-UVUFT,Sloughhouse
+7868-BGSZA,Riverside
+7868-TMWMZ,Berkeley
+7869-ZYDST,Hyampom
+7872-BAAZR,Norwalk
+7872-RDDLZ,Piercy
+7873-CVMAW,"Van Nuys"
+7874-ECPQJ,"Wofford Heights"
+7876-AEHIG,"Daly City"
+7876-BEUTG,"San Bruno"
+7876-DNYAP,Washington
+7878-JGDKK,Selma
+7878-RTCZG,Inglewood
+7879-CGSFV,Sugarloaf
+7880-XSOJX,"Garden Grove"
+7881-EVUAD,Oroville
+7881-INRLC,"San Mateo"
+7883-ROJOC,"Point Reyes Station"
+7890-VYYWG,Sutter
+7892-POOKP,"Los Angeles"
+7892-QVYKW,"El Cajon"
+7893-IXHRQ,Sacramento
+7895-VONWT,"Manhattan Beach"
+7898-PDWQE,Maxwell
+7901-HXJVA,Chico
+7901-IIDQV,"San Diego"
+7901-TBKJX,"Twentynine Palms"
+7903-CMPEY,"Corte Madera"
+7905-NJMXS,Williams
+7905-TVXTA,Salinas
+7908-QCBCA,Atwater
+7909-FIOIY,"Santa Clara"
+7912-SYRQT,"Los Angeles"
+7916-VCCPB,"Parker Dam"
+7919-ZODZZ,Antioch
+7921-BEPCI,Rocklin
+7921-LMDFQ,"Chula Vista"
+7923-IYJWY,"Twain Harte"
+7924-GJZFI,Jackson
+7925-PNRGI,"Chula Vista"
+7926-IJOOU,"San Francisco"
+7927-AUXBZ,"Sun City"
+7928-VJYAB,Lemoore
+7929-DMBCV,"Arroyo Grande"
+7929-SKFGK,Mentone
+7931-PXHFC,Duarte
+7932-WPTDS,"San Diego"
+7938-OUHIO,"Mill Valley"
+7940-UQQUG,"Thousand Oaks"
+7941-RCJOW,Tehama
+7943-RQCHR,Davis
+7945-HLKEA,"Half Moon Bay"
+7945-PRBVF,"Nevada City"
+7950-XWOVN,Oxnard
+7951-QKZPL,"Saint Helena"
+7951-VRDVK,"Laguna Hills"
+7952-OBOYL,Upland
+7954-MLBUN,"Santa Barbara"
+7956-XQWGU,"Long Beach"
+7957-RYHQD,Bellflower
+7963-GQRMY,"Los Angeles"
+7963-SHNDT,"Redwood City"
+7964-VEXDG,Anaheim
+7964-YESJC,Moorpark
+7964-ZRKKG,"Van Nuys"
+7966-YOTQW,Nubieber
+7967-HYCDE,"Spring Valley"
+7968-QUXNS,Dobbins
+7969-AULMZ,"San Francisco"
+7969-FFOWG,Littlerock
+7971-HLVXI,"San Bernardino"
+7973-DZRKH,Riverside
+7975-JMZNT,Columbia
+7975-TZMLR,Reedley
+7976-CICYS,"Woodland Hills"
+7977-HXJKU,Scotia
+7978-DKUQH,"Lake Elsinore"
+7979-CORPM,Oakdale
+7980-MHFLQ,Independence
+7982-VCELR,Ramona
+7989-AWGEH,"San Luis Obispo"
+7989-CHGTL,"San Diego"
+7989-VCQOH,Auberry
+7993-NQLJE,Glenn
+7993-PYKOF,"Rio Nido"
+7994-UYIVZ,Miramonte
+7994-XIRTR,Roseville
+7995-ZHHNZ,Fullerton
+7996-BPXHY,"San Francisco"
+7996-MHXLW,Ocotillo
+7997-EASSD,"Redwood City"
+7998-WNZEM,"San Francisco"
+7998-ZLXWN,Larkspur
+8000-REIQB,"San Diego"
+8003-EWNDZ,Philo
+8006-PYCSW,"Los Angeles"
+8007-YYPWD,Homeland
+8008-ESFLK,Capitola
+8008-HAWED,"Los Angeles"
+8008-OTEZX,"Villa Park"
+8010-EZLOU,"San Marino"
+8012-SOUDQ,"Los Angeles"
+8015-IHCGW,"Garden Grove"
+8016-NCFVO,Glendale
+8016-ZMGMO,Colusa
+8017-LXHFA,"San Diego"
+8017-UVSZU,Calabasas
+8019-ENHXU,Oakland
+8020-BWHYL,Montrose
+8022-BECSI,"Santa Ysabel"
+8023-QHAIO,Corona
+8024-XNAFQ,Isleton
+8028-PNXHQ,Downey
+8029-XYPWT,Anaheim
+8033-ATFAS,"San Mateo"
+8033-VCZGH,Tracy
+8034-RYTVV,"Rancho Santa Margarita"
+8035-BUYVG,"Running Springs"
+8035-PWSEV,Hayward
+8039-ACLPL,Mather
+8039-EQPIM,"Spring Valley"
+8040-MNRTF,Taft
+8041-TMEID,Corning
+8042-JVNFH,Olancha
+8042-RNLKO,Watsonville
+8043-PNYSD,Lakehead
+8044-BGWPI,Ontario
+8046-DNVTL,Weott
+8048-DSDFQ,"Midway City"
+8049-WJCLQ,Ducor
+8050-DVOJX,Keeler
+8050-WYBND,Whittier
+8050-XGRVL,Millville
+8051-HJRLT,Wrightwood
+8053-WWDRO,"San Diego"
+8058-DMYRU,Glendale
+8058-INTPH,"San Diego"
+8058-JMEQO,"San Diego"
+8059-UDZFY,Lucerne
+8060-HIWJJ,Lincoln
+8062-YBDOE,"Canyon Country"
+8063-GBATB,Cobb
+8063-RJYNF,Richmond
+8064-RAVOH,Oxnard
+8065-BVEPF,Yorkville
+8065-QBYTO,Pomona
+8065-YKXKD,"San Diego"
+8066-POXGX,Fresno
+8067-NIOYM,Irvine
+8069-RHUXK,Fullerton
+8069-YQQAJ,"Studio City"
+8070-AAWZP,Sheridan
+8071-SBTRN,"Canoga Park"
+8073-IJDCM,Rescue
+8075-GXIUB,"Spring Valley"
+8076-FEZKJ,Silverado
+8079-XRJRS,"Pleasant Grove"
+8080-DDEMJ,Glendale
+8080-POTJR,"Rancho Palos Verdes"
+8082-GHXOP,Esparto
+8083-YTZES,"San Diego"
+8084-OIVBS,Clarksburg
+8085-MSNLK,"San Jose"
+8086-OVPWV,"San Diego"
+8087-LGYHQ,Crestline
+8089-UZWLX,"El Nido"
+8091-TTVAX,"Los Angeles"
+8092-NLTGF,Reseda
+8095-WANWK,"Kettleman City"
+8096-LOIST,"Stirling City"
+8097-OMULG,"San Jose"
+8097-VBQTZ,Anaheim
+8098-LLAZX,"San Diego"
+8098-TDCBU,"North Fork"
+8099-MZPUJ,Carmel
+8100-HZZLJ,Indio
+8100-PNJMH,Glennville
+8104-OSKWT,Anaheim
+8106-GWQOK,"Warner Springs"
+8107-KNCIM,"San Francisco"
+8107-RZLNV,"South Gate"
+8108-UXRQN,Lawndale
+8109-YUOHE,"Porter Ranch"
+8111-BKVDS,Escondido
+8111-RKSPX,"Santa Rosa"
+8111-SLLHI,"San Jose"
+8118-LSUEL,Roseville
+8118-TJAFG,Gardena
+8120-JDCAM,Vallejo
+8123-QBNAZ,"Scott Bar"
+8124-NZVGJ,Baker
+8125-QPFJD,Greenview
+8128-YVJRG,Berkeley
+8129-GMVGI,"San Bruno"
+8132-YPVBX,Salinas
+8133-ANHHJ,Ventura
+8138-EALND,"Laguna Hills"
+8143-ETQTI,Bakersfield
+8144-DGHXP,Gridley
+8146-QQKZH,"El Sobrante"
+8148-BPLZQ,Jacumba
+8148-NLEGT,Pinecrest
+8148-WOCMK,Castaic
+8149-AIQCG,"Redondo Beach"
+8149-RSOUN,Dorris
+8150-QUDFX,"Rohnert Park"
+8152-UOBNY,Mineral
+8152-VETUR,Bishop
+8155-IBNHG,"San Diego"
+8158-WPEZG,"Los Angeles"
+8160-HOWOX,"San Bernardino"
+8161-QYMTT,"Santa Maria"
+8164-OCKUJ,Magalia
+8165-CBKXO,"Los Angeles"
+8165-ZJRNM,Pittsburg
+8166-ORCHU,Oakland
+8166-ZZTFS,Roseville
+8167-GJLRN,"La Crescenta"
+8168-UQWWF,"Los Angeles"
+8169-SAEJD,Lancaster
+8173-RXAYP,Mcarthur
+8174-LNWMW,Tustin
+8174-TBVCF,Stanton
+8178-EYZUO,"San Francisco"
+8180-AKMJV,Litchfield
+8181-YHCMF,"La Mesa"
+8182-BJDSI,"Santa Ana"
+8182-PNAGI,"Pico Rivera"
+8183-ONMXC,"San Diego"
+8184-WMOFI,Fresno
+8185-UPYBR,"Hermosa Beach"
+8189-DUKMV,"Rancho Cordova"
+8189-HBVRW,"Los Angeles"
+8189-XRIKE,Newark
+8190-ZTQFB,Bieber
+8191-XWSZG,"Los Angeles"
+8194-PEEBY,Irvine
+8197-BFWVU,"Lake Isabella"
+8198-RKSZG,"El Cerrito"
+8199-ZLLSA,Tujunga
+8200-KLNYW,"San Geronimo"
+8200-LGKSR,Azusa
+8201-AAXCB,Ontario
+8203-XJZRC,"Chula Vista"
+8204-TIFGJ,"June Lake"
+8204-YJCLA,"San Ysidro"
+8205-MQUGY,Sacramento
+8205-OTCHB,Riverside
+8205-VSLRB,Greenview
+8207-DMRVL,"Yorba Linda"
+8207-VVMYB,Clayton
+8208-EUMTE,"Villa Park"
+8212-CRQXP,Alviso
+8212-DJRCH,"Newbury Park"
+8213-TAZPM,"Lemon Grove"
+8215-NGSPE,Oxnard
+8216-AZUUZ,"San Francisco"
+8217-QYOHV,Burbank
+8218-FFJDS,Georgetown
+8219-VYBVI,"Rancho Santa Fe"
+8220-OCUFY,Perris
+8221-EQDGL,Alleghany
+8221-HVAYI,Gustine
+8224-DWCKX,Burlingame
+8224-IVVPA,Caliente
+8224-KDLKN,Sacramento
+8224-UAXBZ,Sacramento
+8225-BTJAU,"Stinson Beach"
+8226-BXGES,Gardena
+8229-BUJHX,"Chula Vista"
+8229-MYEJZ,Upland
+8229-TNIQA,Pasadena
+8231-BSWXX,Mojave
+8232-CTLKO,Ocotillo
+8232-UTFOZ,Glendora
+8234-GSZYK,Albion
+8237-ULIXL,"San Francisco"
+8241-JUIQO,Sunnyvale
+8242-JSVBO,"Mountain Ranch"
+8242-PDSGJ,Chilcoot
+8242-SOQUO,Oakland
+8245-UMPYT,Lockwood
+8246-SHFGA,"Mount Shasta"
+8249-THVEC,"Los Angeles"
+8250-ZNGGW,"Rio Vista"
+8257-RZAHR,"San Jose"
+8258-GSTJK,"San Pedro"
+8259-DZLIZ,Delhi
+8259-NFJTV,Flournoy
+8260-NGFNY,Phelan
+8261-GWDBQ,Corona
+8262-COGGB,Visalia
+8263-JQAIK,Palmdale
+8263-OKETD,Caruthers
+8263-QMNTJ,"San Francisco"
+8265-HKSOW,Occidental
+8266-VBFQL,Jamul
+8267-KFGYD,Alhambra
+8267-ZNYVZ,"Spring Valley"
+8268-YDIXR,Merced
+8270-RKSAP,Anaheim
+8272-ONJLV,"San Diego"
+8276-MQBYC,"Los Angeles"
+8277-RVRSV,Danville
+8280-MQRQN,Arnold
+8285-ABVLB,"Santa Barbara"
+8286-AFUYI,Glendale
+8290-YWKHZ,Fallbrook
+8292-FRFZQ,Malibu
+8292-ITGYJ,"Campo Seco"
+8292-TYSPY,"Los Angeles"
+8294-UIMBA,Northridge
+8295-FHIVV,Paicines
+8295-KMENE,Newhall
+8305-VHZBZ,"San Diego"
+8309-IEYJD,"Indian Wells"
+8309-PPCED,Nipomo
+8311-UEUAB,Rialto
+8313-AFGBW,"Los Angeles"
+8313-KTIHG,"Thousand Palms"
+8313-NDOIA,"Green Valley Lake"
+8314-DPQHL,Auberry
+8314-HTWVE,Cypress
+8316-BBQAY,"Redwood City"
+8317-BVKSO,Termo
+8318-LCNBW,"San Luis Obispo"
+8319-QBEHW,"San Jose"
+8325-QRPZR,Benicia
+8327-LZKAS,Pomona
+8327-WKMIE,"Le Grand"
+8328-SKJNO,Seeley
+8329-GWVPJ,Berkeley
+8329-IBCTI,Cotati
+8329-UTMVM,Bakersfield
+8331-ZXFOE,"Santa Clara"
+8332-OSJDW,"Los Angeles"
+8336-TAVKX,"Berry Creek"
+8337-MSSXB,"Trabuco Canyon"
+8337-UPOAQ,Wrightwood
+8338-QIUNR,Bakersfield
+8344-WFMFH,"Los Angeles"
+8345-MVDYC,Gardena
+8347-GDTMP,Ripon
+8348-HFYIV,Oakland
+8348-JLBUG,"North San Juan"
+8350-NYMVI,Chico
+8356-WUAOJ,Glendale
+8357-EQXFO,"Union City"
+8361-LBRDI,"Saint Helena"
+8361-LTMKD,Fallbrook
+8364-TRMMK,"San Jose"
+8372-JUXUI,"San Bernardino"
+8374-UULRV,"Carmel By The Sea"
+8374-XGEJJ,Temecula
+8375-DKEBR,"Hermosa Beach"
+8375-KVTHK,"Fort Bragg"
+8378-LKJAF,"Santa Ana"
+8380-MQINP,"Los Angeles"
+8380-PEFPE,Avalon
+8382-SHQEH,"Rancho Cucamonga"
+8383-SGHJU,"Lake Arrowhead"
+8384-FZBJK,"San Mateo"
+8387-MOJJT,Nubieber
+8387-UGUSU,Irvine
+8388-DMKAE,"Los Angeles"
+8388-FYNPZ,"Pleasant Hill"
+8390-FESFV,Sebastopol
+8393-DLHGA,Palermo
+8393-JMVMB,"Thousand Oaks"
+8395-ETZKQ,Sacramento
+8397-MVTAZ,"Sun City"
+8398-TBIYD,"Castro Valley"
+8399-YNDCH,Columbia
+8400-WZICQ,"Long Beach"
+8401-EMUWF,Paramount
+8402-EIVQS,"Frazier Park"
+8402-OOOHJ,"Buena Park"
+8404-FYDIB,"Los Angeles"
+8404-GFGCZ,Millville
+8404-VIOMB,Lakehead
+8404-VLQFB,"California Hot Springs"
+8405-IGQFX,Bridgeport
+8406-LNMHF,Temecula
+8409-WQJUX,Arcata
+8410-BGQXN,"Angels Camp"
+8413-VONUO,Grimes
+8413-YNHNV,Oakland
+8414-MYSHR,Arcadia
+8414-OOEEL,Oakland
+8417-FMLZI,"Santa Cruz"
+8417-GSODA,"Rancho Cucamonga"
+8421-WZOOW,"Rio Vista"
+8429-XIBUM,Oakland
+8430-TWCBX,Novato
+8433-WPJTV,"French Camp"
+8433-WXGNA,Salinas
+8434-PNQZX,"Marina Del Rey"
+8434-VGEQQ,Guadalupe
+8436-BJUMM,Albany
+8439-LTUGF,"Lake Forest"
+8441-SHIPE,Glendale
+8443-WVPSS,Galt
+8443-ZRDBZ,Fontana
+8444-WRIDW,"Thousand Oaks"
+8445-DNBAE,Sacramento
+8450-JOVAH,"Agoura Hills"
+8450-LUGUK,"San Diego"
+8450-UYIBU,Fresno
+8454-AATJP,Oakland
+8455-HIRAQ,Carmichael
+8456-QDAVC,Winterhaven
+8457-XIGKN,Norco
+8461-EFQYM,"San Jose"
+8464-EETCQ,Salinas
+8465-SBRXP,"Baldwin Park"
+8466-PZBLH,Descanso
+8467-WYNSR,Clayton
+8468-EHYJA,"Palo Verde"
+8468-FZTOE,"San Diego"
+8469-SNFFH,"San Pedro"
+8473-VUVJN,Temecula
+8474-UMLNT,Fresno
+8480-PPONV,Guerneville
+8481-YYXWG,Hume
+8485-GJCDN,"San Diego"
+8486-AYEQH,Guatay
+8490-BXHEO,"Lucerne Valley"
+8495-LJDFO,"Rancho Santa Margarita"
+8495-PRWFH,Waterford
+8496-DMZUK,Soulsbyville
+8496-EJAUI,Tujunga
+8498-XXGWA,Malibu
+8499-BRXTD,Kernville
+8510-AWCXC,Novato
+8510-BBWMU,Stonyford
+8510-TMWYB,Sacramento
+8512-WIWYV,Kirkwood
+8513-OLYGY,Fortuna
+8514-VZHEB,"Travis Afb"
+8515-OCTJS,Lemoore
+8519-IMDHU,Alderpoint
+8519-QJGJD,Twain
+8532-UEFWH,"Huntington Beach"
+8535-SFUTN,"Moreno Valley"
+8540-ZQGEA,"Playa Del Rey"
+8541-QVFKM,"Long Beach"
+8543-MSDMF,Coachella
+8544-GOQSH,Pacoima
+8544-JNBOX,Weimar
+8547-NSBBO,"San Pedro"
+8548-AWOFC,"Huntington Beach"
+8550-XSXUQ,Cottonwood
+8552-OBVRU,Ivanhoe
+8559-CIZFV,Annapolis
+8559-WNQZS,Atwater
+8561-NMTBD,Lawndale
+8562-GHPPI,"San Leandro"
+8563-IIOXK,Duarte
+8563-OYMQY,Covina
+8564-LDKFL,"Big Bar"
+8565-CLBZW,"San Diego"
+8565-HBFNN,"Los Altos"
+8565-WUXZU,Vina
+8566-YPRGL,"Long Beach"
+8570-KLJYJ,"Arroyo Grande"
+8571-ZCMCX,Fresno
+8573-CGOCC,Stockton
+8573-JGCZW,Idyllwild
+8577-QSOCG,Berkeley
+8580-AECUZ,"San Diego"
+8580-QVLOC,Merced
+8582-KRHPJ,Moraga
+8584-KMVXD,Calistoga
+8587-XYZSF,Bellflower
+8590-OHDIW,"Garden Grove"
+8590-YFFQO,"Morgan Hill"
+8591-NXRCV,Malibu
+8591-TKMZH,Claremont
+8592-PLTMQ,Fontana
+8593-WHYHV,"Los Angeles"
+8595-SIZNC,"Los Angeles"
+8597-CTXVJ,Jenner
+8597-CWYHH,Torrance
+8601-QACRS,Fallbrook
+8603-IJWDN,Pinole
+8605-ITULD,"Crescent Mills"
+8606-CIQUL,Temecula
+8606-OEGQZ,Escalon
+8608-OZTLB,Applegate
+8610-WFCJF,"Palo Alto"
+8610-ZIKJJ,Tujunga
+8612-GXIDD,"San Bernardino"
+8614-VGMMV,Riverside
+8617-ENBDS,Helendale
+8619-IJNDK,"Santa Ana"
+8620-RJPZN,"Los Altos"
+8621-MNIHH,Madison
+8622-ZLFKO,Fresno
+8623-TMRBY,"Chula Vista"
+8623-ULFNQ,Cerritos
+8624-GIOUT,Seeley
+8625-AZYZY,Anza
+8626-PTQGE,Escondido
+8626-XHBIE,Riverdale
+8627-EHGIP,Sacramento
+8627-ZYGSZ,Compton
+8628-MFKAX,"San Pablo"
+8630-FJLIB,"San Jose"
+8630-QSGXK,"Pinon Hills"
+8631-NBHFZ,"Running Springs"
+8631-WUXGY,Magalia
+8631-XVRZL,Kyburz
+8634-CILSZ,"San Diego"
+8634-MPHTR,Forbestown
+8637-XJIVR,"Marina Del Rey"
+8639-NHQEI,"Seiad Valley"
+8640-SDGKB,"Los Angeles"
+8642-GVWRF,Capitola
+8644-XLFBW,"Lake Elsinore"
+8644-XYTSV,Ballico
+8645-KOMJQ,Orosi
+8645-KWHJO,"San Gabriel"
+8646-JCOMS,Maywood
+8647-SDTWQ,Hood
+8648-PFRMP,Ferndale
+8650-RHRKE,Oakdale
+8651-ENBZX,"Grizzly Flats"
+8652-YHIYU,"San Jose"
+8654-DHAOW,Burson
+8659-HDIYE,"Los Angeles"
+8659-IOOPU,"Moss Landing"
+8660-BUETV,Riverside
+8661-BOYNW,Tollhouse
+8663-UPDGF,Whittier
+8665-UTDHZ,"Los Angeles"
+8668-KNZTI,Sacramento
+8670-ERCJH,"Portola Valley"
+8670-MEFCP,Tranquillity
+8671-KKKOS,Newman
+8672-OAUPW,Corona
+8676-OOQEJ,Amboy
+8676-TRMJS,Torrance
+8677-HDZEE,"Mountain Center"
+8679-JOEVF,Sacramento
+8679-LZBMD,"North Fork"
+8680-CGLTP,Nicasio
+8681-ICONS,Sacramento
+8685-WHQPW,"San Diego"
+8687-BAFGU,Clovis
+8690-UPCZI,"Los Angeles"
+8690-ZVLCL,"Los Angeles"
+8695-ARGXZ,Fresno
+8695-WDYEA,Chico
+8696-JKZNU,Anderson
+8699-ASUFO,Nuevo
+8701-DGLVH,"Elk Grove"
+8705-DWKTI,Gasquet
+8705-WZCYL,Encinitas
+8706-HRADD,Sunnyvale
+8707-HOEDG,Palmdale
+8707-RMEZH,Tecate
+8708-XPXHZ,Castella
+8709-KRDVL,"Scott Bar"
+8710-YGLWG,"North Hills"
+8711-LOBKY,Navarro
+8713-IGZSO,Salinas
+8714-CTZJW,"Pilot Hill"
+8714-EUHJO,Castella
+8715-KKTFG,Roseville
+8717-VCTXJ,"Santa Cruz"
+8718-PTMEZ,"Lake Elsinore"
+8720-RQSBJ,Armona
+8722-NGNBH,Walnut
+8722-PRFDV,"Los Angeles"
+8725-JEDFD,Calabasas
+8727-JQFHV,Dunsmuir
+8727-XDPUD,Sacramento
+8728-SKJLR,Olancha
+8731-WBBMB,"San Diego"
+8734-DKSTZ,Winterhaven
+8734-FNWVH,"West Covina"
+8735-DCXNF,"Pilot Hill"
+8735-IJJEG,Guatay
+8735-NBLWT,Foresthill
+8735-SDUFN,Salinas
+8738-JOKAR,Covina
+8739-QOTTN,Avalon
+8739-WWKDU,"San Diego"
+8739-XNIKG,Bakersfield
+8740-CRYFY,Sacramento
+8740-XLHDR,Greenwood
+8741-LQOBK,Elmira
+8745-PVESG,"Rancho Santa Fe"
+8746-BFOAJ,"Garden Grove"
+8746-OQQRW,Hopland
+8747-UDCOI,"Sun City"
+8748-HFWBO,Camino
+8749-CLJXC,Ahwahnee
+8749-JMNKX,Montebello
+8749-TZYEC,"Yorba Linda"
+8750-QWZAJ,Orange
+8751-EDEKA,"Rancho Santa Fe"
+8752-GHJFU,Applegate
+8752-IMQOS,Fullerton
+8752-STIVR,Elmira
+8755-IWJHN,Honeydew
+8755-OGKNA,Laton
+8756-RDDLT,"San Leandro"
+8757-TFHHJ,"San Jose"
+8760-ZRHKE,"Berry Creek"
+8761-NSOBC,Gridley
+8763-KIAFH,Whittier
+8766-PAFNE,Hayward
+8769-KKTPH,"Los Angeles"
+8773-HHUOZ,"Los Angeles"
+8774-GSBUN,Compton
+8775-CEBBJ,Seeley
+8775-ERLNB,Indio
+8775-LHDJH,"San Jose"
+8777-MBMTS,"West Covina"
+8777-PVYGU,Burson
+8778-LMWTJ,"River Pines"
+8779-QRDMV,"Los Angeles"
+8779-YIQQA,"Pico Rivera"
+8780-IHCRN,Healdsburg
+8780-IXSTS,"San Diego"
+8780-RSYYU,Dixon
+8780-YRMTT,Yountville
+8782-LKFPK,Beaumont
+8782-NUUOL,"Crescent Mills"
+8784-CGILN,Tarzana
+8785-CJSHH,"West Sacramento"
+8785-EPNCG,Sacramento
+8788-DOXSU,"Frazier Park"
+8791-GFXLZ,"San Jose"
+8792-AOROI,Glendora
+8799-OXZMD,"Los Angeles"
+8800-JOOCF,Fallbrook
+8800-ZKRFW,Philo
+8802-UNOJF,Philo
+8805-JNRAZ,"Huntington Beach"
+8806-EAGWC,"Old Station"
+8807-ARQET,"Angels Camp"
+8807-OPMBM,"Newbury Park"
+8808-ELEHO,Modesto
+8809-RIHDD,Sacramento
+8809-XKHMD,Sacramento
+8812-ZRHFP,"San Francisco"
+8815-LMFLX,Martinez
+8816-VXNZD,Coronado
+8818-DOPVL,"El Cerrito"
+8818-XYFCQ,"Walnut Creek"
+8819-IMISP,Redlands
+8819-WFGGJ,Grimes
+8819-ZBYNA,Murrieta
+8821-KVZKQ,"Fort Bragg"
+8821-XNHVZ,"San Diego"
+8822-KNBHV,"Los Angeles"
+8823-RLPWL,Rosamond
+8824-RWFXJ,"Santa Cruz"
+8835-VSDSE,"San Diego"
+8837-VVWLQ,"Capistrano Beach"
+8838-GPHZP,Orange
+8840-DQLGN,Burbank
+8844-TONUD,Acampo
+8845-LWKGE,"El Dorado"
+8847-GEOOQ,Fontana
+8849-AYPTR,Sacramento
+8849-GYOKR,Mineral
+8849-PRIQJ,"Simi Valley"
+8851-RAGOV,"Simi Valley"
+8853-TZDGH,"Palo Cedro"
+8854-CCVSQ,"Browns Valley"
+8857-CUPFQ,Wallace
+8859-AXJZP,Helm
+8859-DZTGQ,Petaluma
+8859-YSTWS,"Port Hueneme"
+8861-HGGKB,"San Diego"
+8865-TNMNX,"Los Angeles"
+8868-GAGIO,Sunnyvale
+8868-WOZGU,Porterville
+8869-LIHMK,"King City"
+8869-TORSS,"Santa Rosa"
+8871-JLMHM,"Los Angeles"
+8873-GLDMH,Courtland
+8873-TMKGR,Sugarloaf
+8874-EJNSR,Salinas
+8875-AKBYH,Mineral
+8878-HMWBV,Nice
+8878-RYUKI,"Long Beach"
+8879-XUAHX,Irvine
+8879-ZKJOF,Gardena
+8882-TLVRW,"Big Creek"
+8883-ANODQ,Termo
+8883-GRDWQ,"Stinson Beach"
+8884-ADFVN,Roseville
+8884-FEEWR,"El Dorado Hills"
+8884-MRNSU,Caruthers
+8885-QSQBX,"Forest Falls"
+8887-IPQNC,"Manhattan Beach"
+8894-JVDCV,Riverside
+8896-BQTTI,Cool
+8896-RAZCR,"Oro Grande"
+8898-KASCD,Biggs
+8901-HJXTF,"San Diego"
+8901-UPRHR,"La Grange"
+8902-ZEOVF,Chilcoot
+8903-WMRNW,Durham
+8903-XEBGX,Lancaster
+8904-OPDCK,"Citrus Heights"
+8905-IAZPF,"Capistrano Beach"
+8908-NMQTX,"Walnut Creek"
+8908-SLFCJ,Oroville
+8909-BOLNL,"San Francisco"
+8910-ICHIU,Essex
+8910-LEDAG,Prather
+8914-RBTSB,"Valley Village"
+8915-NNTRC,"Lake Isabella"
+8917-FAEMR,Vallejo
+8917-SZTTJ,"Los Angeles"
+8919-FYFQZ,Livermore
+8920-NAVAY,"Los Angeles"
+8922-LIEGH,Jolon
+8922-NPKBJ,Manteca
+8929-KSWIH,"San Jose"
+8930-XOTDP,"North Hollywood"
+8931-GJJIQ,Burlingame
+8932-CZHRQ,Bell
+8937-RDTHP,Burbank
+8938-UMKPI,Corona
+8942-DBMHZ,"San Francisco"
+8943-URTMR,Lawndale
+8944-AILEF,Keyes
+8945-GRKHX,"Santa Barbara"
+8945-MUQUF,Fallbrook
+8946-BFWSG,Davis
+8947-YRTDV,Hoopa
+8949-JTMAY,"Mc Kittrick"
+8950-MTZNV,Carson
+8952-WCVCD,"South Gate"
+8957-THMOA,"Big Bear City"
+8958-JPTRR,Calabasas
+8961-QDZZJ,"Lake Arrowhead"
+8963-JLGJT,"Santa Barbara"
+8963-MQVYN,"Lost Hills"
+8966-KZXXA,"Long Beach"
+8966-OIQHG,Stanton
+8966-SNIZF,Vista
+8967-SZQAS,Hornitos
+8969-PRHFK,"Red Bluff"
+8970-ANWXO,Sacramento
+8972-HJWNV,Huron
+8974-OVACP,Yermo
+8975-SKGRX,"Redwood City"
+8976-OQHGT,Lomita
+8979-CAMGB,Vacaville
+8980-WQFWL,Ontario
+8981-FJGLA,Hemet
+8982-NHAVY,Littlerock
+8984-EYLLL,"San Diego"
+8984-HPEMB,"Lytle Creek"
+8985-OOPOS,Occidental
+8988-ECPJR,"Van Nuys"
+8990-YOZLV,Hickman
+8990-ZXLSU,"Sun City"
+8992-CEUEN,Arnold
+8992-JQYUN,"San Fernando"
+8992-OBVDG,"Desert Hot Springs"
+8992-VONJD,"Long Beach"
+8993-IZEUX,Adin
+8993-PHFWD,"Old Station"
+8996-ZROXE,Miranda
+8999-BOHSE,Gilroy
+8999-EXMNO,"Dos Rios"
+8999-XXGNS,Healdsburg
+8999-YPYBV,"Garden Valley"
+9000-PLFUZ,Merced
+9003-CPATH,Carson
+9013-AQORL,Ramona
+9018-PCIOK,Newark
+9019-QVLZD,Oakland
+9025-AOMKI,Carpinteria
+9025-ZRPVR,"Pacific Grove"
+9026-LHEVG,Boulevard
+9026-RNUJS,"Van Nuys"
+9027-TMATR,"Warner Springs"
+9027-YFHQJ,"San Francisco"
+9028-LIHRP,Burbank
+9029-FEGVJ,Escondido
+9030-QGZNL,Corona
+9031-ZVQPT,"San Francisco"
+9033-EOXWV,Oakland
+9036-CSKBW,"Los Gatos"
+9039-RBEEE,"Santa Clara"
+9039-ZVJDC,"Pauma Valley"
+9040-KZVWO,"Big Bear Lake"
+9046-DQMTP,Kyburz
+9046-JBFWA,"Port Costa"
+9048-JVYVF,Fallbrook
+9050-IKDZA,Clovis
+9050-QLROH,"San Diego"
+9052-DHNKM,"Redondo Beach"
+9052-VKDUW,"Pollock Pines"
+9053-EJUNL,Mecca
+9053-JZFKV,Redway
+9054-FOWNV,Brentwood
+9055-MOJJJ,"Douglas City"
+9057-MSWCO,"San Diego"
+9057-SIHCH,"Twentynine Palms"
+9058-CBREO,Winton
+9058-HRZSV,"Baldwin Park"
+9058-MJLZC,"Yuba City"
+9060-HJJRW,"Culver City"
+9061-TIHDA,Murrieta
+9063-ZGTUY,Adelanto
+9065-ZCPQX,"San Jacinto"
+9066-QRSDU,Marina
+9067-SQTNS,Salinas
+9067-YGSCA,Salinas
+9068-FHQHD,Petrolia
+9068-VPWQQ,Tracy
+9069-LGEUL,"San Diego"
+9070-BCKQP,Wilmington
+9073-ZZIAY,"Long Beach"
+9074-KGVOX,Westport
+9076-AXYIK,Nipton
+9079-LWTFD,Pioneertown
+9079-YEXQJ,Chino
+9081-WWXKP,Soledad
+9084-OAYKL,"Little River"
+9086-YJYXS,"San Martin"
+9087-EYCPR,Manteca
+9089-UOWJG,Lotus
+9090-SGQXL,"Ben Lomond"
+9091-WTUUY,Ripon
+9092-GDZKO,"New Cuyama"
+9093-FPDLG,Hilmar
+9094-AZPHK,"San Bernardino"
+9095-HFAFX,"San Diego"
+9097-ZUBYC,"North San Juan"
+9099-FTUHS,"Grass Valley"
+9101-BWFSS,Tollhouse
+9101-NTIXF,Lompoc
+9102-IAYHT,Salinas
+9102-OXKFY,Camptonville
+9103-CXVOK,"Grover Beach"
+9103-TCIHJ,"Los Angeles"
+9107-UKCKY,Carpinteria
+9108-EJFJP,Jacumba
+9108-EQPNQ,"San Leandro"
+9110-HSGTV,"San Diego"
+9112-WSNPU,Monterey
+9114-AAFQH,"North Highlands"
+9114-DPSIA,Stockton
+9114-VEPUF,"Redwood City"
+9115-YQHGA,Lemoore
+9117-SHLZX,Fremont
+9121-PHQSR,Stratford
+9122-UMROB,"Los Angeles"
+9124-LHCJQ,"Los Angeles"
+9127-FHJBZ,Vallecito
+9127-QRZMH,"Santa Ana"
+9128-CPXKI,Nicolaus
+9129-UXERG,"Van Nuys"
+9133-AYJZG,"Mill Valley"
+9134-CEQMF,Nice
+9134-WYRVP,"Suisun City"
+9135-HSWOC,Fremont
+9135-MGVPY,Sanger
+9136-ALYBR,Fontana
+9137-NOQKA,"South San Francisco"
+9137-UIYPG,"Butte City"
+9138-EFSMO,Orosi
+9139-TWBAS,"Los Angeles"
+9139-WQQDY,"San Diego"
+9140-CZQZZ,"Lee Vining"
+9142-KZXOP,Sylmar
+9142-XMYJH,Fresno
+9143-CANJF,Topaz
+9146-JRIOX,"Shaver Lake"
+9150-HEPMB,Corona
+9150-KPBJQ,"Los Angeles"
+9152-AMKAK,Coalinga
+9153-BTBVV,"San Francisco"
+9154-QDGTH,"Kettleman City"
+9158-VCTQB,"Los Angeles"
+9163-GHAYE,Stockton
+9167-APMXZ,"Long Beach"
+9168-INPSZ,"Port Hueneme"
+9169-BSVIN,Winchester
+9170-ARBTB,Felton
+9170-CCKOU,Fremont
+9170-GYZJC,Vallecito
+9172-ANCRX,Carson
+9172-JITSM,"Palm Desert"
+9173-IVZVP,"Sherman Oaks"
+9174-FKWZE,Sacramento
+9174-IHETN,"Goodyears Bar"
+9178-JHUVJ,"Newbury Park"
+9184-GALIL,Mccloud
+9185-TQCVP,Albany
+9189-JWSHV,Helm
+9190-MFJLN,Vallecito
+9191-MYQKX,Lynwood
+9194-GFVOI,Tahoma
+9199-PWQVC,"San Francisco"
+9200-NLNPD,Orland
+9206-GVPEQ,Fresno
+9207-ZPANB,Paradise
+9208-OLGAQ,Berkeley
+9209-NWPGU,Niland
+9210-IAHGH,Wendel
+9214-EKVXR,"San Francisco"
+9220-CXRSC,Heber
+9220-ZNKJI,Cobb
+9221-OTIVJ,Dunlap
+9223-UCPVT,Orland
+9224-VTYID,"Walnut Grove"
+9225-BZLNZ,"Los Angeles"
+9227-LUNBG,Pescadero
+9227-UAQFT,"North Hollywood"
+9227-YBAXE,"Palm Desert"
+9229-RQABD,"Salton City"
+9231-ZJYAM,"Squaw Valley"
+9233-PSYHO,Ontario
+9236-NDUCW,"Bella Vista"
+9237-HQITU,"Los Angeles"
+9239-GZHZE,Carpinteria
+9239-ZBZZV,"Los Angeles"
+9242-TKFSV,"Browns Valley"
+9244-ZVAPM,"Garden Grove"
+9248-OJYKK,"San Diego"
+9249-FXSCK,Acampo
+9250-WYPLL,Fallbrook
+9251-AWQGT,Palmdale
+9251-WNSOD,Bakersfield
+9253-QXKBE,"Morgan Hill"
+9253-VIFJQ,Chualar
+9254-RBFON,"Klamath River"
+9256-JTBNZ,"Potter Valley"
+9257-AZMTZ,Glendale
+9258-CNWAC,"Long Beach"
+9259-PACGQ,"Los Angeles"
+9261-WDCAF,Bonita
+9269-CQOOL,Trinidad
+9272-LSVYH,Courtland
+9274-CNFMO,Pacoima
+9274-UARKJ,Modesto
+9277-JOOMO,Garberville
+9278-VZKCD,Norco
+9279-CJEOJ,Anaheim
+9281-CEDRU,"Salton City"
+9281-OFDMF,"Meadow Valley"
+9281-PKKZE,Azusa
+9282-IZGQK,Irvine
+9283-LZQOH,Antelope
+9286-BHDQG,"Thousand Oaks"
+9286-DOJGF,Lotus
+9289-LBQVU,Hemet
+9290-SHCMB,Brownsville
+9294-TDIPC,"San Diego"
+9297-EONCV,Fremont
+9297-FVVDH,Hemet
+9298-WGMRW,"Echo Lake"
+9300-AGZNL,"Elk Creek"
+9300-RENDD,"Cedar Glen"
+9305-CDSKC,"Los Angeles"
+9306-CPCBC,"Moreno Valley"
+9308-ANMVE,"Los Olivos"
+9309-BZGNT,"Pine Valley"
+9313-CDOGY,"Imperial Beach"
+9313-QOLTZ,Chester
+9314-IJWSQ,Meridian
+9314-QDMDW,"Los Alamos"
+9317-WZPGV,Paskenta
+9318-NKNFC,Twain
+9323-HGFWY,"Porter Ranch"
+9327-QSDED,Quincy
+9330-DHBFL,"San Jose"
+9330-IJWIO,Kirkwood
+9330-VOFSZ,Princeton
+9332-GYWLO,"Fall River Mills"
+9334-GWGOW,"Mc Kittrick"
+9337-SRRNI,"Rio Oso"
+9339-FIIJL,Avenal
+9342-VNIMQ,"La Honda"
+9347-AERRL,"Desert Hot Springs"
+9348-ROUAI,Honeydew
+9348-YVOMK,Anaheim
+9350-VLHMB,Volcano
+9350-ZXYJC,"La Crescenta"
+9351-HXDMR,"Lytle Creek"
+9351-LZYGF,Bodega
+9355-NPPFS,Fremont
+9356-AXGMP,Somerset
+9357-UJRUN,Carlotta
+9359-JANWS,"North Hills"
+9359-UGBTK,Lockeford
+9360-AHGNL,Concord
+9360-OMDZZ,Herald
+9361-YNQWJ,Oakland
+9362-MWODR,"San Mateo"
+9364-YKUVW,"Valley Center"
+9365-CSLBQ,Richgrove
+9365-SRSZE,"Los Angeles"
+9367-OIUXP,Laton
+9367-TCUYN,"Los Angeles"
+9367-WXLCH,Glendale
+9369-XFEHK,Pleasanton
+9371-BITHB,Gustine
+9372-TXXPS,Burson
+9373-WSLOY,Carlsbad
+9374-YOLBJ,"Upper Lake"
+9375-MHRRS,"San Jose"
+9378-FXTIZ,"San Diego"
+9381-NDKME,"El Monte"
+9385-EHGDO,Lakeside
+9385-NXKDA,Hesperia
+9386-LDCZR,"San Ardo"
+9388-ZEYVT,Gardena
+9389-ACWBI,Richvale
+9391-DXGGG,Sacramento
+9391-EOYLI,Lewiston
+9391-LMANN,"Pico Rivera"
+9391-TTOYH,Oakland
+9391-YZEJW,"Mountain View"
+9392-XBGTD,Aptos
+9396-ZSFLL,Carpinteria
+9397-TZSHA,Watsonville
+9398-MMQTO,"Borrego Springs"
+9399-APLBT,Rialto
+9402-CXWPL,"Birds Landing"
+9402-ORRAH,"La Canada Flintridge"
+9402-ROUMJ,"La Habra"
+9405-GPBBG,"Carmel By The Sea"
+9408-HRXRK,Annapolis
+9408-SSNVZ,"Stevenson Ranch"
+9411-TPQQV,"Santa Barbara"
+9412-ARGBX,Downey
+9412-GHEEC,Murrieta
+9415-DPEWS,Carmichael
+9415-TPKRV,"Dos Rios"
+9415-ZNBSX,Cool
+9418-RUKPH,Newark
+9419-IPPBE,"Solana Beach"
+9420-LOJKX,"Los Angeles"
+9424-CMPOG,Bakersfield
+9426-SXNHE,Orleans
+9430-FRQOC,"San Diego"
+9430-NKQLY,Arcadia
+9432-RUVSL,Kirkwood
+9432-VOFYX,Delano
+9435-JMLSX,"Monte Rio"
+9436-ZBZCT,Inglewood
+9441-QHEVC,"San Diego"
+9442-JTWDL,Heber
+9443-JUBUO,Hoopa
+9444-JTXHZ,Tulare
+9445-SZLCH,"Santa Clara"
+9445-ZUEQE,"Buena Park"
+9447-YPTBX,Alhambra
+9448-REEVD,Concord
+9450-TRJUU,Bakersfield
+9451-LPGOO,Fallbrook
+9451-WLYRI,Ranchita
+9453-PATOS,Gualala
+9462-MJUAW,Berkeley
+9465-RWMXL,"San Diego"
+9467-ROOLM,Gridley
+9469-WEJBT,"Carnelian Bay"
+9470-RTWDV,Tustin
+9470-XCCEM,Torrance
+9470-YFUYI,Redway
+9473-CBZOP,"Avila Beach"
+9474-PHLYD,"Sherman Oaks"
+9475-NNDGC,Etna
+9477-LGWQI,Darwin
+9479-HYNYL,"La Jolla"
+9480-BQJEI,Sacramento
+9481-IEBZY,Nuevo
+9481-SFCQY,"Bass Lake"
+9481-WHGWY,Pleasanton
+9483-GCPWE,Earp
+9488-FVZCC,Rialto
+9488-FYQAU,Artesia
+9488-HGMJH,"Indian Wells"
+9489-DEDVP,"Los Angeles"
+9489-JMTTN,Hickman
+9489-UTFKA,"Travis Afb"
+9490-DFPMD,"San Diego"
+9492-TOKRI,Dinuba
+9494-BDNNC,"Los Angeles"
+9494-MRNYX,"Meadow Valley"
+9495-REDIY,Calexico
+9495-SKLKD,Marysville
+9496-IVVRP,"Lake Elsinore"
+9497-QCMMS,"San Diego"
+9498-FIMXL,Oceanside
+9499-XPZXM,"Burnt Ranch"
+9500-IWPXQ,"West Sacramento"
+9500-LTVBP,"Rancho Palos Verdes"
+9500-WBGRP,Danville
+9501-UKKNL,"Diamond Bar"
+9503-XJUME,Bolinas
+9504-DSHWM,Litchfield
+9504-YAZWB,"Mountain Center"
+9505-SQFSW,Tehachapi
+9506-UXUSK,"San Jose"
+9507-EXLTT,Seaside
+9507-HSMMZ,"Thousand Oaks"
+9508-ILZDG,"Dillon Beach"
+9509-MPYOD,Newcastle
+9512-PHSMG,Merced
+9512-UIBFX,"West Covina"
+9513-DXHDA,Auburn
+9514-JDSKI,"El Monte"
+9518-IMLHK,Sacramento
+9518-RWHZL,Penryn
+9518-XXBXE,Patterson
+9522-BNTHX,Caliente
+9522-ZSINC,"Santa Rosa"
+9524-EGPJC,"Walnut Creek"
+9526-BIHHD,"San Jose"
+9526-JAWYF,"San Diego"
+9529-OFXHY,"Elk Creek"
+9530-EHPOH,"San Diego"
+9530-GRMJG,Whittier
+9531-NSBMR,Mendocino
+9534-NSXEM,Watsonville
+9537-JALFH,Imperial
+9537-VHDTA,Corona
+9540-JYROE,Bonita
+9541-PWTWO,"Willow Creek"
+9541-ZPSEA,"San Andreas"
+9544-PYPSJ,"El Cajon"
+9546-CQJSU,"Soda Springs"
+9546-KDTRB,Pasadena
+9547-ITEFG,"San Diego"
+9548-LERKT,Willows
+9548-LIGTA,Tustin
+9548-ZMVTX,Visalia
+9552-TGUZV,Upland
+9553-DLCLU,Stockton
+9554-DFKIC,"Villa Park"
+9555-SAHUZ,Kernville
+9558-IHEZX,Litchfield
+9560-ARGQJ,Quincy
+9560-BBZXK,Whittier
+9564-KCLHR,"San Diego"
+9565-AXSMR,Greenfield
+9565-DJPIB,Vallejo
+9565-FLVCG,Lamont
+9565-JSNFM,"Meadow Valley"
+9570-KYEUA,Casmalia
+9571-EDEBV,"San Diego"
+9572-MTILT,Fullerton
+9572-WUKSB,"South Pasadena"
+9574-BOSMD,Arvin
+9574-RKJIF,"Trabuco Canyon"
+9575-IWCAZ,Valencia
+9576-ANLXO,Earlimart
+9576-SYUHJ,"Long Beach"
+9577-WJVCQ,"West Covina"
+9578-FOMUK,"Santa Clara"
+9578-VRMNM,Summerland
+9581-GVBXT,"Santa Maria"
+9584-EXCDZ,"San Francisco"
+9585-KKMFD,"San Miguel"
+9586-JGQKH,"Cathedral City"
+9588-OZDMQ,Tollhouse
+9588-YRFHY,Santee
+9589-ABEPT,"El Segundo"
+9591-YVTEB,"National City"
+9592-ERDKV,"Mc Farland"
+9593-CVZKR,"Los Angeles"
+9600-NAXZN,"San Diego"
+9600-UDOPK,"San Francisco"
+9601-BRXPO,"San Diego"
+9602-WCXPI,Hemet
+9603-OAIHC,Palmdale
+9605-WGJVW,Stockton
+9606-PBKBQ,"Long Beach"
+9609-BENEA,"Chula Vista"
+9610-WCESF,Sacramento
+9611-CTWIH,"Garden Grove"
+9614-RMGHA,"San Diego"
+9617-INGJY,"Manhattan Beach"
+9617-UDPEU,Loyalton
+9618-LFJRU,Inglewood
+9619-GSATL,"Dos Rios"
+9620-ENEJV,Vina
+9620-QJREV,Weldon
+9621-OUPYD,Lancaster
+9624-EGDEQ,"Palo Alto"
+9625-QNLUX,"San Jose"
+9625-QSTYE,"San Francisco"
+9625-RZFUK,Alameda
+9626-VFRGG,Susanville
+9626-WEQRM,Cedarville
+9629-NHXFW,Downey
+9631-RXVJM,"San Francisco"
+9631-XEYKE,Rialto
+9633-DENPU,"Long Beach"
+9633-XQABV,"Los Banos"
+9637-CDTKZ,Fallbrook
+9637-EIHEQ,"San Diego"
+9638-JIQYA,Ballico
+9639-BUJXT,Santee
+9640-ZSLDC,Lagunitas
+9643-AVVWI,"Los Angeles"
+9643-YBLUR,"West Covina"
+9644-KVCNC,"Fountain Valley"
+9644-UMGQA,"Penn Valley"
+9646-NMHXE,"San Geronimo"
+9647-ERGBE,Turlock
+9648-BCHKM,Palmdale
+9650-VBUOG,Tranquillity
+9651-GTSAQ,Corning
+9658-WYUFB,Lathrop
+9659-QEQSY,"Los Angeles"
+9659-ZTWSM,"Los Angeles"
+9661-ACXBS,"San Rafael"
+9661-JALZV,Atascadero
+9661-MHUMO,Mather
+9667-EQRXU,Boron
+9667-TKTVZ,"Los Osos"
+9668-PUGNU,Escondido
+9670-BPNXF,Glennville
+9674-EHPPG,Berkeley
+9675-ICXCT,"El Cajon"
+9677-AVKED,"La Verne"
+9680-NIAUV,"West Hills"
+9681-KYGYB,Kelseyville
+9681-OXGVC,Laytonville
+9685-WKZGT,Carmichael
+9688-YGXVR,Salida
+9689-PTNPG,"San Diego"
+9691-HKOVS,"San Jose"
+9692-TUSXH,"Los Angeles"
+9693-XMUOB,"Palo Alto"
+9695-IDRZR,Greenville
+9696-RMYBA,"Los Angeles"
+9699-UBQFS,"Los Angeles"
+9700-ISPUP,"Valley Center"
+9700-ZCLOT,Claremont
+9701-CDXHR,Fallbrook
+9702-AIUJO,"Santa Paula"
+9705-IOVQQ,"Huntington Park"
+9705-ZJBCG,"Frazier Park"
+9708-HPXWZ,"El Sobrante"
+9708-KFDBY,Oceanside
+9710-NJERN,"Palm Desert"
+9710-ZUSHQ,"Red Bluff"
+9711-FJTBX,Pittsburg
+9714-EDSUC,Alviso
+9715-SBVSU,"Loma Linda"
+9715-WZCLW,Fontana
+9717-IOAAF,Rocklin
+9717-QEBGU,Leggett
+9720-JJJOR,"San Ysidro"
+9722-UJOJR,"Blairsden Graeagle"
+9725-SCPZG,"South Lake Tahoe"
+9728-FTTVZ,Williams
+9730-DRTMJ,Coarsegold
+9732-EQMWY,Concord
+9732-KPKBW,Oroville
+9732-OUYRN,"Union City"
+9734-UYXQI,Fallbrook
+9734-YWGEX,"South San Francisco"
+9738-QLWTP,"Santa Ysabel"
+9739-JLPQJ,"Long Beach"
+9741-YLNTD,Greenfield
+9742-XOKTS,"Santa Clara"
+9743-DQKQW,Escalon
+9746-MDMBK,Manton
+9746-UGFAC,Carlotta
+9746-YKGXB,Sacramento
+9747-DDZOS,Eldridge
+9750-BOOHV,Torrance
+9752-ZNQUT,Visalia
+9753-OYLBX,"San Diego"
+9754-CLVZW,Marysville
+9755-JHNMN,Bakersfield
+9758-MFWGD,Hawthorne
+9761-XUJWD,Fresno
+9762-YAQAA,"Seal Beach"
+9763-GRSKD,"Los Angeles"
+9763-PDTKK,"San Jose"
+9764-REAFF,Stonyford
+9766-HGEDE,Paradise
+9767-FFLEM,Westmorland
+9769-TSBZE,Tupman
+9770-KXGQU,"Moreno Valley"
+9770-LXDBK,"Los Angeles"
+9773-PEQBZ,"Lake Elsinore"
+9774-NRNAU,Cabazon
+9776-CLUJA,Sacramento
+9776-OJUZI,"Lost Hills"
+9777-IQHWP,Greenfield
+9777-WJJPR,Sacramento
+9778-OGKQZ,Fresno
+9779-DPNEJ,Nipton
+9780-FKVVF,Firebaugh
+9782-LGXMC,"Walnut Creek"
+9786-IJYDL,Redway
+9786-YWNHU,Fontana
+9787-XVQIU,Sugarloaf
+9788-HNGUT,Cabazon
+9788-YTFGE,Fortuna
+9793-WECQC,Foresthill
+9795-NREXC,Stockton
+9795-SHUHB,"The Sea Ranch"
+9795-VOWON,"Los Angeles"
+9796-BPKIW,"Redwood City"
+9796-MVYXX,Weldon
+9798-DRYDS,"Huntington Beach"
+9798-OPFEM,Adin
+9799-CAYJJ,"West Hills"
+9800-ONTFE,Brooks
+9800-OUIGR,Oakland
+9801-GDWGV,Temecula
+9801-NOSHQ,Shingletown
+9802-CAQUT,Coarsegold
+9803-FTJCG,"Playa Del Rey"
+9804-ICWBG,"Pacific Palisades"
+9805-FILKB,Temecula
+9809-IMGCQ,"Canyon Dam"
+9812-GHVRI,Clements
+9814-AOUDH,Arbuckle
+9817-APLHW,"Los Angeles"
+9818-XQCUV,Dunsmuir
+9819-FBNSV,"El Cajon"
+9820-RMCQV,"San Marino"
+9821-BESNZ,Northridge
+9821-POOTN,"San Dimas"
+9822-BIIGN,"Los Altos"
+9822-OAOVB,"Santa Maria"
+9822-WMWVG,"Grand Terrace"
+9823-EALYC,Bakersfield
+9824-BEMCV,Modesto
+9824-QCJPK,Sacramento
+9825-YCXWZ,"Loma Mar"
+9828-AOQLM,"San Diego"
+9828-QHFBK,"Montgomery Creek"
+9830-ECLEN,Winton
+9831-BPFRI,Ferndale
+9833-TGFHX,"San Diego"
+9835-ZIITK,Campbell
+9837-BMCLM,Stockton
+9837-FWLCH,"Palm Springs"
+9838-BFCQT,"San Jose"
+9839-ETQOE,Vista
+9840-DVNDC,Lancaster
+9840-EFJQB,Sylmar
+9842-EFSYY,Markleeville
+9844-FELAJ,Sacramento
+9845-PEEKO,Brookdale
+9845-QOMAD,"Long Beach"
+9846-GKXAS,Burlingame
+9847-HNVGP,"Monterey Park"
+9848-JQJTX,Venice
+9850-OWRHQ,Torrance
+9851-KIELU,"Loma Mar"
+9851-QXEEQ,Bangor
+9853-JFZDU,"Gold Run"
+9860-LISIZ,"Palm Springs"
+9861-PDSZP,Delano
+9862-KJTYK,"Newport Beach"
+9863-JZAIC,"Long Beach"
+9866-OCCKE,"San Diego"
+9866-QEVEE,Modesto
+9867-JCZSP,"Los Angeles"
+9867-NNXLC,"Pacific Grove"
+9867-XOBQA,Pasadena
+9871-ELEYA,"Del Rey"
+9873-MNDKV,"San Gregorio"
+9874-QLCLH,Northridge
+9878-TNQGW,Davenport
+9880-TDQAC,"El Cajon"
+9881-VCZEP,"San Jose"
+9885-AIBVB,Newcastle
+9885-CSMWE,"Los Angeles"
+9885-MFVSU,Poway
+9888-ZCUMM,"Los Angeles"
+9889-TMAHG,Fremont
+9891-NQDBD,"Lake Forest"
+9894-EZEWG,"Walnut Grove"
+9894-QMIMJ,"North Hollywood"
+9895-VFOXH,Scotia
+9896-UYMIE,"Valley Ford"
+9897-KXHCM,Modesto
+9898-KZQDZ,"Lee Vining"
+9903-LYSAB,"Studio City"
+9904-EHEVJ,"Bethel Island"
+9906-NHHVC,Macdoel
+9907-SWKKF,Twain
+9909-DFRJA,"Goodyears Bar"
+9909-IDLEK,Malibu
+9912-GVSEQ,Napa
+9912-OMZDS,"Playa Del Rey"
+9916-AYHTC,Altadena
+9917-KWRBE,Anaheim
+9919-FZDED,"Yucca Valley"
+9919-KNPOO,"La Mirada"
+9919-YLNNG,Malibu
+9921-EZKBY,Fallbrook
+9921-QFQUL,"Garden Valley"
+9921-ZVRHG,Traver
+9924-JPRMC,Lockeford
+9926-PJHDQ,Kingsburg
+9927-DSWDF,"Palos Verdes Peninsula"
+9928-BZVLZ,"Sunset Beach"
+9929-PLVPA,Capitola
+9931-DCEZH,Roseville
+9931-KGHOA,"Santa Barbara"
+9932-WBWIK,"Lake Isabella"
+9933-QRGTX,Windsor
+9938-EKRGF,Lewiston
+9938-PRCVK,"Stevenson Ranch"
+9938-TKDGL,Llano
+9938-ZREHM,Oxnard
+9940-HPQPG,"North Hollywood"
+9940-RHLFB,"Sunset Beach"
+9943-VSZUV,Alamo
+9944-AEXBM,Casmalia
+9944-HKVVB,"King City"
+9945-PSVIP,Dulzura
+9947-OTFQU,Covina
+9948-YPTDG,"San Rafael"
+9950-MTGYX,"San Jose"
+9953-ZMKSM,Pinole
+9955-QOPOY,Sunnyvale
+9957-YODKZ,Canby
+9958-MEKUC,Pacifica
+9959-WOFKT,"Los Angeles"
+9961-JBNMK,"Desert Center"
+9962-BFPDU,Kenwood
+9964-WBQDJ,"West Hollywood"
+9965-YOKZB,"Grizzly Flats"
+9967-ATRFS,Calipatria
+9968-FFVVH,"Potter Valley"
+9970-QBCDA,"March Air Reserve Base"
+9971-ZWPBF,Orinda
+9972-EWRJS,"Meadow Valley"
+9972-NKTFD,"Forest Ranch"
+9972-VAFJJ,"San Diego"
+9974-JFBHQ,"Del Rey"
+9975-GPKZU,Alameda
+9975-SKRNR,Sierraville
+9978-HYCIN,Bakersfield
+9979-RGMZT,"Los Angeles"
+9985-MWVIX,Hume
+9986-BONCE,Fallbrook
+9987-LUTYD,"La Mesa"
+9992-RRAMN,Riverbank
+9992-UJOEL,Elk
+9993-LHIEB,"Solana Beach"
+9995-HOTOH,"Sierra City"
