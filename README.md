@@ -1,4 +1,4 @@
-# Telco-Q3-Churn-and-Retention-Analysis
+# Telco Q3 Churn and Retention Analysis
 
 ## Executive Summary:
 Using SQL, Excel, and Python, I analyzed Q3 customer data from a California based home and internet service provider to gain insights about the key contributing factors that drive customers to leave the services. After identifying that competitive products, fiber optic services, Offer E, and month-to-month contracts were the top contributors to churn, I recommend a few adjustments that will lead to a higher retention of customers: 
