@@ -6,6 +6,9 @@ Using SQL, Excel, and Python, I analyzed Q3 customer data from a California base
 - Implement effective customer service training for support & service personnel
 - Re-evaluate or phase out high churn contributing services while promoting high retention contributing services
 
+
+
+
 ---
 
 ## Business Problem:
