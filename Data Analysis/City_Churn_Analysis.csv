@@ -1,0 +1,11 @@
+city,total_churned,top_reason,toal_churned_for_top_reason,churn_rate
+"San Diego",185,"Competitor made better offer",146,78.9
+"Los Angeles",78,"Competitor had better devices",15,19.2
+"San Francisco",31,"Competitor had better devices",6,19.4
+"San Jose",29,"Competitor had better devices",7,24.1
+Fallbrook,26,"Competitor made better offer",23,88.5
+Sacramento,26,"Competitor had better devices",6,23.1
+Temecula,22,"Competitor made better offer",17,77.3
+Escondido,16,"Competitor made better offer",14,87.5
+"Long Beach",15,Moved,3,20.0
+Glendale,13,"Attitude of support person",4,30.8

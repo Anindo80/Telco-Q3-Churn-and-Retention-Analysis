@@ -1,0 +1,19 @@
+﻿phone_service,multiple_lines,total_churned,total_stayed
+Yes,No,849,2170
+Yes,Yes,850,2076
+,,,
+,,,
+,,,
+internet_service,internet_type,total_churned,total_stayed
+Yes,Cable,213,561
+Yes,Fiber Optic,1236,1698
+Yes,DSL,307,1230
+,,,
+,,,
+,,,
+service_type,total_churned,total_stayed,
+Single Phone Line,849,2170,
+Muliple Phone Line,850,2076,
+Cable Internet,213,561,
+Fiber Optic Internet,1236,1698,
+DSL Internet,307,1230,

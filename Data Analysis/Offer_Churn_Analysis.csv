@@ -1,0 +1,7 @@
+offer,total_used,churned,retained,churn_rate,retain_rate
+None,3598,1051,2547,29.21,70.79
+"Offer E",630,426,204,67.62,32.38
+"Offer D",602,161,441,26.74,73.26
+"Offer A",520,35,485,6.73,93.27
+"Offer C",415,95,320,22.89,77.11
+"Offer B",824,101,723,12.26,87.74

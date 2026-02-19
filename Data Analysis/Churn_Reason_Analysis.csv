@@ -1,0 +1,14 @@
+churn_category,churn_reason,total_churned
+Attitude,"Attitude of support person",220
+Attitude,"Attitude of service provider",94
+Competitor,"Competitor had better devices",313
+Competitor,"Competitor made better offer",311
+Competitor,"Competitor offered more data",117
+Competitor,"Competitor offered higher download speeds",100
+Dissatisfaction,"Product dissatisfaction",77
+Dissatisfaction,"Network reliability",72
+Dissatisfaction,"Service dissatisfaction",63
+Dissatisfaction,"Limited range of services",37
+Dissatisfaction,"Lack of self-service on Website",29
+Dissatisfaction,"Poor expertise of online support",13
+Dissatisfaction,"Poor expertise of phone support",12

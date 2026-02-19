@@ -1,0 +1,16 @@
+contract_type,tenure_group,churned,retained
+Month-to-Month,"0-12 months",1024,481
+Month-to-Month,"13-24 months",278,408
+"One Year","25-36 months",20,248
+Month-to-Month,"37-48 months",106,176
+Month-to-Month,"25-36 months",158,275
+"One Year","13-24 months",16,199
+Month-to-Month,"49+ months",89,207
+"One Year","0-12 months",13,109
+"One Year","49+ months",82,561
+"One Year","37-48 months",35,243
+"Two Year","49+ months",42,1258
+"Two Year","37-48 months",4,198
+"Two Year","25-36 months",2,129
+"Two Year","0-12 months",0,105
+"Two Year","13-24 months",0,123
