@@ -33,7 +33,7 @@ As revenue and performance are directly impacted by customer churn, the company 
 
 ## Skills:
 - Excel: Data Cleaning, Conditional Formatting, Data validation, PivotTables, Pivot Charts, Data visualization
-- SQL: Data Extraction, Data Aggregations, Joins, Nested Queries, CTEs, Window Functions
+- SQL (MySQL Workbench): Data Extraction, Data Aggregations, Joins, Nested Queries, CTEs, Window Functions
 - Python: Pandas, NumPy, matplotlib, scikit learn (sklearn), Logistic Regression model
 
 ---
